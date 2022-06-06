@@ -7,13 +7,10 @@ If you need to find a specific unit fast. clic the unit name to the right of the
 
 **This PA Mod adds about 30 new weird and exotic units: the Thorosmen, to bring more fun and variety to the game.
 From spark that directly teleports to the enemy to landmine-trees replicator, passing by laser eyed anti-air bots as well as flying submarines.  
-Players that search new ways to annihilate the enemy will be entertained for sure.**
-
-***
+Players that search new ways to annihilate the enemy will be entertained for sure.**  
 
 Github link
 https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip
-
 ***
 
 <img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="265">
