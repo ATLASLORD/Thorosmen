@@ -6,7 +6,7 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 
 ***
 
-If you have any suggestion, or request, comment on this thread : 
+If you have any suggestion, or request, comment on this thread:  
 https://github.com/ATLASLORD/Thorosmen/discussions/2
 If you need to find a specific unit clic the unit name to the right of the page that follows this link:
 https://github.com/ATLASLORD/Thorosmen/wiki/Thorosmen
