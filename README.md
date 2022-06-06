@@ -1,13 +1,13 @@
 ## Welcome to the Thorosmen wiki! (WIP)
 
-**This PA Mod adds about 30 new weird and exotic units: the Thorosmen, to bring more fun and variety to the game.
-From spark that directly teleports to the enemy to landmine-trees replicator, passing by laser eyed anti-air bots as well as flying submarines.  
-Players that search new ways to annihilate the enemy will be entertained for sure.**
+If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/2) <br />
+If you need to find a specific unit fast. clic the unit name to the right of the page that follows [THIS LINK](https://github.com/ATLASLORD/Thorosmen/wiki/Thorosmen)
 
 ***
 
-If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/2) <br />
-If you need to find a specific unit fast. clic the unit name to the right of the page that follows [THIS LINK](https://github.com/ATLASLORD/Thorosmen/wiki/Thorosmen)
+**This PA Mod adds about 30 new weird and exotic units: the Thorosmen, to bring more fun and variety to the game.
+From spark that directly teleports to the enemy to landmine-trees replicator, passing by laser eyed anti-air bots as well as flying submarines.  
+Players that search new ways to annihilate the enemy will be entertained for sure.**
 
 ***
 
