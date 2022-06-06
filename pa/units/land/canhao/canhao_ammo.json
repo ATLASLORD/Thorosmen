@@ -1,0 +1,13 @@
+{"base_spec":"/pa/ammo/base_artillery/base_artillery.json",
+"damage":200,
+"splash_damage":20,
+"splash_radius":18,
+"full_damage_splash_radius":10,
+"splash_damages_allies":false,
+"initial_velocity":1000.0,
+"lifetime":3,
+"influence_radius":400,
+"fx_beam_spec":"/pa/units/land/air_defense_adv/air_defense_adv_ammo_beam.pfx",
+"audio_loop":"/SE/Movement/missile/artillery_short_missile_fly_loop",
+"model":{"filename":"/pa/units/air/shell/shell.papa"},
+"events":{"died":{"audio_cue":"/SE/Impacts/missile_artillery_short","effect_spec":"/pa/effects/specs/default_proj_flak_explosion.pfx"}}}

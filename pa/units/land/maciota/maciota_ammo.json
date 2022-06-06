@@ -1,0 +1,20 @@
+{"base_spec":"/pa/ammo/base_laser_blast/base_laser_blast.json",
+"flight_type":"Seeking",
+"damage":5000,
+"splash_damage":500,
+"splash_radius":100,
+"full_damage_splash_radius":30,
+"initial_velocity":1200.0,
+"max_velocity":1000.0,
+"lifetime":5,
+"turn_rate":45,
+"events": {
+		"died": {
+			"audio_cue":"/SE/Death/structure_small",
+			"effect_spec":"/pa/units/land/maciota/orbital_laser_ammo_beam_hit.pfx",
+			"effect_scale":3.0
+		}
+	},
+"damage_volume":{"initial_radius":30.0,"radius_velocity":300.0,"radius_accel":-50.0,"delay":0.5,"burnable_remove_radius":100.0},
+"fx_collision_spec":"/pa/units/land/maciota/orbital_laser_ammo_beam_hit.pfx",
+"fx_trail":{"filename":"/pa/units/land/maciota/ion_defense_proj_trail.pfx"}}

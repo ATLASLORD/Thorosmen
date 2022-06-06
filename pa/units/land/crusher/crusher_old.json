@@ -1,0 +1,139 @@
+{
+    "TEMP_texelinfo": 9.04444,
+    "attachable": {
+        "offsets": {
+            "head": [
+                0,
+                -0.5,
+                6.1
+            ],
+            "root": [
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "audio": {
+        "loops": {
+            "move": {
+                "cue": "/SE/Movement/veh/nuke_tank_loop",
+                "flag": "vel_changed",
+                "should_start_func": "is_moving",
+                "should_stop_func": "is_not_moving"
+            }
+        },
+        "selection_response": {
+            "cue": "/SE/Selection/veh/tank_vagaurd_T2"
+        }
+    },
+    "base_spec": "/pa/units/land/base_vehicle_crusher/base_vehicle_crusher.json",
+    "build_metal_cost": 10000,
+    "description": "!LOC:Giant Bulldozer. Crushes Everything. OOF damage. High. Detects Mines.",
+    "display_name": "Lawnmower",
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/veh"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/Veh",
+            "effect_scale": 3.5,
+            "effect_spec": "/pa/effects/specs/default_explosion_bot_t2.pfx",
+            "effect_scale": 4.0
+        },
+        "fired": {
+            "effect_spec": "/pa/units/land/crusher/blank.pfx.json"
+        }
+    },
+    "guard_layer": "WL_LandHorizontal",
+    "max_health": 40000,
+    "mesh_bounds": [
+        33.5,
+        16.4,
+        15.5
+    ],
+    "model": {
+        "filename": "/pa/units/land/crusher/crusher.papa"
+    },
+    "navigation": {
+        "acceleration": 70,
+        "brake": 70,
+        "group_preference": "front",
+        "move_speed": 12,
+        "turn_speed": 60,
+        "turn_accel":30,
+        "type": "land-small"
+    },
+    "physics": {
+        "allow_pushing": true,
+        "radius": 5
+    },
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "channel": "sight",
+                    "layer": "surface_and_air",
+                    "radius": 150,
+                    "shape": "capsule"
+                },
+                {
+                    "channel": "sight",
+                    "layer": "mine",
+                    "radius": 40,
+                    "shape": "capsule"
+                }
+            ]
+        }
+    },
+    "scrolling_uv":{"scroll_rate":-0.21,
+    "uv_split":0.9
+    },
+    "fx_offsets": [
+    {
+      "bone": "bone_root",
+      "filename": "/pa/units/land/crusher/back_smoke.pfx",
+      "offset": [
+        0,
+        0,
+        30
+      ],
+      "type": "idle"
+    },
+    {
+      "bone": "bone_root",
+      "filename": "/pa/units/land/crusher/back_fire.pfx",
+      "offset": [
+        0,
+        0,
+        30
+      ],
+      "type": "moving_forward"
+    }
+  ],
+    "selection_icon": {
+        "diameter": 56
+    },
+    "tools": [
+        {
+            "aim_bone": "bone_pitch",
+            "muzzle_bone": "socket_blade",
+            "spec_id": "/pa/units/land/crusher/crush_weapon.json"
+        }
+    ],
+    "transportable": {
+        "size": 2
+    },
+    "unit_types": [
+        "UNITTYPE_Tank",
+        "UNITTYPE_Heavy",
+        "UNITTYPE_Mobile",
+        "UNITTYPE_Offense",
+        "UNITTYPE_Deconstruction",
+        "UNITTYPE_Land",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_Titan",
+		"UNITTYPE_Important",
+        "UNITTYPE_FactoryBuild"
+    ]
+}

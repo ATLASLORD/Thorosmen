@@ -1,0 +1,10 @@
+{"base_spec":"/pa/tools/base_laser_turret/base_laser_turret.json",
+"ammo_id":"/pa/units/land/bumba/bumba_ammo.json",
+"rate_of_fire":0.65,
+"max_range":210,
+"yaw_rate":75,
+"pitch_rate":150,
+"yaw_range":140,
+"pitch_range":89.9,
+"auto_attack":true,
+"target_layers":["WL_LandHorizontal","WL_Seafloor","WL_WaterSurface","WL_Air"]}

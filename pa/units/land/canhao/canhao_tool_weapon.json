@@ -1,0 +1,11 @@
+{"base_spec":"/pa/tools/base_laser_turret/base_laser_turret.json",
+"ammo_id":"/pa/units/land/canhao/canhao_ammo.json",
+"rate_of_fire":0.80,
+"max_range":250,
+"yaw_rate":16,
+"pitch_rate":180,
+"yaw_range":180,
+"pitch_range":50,
+"auto_attack":true,
+"target_priorities":["Air & Bomber","Air & Gunship","Air & Transport","Mobile & Air"],
+"target_layers":["WL_LandHorizontal","WL_Seafloor","WL_WaterSurface","WL_Air"]}

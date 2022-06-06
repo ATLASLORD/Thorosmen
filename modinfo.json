@@ -1,0 +1,31 @@
+{
+    "identifier": "com.pa.loloares.thorosmen",
+    "display_name": "Thorosmen",
+    "description": "Adds high tier units to explore the exotic variety of annihilation options",
+    "author": "Mr.Loló and ARES LORD",
+    "signature": "not yet implemented",
+    "download": "https://github.com/ATLASLORD/Thorosmen/blob/main/com.pa.loloares.thorosmen.zip",
+    "priority": 100,
+    "icon": "https://imgur.com/mdh5GPY.jpg",
+    "forum": "https://github.com/ATLASLORD/Thorosmen",
+    "titansOnly": true,
+    "enabled": true,
+    "category": [
+        "balance",
+        "addon",
+        "unit",
+        "titans"
+    ],
+    "scenes": {
+        "shared_build": [
+            "coui://ui/mods/loloares.thorosmen/shared_build.js"
+        ],
+        "icon_atlas": [
+            "coui://ui/mods/loloares.thorosmen/icon_atlas.js"
+        ]
+    },
+    "context": "server",
+    "date": "2022-06-06",
+    "build": "115673",
+    "version": "1"
+}

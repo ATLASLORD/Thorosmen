@@ -1,0 +1,13 @@
+{"base_spec":"/pa/tools/base_laser_turret/base_laser_turret.json",
+"ammo_id":"/pa/units/land/halabib/halabib_ammo.json",
+"rate_of_fire":40,
+"max_range":220,
+"yaw_rate":70,
+"pitch_rate":40,
+"yaw_range":180,
+"pitch_range":100,
+"firing_arc_yaw":1,
+"firing_arc_pitch":1,
+"auto_attack":true,
+"spread_fire":false,
+"target_layers":["WL_Air"]}

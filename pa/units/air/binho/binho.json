@@ -1,0 +1,93 @@
+{"base_spec":"/pa/units/air/base_flyer/base_flyer.json",
+"display_name":"Binho",
+"description":"!LOC:Long range UFO unit. Durable, slow and equiped with two laser cannons. Attacks air and surface targets. Can move among planets.",
+"max_health":5150,
+"build_metal_cost":6200,
+
+
+
+"attachable":{"offsets":{"root":[0,0,0]}},
+
+"unit_types":["UNITTYPE_Bomber","UNITTYPE_Transport","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Air","UNITTYPE_Tactical","UNITTYPE_Advanced","UNITTYPE_FactoryBuild"],
+"command_caps":["ORDER_Move","ORDER_Patrol","ORDER_Assist","ORDER_Load","ORDER_Unload","ORDER_SpecialMove","ORDER_Attack"],
+"guard_layer":"WL_AnySurface",
+"navigation":{"type":"air","inter_planetary_type":"system",
+"acceleration":15,
+"vertical_speed":30,
+"brake":40,
+"move_speed":22,
+"turn_speed":45,
+"dodge_radius":0,
+"dodge_multiplier":0.0,
+
+"system_velocity_multiplier":15.0,
+
+"aggressive_distance":180.0,
+"aggressive_height":100.0,
+"aggressive_behavior":"circle",
+"circle_min_time":2.0,
+"circle_max_time":8.0,
+"hover_time":-1.0,
+"bank_factor":1,
+"wobble_factor":0.1,
+"wobble_speed":0.1},
+"physics":{"radius":12,"gravity_scalar":1,"push_sideways":false,"allow_pushing":false,"air_friction":1.0},
+"recon":{"observer":{"items":[{"layer":"surface_and_air","channel":"sight","shape":"capsule","radius":200},
+{"layer":"underwater","channel":"sight","shape":"capsule","radius":200}]}},
+
+"attachable": {
+    "offsets": {
+      "root": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+
+"transporter": {
+    "capacity": 1,
+    "transportable_unit_types":"(Mobile & Land) | (Fabber & (Air | Naval))",
+    "transporter_attach_bone": "bone_root",
+    "transportable_attach_offset": "head"
+  },
+
+"usable": true,
+  "useable": {
+    "type": "transport",
+    "range": 20
+  },
+
+"tools":[{"spec_id":"/pa/units/air/binho/binho_tool_cu.json",
+"aim_bone":"bone_turret01",
+"record_index":0,
+"fire_event":"fired0",
+"muzzle_bone":["socket_muzzle01_a","socket_muzzle01_b","socket_muzzle01_c"]},
+{"spec_id":"/pa/units/air/binho/binho_tool_weapon.json",
+"aim_bone":"bone_turret02",
+"record_index":1,
+"fire_event":"fired1",
+"muzzle_bone":["socket_muzzle02_right","socket_muzzle02_left"]},
+{"spec_id":"/pa/units/air/binho/binho_tool_weapon.json",
+"aim_bone":"bone_turret03",
+"record_index":2,
+"fire_event":"fired2",
+"muzzle_bone":["socket_muzzle03_right","socket_muzzle03_left"]}],
+
+"model":{"filename":"/pa/units/air/binho/binho.papa",
+"animations":{"fire":"/pa/units/air/binho/binho_anim_fire.papa"},
+"animtree":"/pa/anim/anim_trees/defense_satellite_anim_tree.json"},
+"events":{"child_detached":{"audio_cue":"/SE/Movement/air/transport_unload"},
+"flag":"vel_changed",
+"should_start_func":"is_moving",
+"should_stop_func":"is_not_moving",
+"build_complete":{"audio_cue":"/SE/Build_Complete/orbital"},
+"fired0":{"audio_cue":"/SE/Weapons/orb/defense_satellite_fire","effect_spec":"/pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle02_right /pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle02_left"},
+"fired1":{"audio_cue":"/SE/Weapons/orb/defense_satellite_fire_in_orbit","effect_spec":"/pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle02_right /pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle02_left"},
+"fired2":{"audio_cue":"/SE/Weapons/orb/defense_satellite_fire_in_orbit","effect_spec":"/pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle03_right /pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle03_left"},
+"died":{"audio_cue":"/SE/Death/orbital","effect_spec":"/pa/units/air/base_flyer/base_flyer_death_t2.pfx","effect_scale":2.0}},
+"selection_icon":{"diameter":43.0},
+"fx_offsets":[{"type":"moving_forward","filename":"/pa/units/air/bomber_adv/bomber_adv_jets.pfx","offset":[0,0,0]}],
+"mesh_bounds":[23,23,6],
+"placement_size":[50,50],
+"TEMP_texelinfo":26.4194}
