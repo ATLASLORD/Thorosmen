@@ -7,7 +7,7 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 ***
 
 Github link
-https://github.com/ATLASLORD/Thorosmen/raw/main/com.pa.loloares.thorosmen.zip
+https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip
 
 ***
 
