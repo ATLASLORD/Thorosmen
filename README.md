@@ -37,10 +37,21 @@ before attacking.
 ### Angry Tree <br />
 Kamikaze Trees launcher - shoots moving land mines trees to the enemy.  
 
-| <img src="https://user-images.githubusercontent.com/104906253/172079072-abecd669-737e-4dbf-8806-cd540561f59a.png" width="64">   | Overview  | Physics | Recon  | Build by |
-| :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172079410-898a6af6-5006-473f-b6ca-22af24d4bbb5.png" width="64"> | HP: 2000 <br /> Build cost: 5000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
+| <img src="https://user-images.githubusercontent.com/104906253/172079072-abecd669-737e-4dbf-8806-cd540561f59a.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172079410-898a6af6-5006-473f-b6ca-22af24d4bbb5.png" width="64"> | HP: 2000 <br /> Build cost: 5000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 230 <br /> fire rate: 3 <br /> recharge: 10 sec <br /> | type: summon <br /> energy cost: 5 <br /> speed: 60 <br /> turn rate: 270 <br />
+
+**Moving Tree-Mine (Angry Tree minion)** <br />
+moving mine - destructs when touching any enemy unit to deal very high area damage .  fast and sneaky.
+
+| <img src="https://user-images.githubusercontent.com/104906253/172264600-62fec78e-cb70-4dc3-b326-8d086a509455.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 10 <br /> Build cost: 5 <br /> DPS: 920  <br />  life duration: 10 sec <br />| Max speed: 70 <br /> Acceleration: 40 <br /> Braking rate: 60 <br /> Turn rate: 200 | Vision radius: <br /> 110 <br /> <br /> <br /> | self destruct <br /> range: 5  <br /> target: Land <br />  <br /> | spec: pbaoe <br /> Damage: 1000 <br /> splash radius: 15 <br />  |
+
 <img src="https://user-images.githubusercontent.com/104906253/172079823-d77d715c-45b6-4abe-b0d9-d4fb286bb6c5.png" width="240"> 
+<img src="https://user-images.githubusercontent.com/104906253/172264398-9fb6260a-3a10-4564-a625-cca2b7bf8678.png" width="300"> 
+
+
 
 ***
 
@@ -96,6 +107,8 @@ Long range AA laser bot. Durable. Yeah.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 40 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
+
+<img src="https://user-images.githubusercontent.com/104906253/172261201-33e65200-8d62-4f16-8a4c-47e57b8a2263.png" width="300">
 <img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
 
 ***
@@ -149,12 +162,11 @@ Little Decoy flare hover donut - shoots harmless projectiles to mesmerize enemy 
 Decoy landmine, moves to the enemy to be targeted.
 
 
-| <img src="https://user-images.githubusercontent.com/104906253/172110149-6ce9ce6b-638e-4a99-a189-ec158a1496f8.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
-| :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 7 sec <br />| Max speed: 100 <br /> Acceleration: 60 <br /> Braking rate: 60 <br /> Turn rate: 240 | Vision radius: 110 <br /> <br /> <br /> <br /> | <br />  <br /> <br /> <br />| fire rate: 0 <br /> max range: 0 <br />  <br /> target: Land <br /> |  <br />  <br />   <br />  |
-<img src="https://user-images.githubusercontent.com/104906253/172097043-0e6b679a-0453-469b-a094-8ca403a7228d.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172097807-ae93d75d-d4cf-409f-82d8-64bcbf33c0de.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172097513-b5ad7b86-03d4-4560-a13a-aa569dbce812.png" width="280">  
+| <img src="https://user-images.githubusercontent.com/104906253/172110149-6ce9ce6b-638e-4a99-a189-ec158a1496f8.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 7 sec <br />| Max speed: 100 <br /> Acceleration: 60 <br /> Braking rate: 60 <br /> Turn rate: 240 | Vision radius: 110 <br /> <br /> <br /> <br /> | fire rate: 0 <br /> max range: 0 <br />  <br /> target: Land <br /> |
+<img src="https://user-images.githubusercontent.com/104906253/172260849-f9d6f857-f54d-46f7-b486-aca37300dbfb.png" width="280">
+<img src="https://user-images.githubusercontent.com/104906253/172260854-22c6013f-c665-48df-9332-338f10f16d85.png" width="280">
 
 ***
 
@@ -163,14 +175,33 @@ Flame Tank - Extended range, heavy armored vehicle.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172119596-933fe9f4-3a4a-4bc1-b7a6-67fe4202c4c1.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172087469-59d66fdb-0c77-474d-914e-5228b601106e.png" width="64"> | HP: 900 <br /> Build cost: 500 <br /> DPS: 920  <br />  <br />| Max speed: 8 <br /> Acceleration: 100 <br /> Braking rate: 50 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172258471-09912c6f-da38-45bb-bb3e-77483b381d28.png" width="64"> | HP: 900 <br /> Build cost: 500 <br /> DPS: 460  <br />  <br />| Max speed: 8 <br /> Acceleration: 100 <br /> Braking rate: 50 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Vehicle Factory <br />  Advanced Vehicle Factory <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
-<img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
+| fire rate: 4 <br /> max range: 34 <br /> Target: Land <br /> <br /> | damage: 115 <br /> splash: 0 <br /> spec: beam <br />  |
+<img src="https://user-images.githubusercontent.com/104906253/172260199-d7e5fd1d-360a-4df9-abd6-1c7b5dcd6dd0.png" width="300">
+
+***
+
+### **Daddy donut** <br />
+Little Decoy flare hover donut - shoots harmless projectiles to mesmerize enemy units.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172262049-81eff50c-d718-45d2-b17c-b82c71f13b86.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172262125-5f326166-5d2f-43d7-9de2-73a1da47ecc8.png" width="64"> | HP: 2000 <br /> Build cost: 1000 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 260 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Damage: 0 <br /> 3 shots per sec <br /> max range: 250 <br /> energy cons: <br /> 5 per shot <br /> Recharge: 10 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 80 <br />  |
+
+**Decoy (Donut minion)** <br />
+Decoy landmine, moves to the enemy to be targeted.
 
 
+| <img src="https://user-images.githubusercontent.com/104906253/172110149-6ce9ce6b-638e-4a99-a189-ec158a1496f8.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 7 sec <br />| Max speed: 100 <br /> Acceleration: 60 <br /> Braking rate: 60 <br /> Turn rate: 240 | Vision radius: 110 <br /> <br /> <br /> <br /> | fire rate: 0 <br /> max range: 0 <br />  <br /> target: Land <br /> |
+<img src="https://user-images.githubusercontent.com/104906253/172262894-fe60f076-48ee-4b7b-9b59-04a4d3b6e1a2.png" width="280">
+<img src="https://user-images.githubusercontent.com/104906253/172262898-9706aa8d-a068-4c1e-93df-df8e09a55ffb.png" width="280">
+
+***
 
 
 
