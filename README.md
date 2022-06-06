@@ -1,6 +1,6 @@
 ## Welcome to the Thorosmen wiki! (WIP)
 
-**This PA Mod adds about 30 new weird and exotic units: the Thorosmen, to bring more fun and variety to the game.
+**This PA Mod adds about 30 new weird and exotic units: the Thorosmen, to bring more fun and variety to the game. <br />
 From spark that directly teleports to the enemy to landmine-trees replicator, passing by laser eyed anti-air bots as well as flying submarines.  
 Players that search new ways to annihilate the enemy will be entertained for sure.**  
 
