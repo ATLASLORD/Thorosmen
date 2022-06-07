@@ -109,8 +109,7 @@ Long range AA laser bot. Durable. Yeah.
 | :--- | :--- |
 | fire rate: 40 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
 
-<img src="https://user-images.githubusercontent.com/104906253/172261201-33e65200-8d62-4f16-8a4c-47e57b8a2263.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172261201-33e65200-8d62-4f16-8a4c-47e57b8a2263.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
 
 ***
 
@@ -127,9 +126,8 @@ Air Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extr
 | <img src="https://user-images.githubusercontent.com/104906253/172095538-8f0a6e46-638d-4baa-885f-670f44b962fd.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172095645-ac28b7bc-4bbe-4090-b114-590ce2d8e0c9.png" width="64"> | HP: 10 <br /> Build cost: 45 <br /> DPS: 920  <br />  life duration: 10 sec <br />| Max speed: 90 <br /> Acceleration: 120 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | <br />  <br /> <br /> <br />| fire rate: 10 <br /> max range: 15 <br /> self destruct <br /> target: Air<br /> | spec: pbaoe <br /> Damage: 500 <br />  splash radius: 120 <br />  |
-<img src="https://user-images.githubusercontent.com/104906253/172097043-0e6b679a-0453-469b-a094-8ca403a7228d.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172097807-ae93d75d-d4cf-409f-82d8-64bcbf33c0de.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172097513-b5ad7b86-03d4-4560-a13a-aa569dbce812.png" width="280">  
+
+<img src="https://user-images.githubusercontent.com/104906253/172097043-0e6b679a-0453-469b-a094-8ca403a7228d.png" width="280"> <img src="https://user-images.githubusercontent.com/104906253/172097807-ae93d75d-d4cf-409f-82d8-64bcbf33c0de.png" width="280"> <img src="https://user-images.githubusercontent.com/104906253/172097513-b5ad7b86-03d4-4560-a13a-aa569dbce812.png" width="280">  
 
 
 ***
