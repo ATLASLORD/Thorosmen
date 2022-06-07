@@ -373,8 +373,6 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 | fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
-<br />  
-<br />  
 
 ***
 
