@@ -13,7 +13,7 @@
 "navigation":{"type":"air",
 "acceleration":90,
 "brake":30,
-"move_speed":50,
+"move_speed":60,
 "turn_speed":270,
 "aggressive_distance":50.0,
 "bank_factor":10,
