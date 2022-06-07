@@ -204,4 +204,248 @@ Decoy landmine, moves to the enemy to be targeted.
 ***
 
 
+### **Tornado** <br />
+Drone Tank - drones go brrrrrrrrrrrrrrrrrrrrrrrrr. Attacks Land units.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172267497-07ae07e8-47ce-414f-9ea9-10224d3e30a1.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172267565-93e83ebf-5a9e-4d25-a6f4-e8048c3f9ca5.png" width="64"> | HP: 1500 <br /> Build cost: 3200 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 200 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Source: metal <br /> 1.2 shots per sec <br /> max range: 200 <br /> metal cons: <br /> 30 per shot <br /> Recharge: 6 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 110 <br />  <br />  <br />  <br />  <br />  |
+
+**Squall (Tornado minion)** <br />
+Missile and Torpedo Drone - Fast, fragile, attacks land,
+
+
+| <img src="https://user-images.githubusercontent.com/104906253/172268091-3bf7c259-1f2a-4536-bc1a-c709704e8ca0.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo  |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172268193-4b1cfd2d-31f3-4c91-a6ca-baabb49ffa44.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 13 sec <br />| Max speed: 80 <br /> Acceleration: 80 <br /> Braking rate: 30 <br /> Turn rate: 240 | Vision radius: 150 <br /> <br /> <br /> <br /> | fire rate: 0.8 <br /> max range: 100 <br />  target: Land <br />  <br />| damage: 50  <br /> splash damage: 20  <br /> splash radius: 0.75  <br /> velocity: 150 |
+<img src="https://user-images.githubusercontent.com/104906253/172269342-a821e0c2-42c7-422a-a413-0794e6b8793d.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172269800-bc5992ca-3fa8-42e2-9561-95a8152bc15f.png" width="310">
+
+***
+
+### **Aegis** <br />
+Moving shield - Basic regen shield vehicle.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172270423-d52f51a0-6bde-423e-a819-f3f110d25919.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 6000 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| energy cons: 1500 per shot <br /> max range: 125 <br /> ammo full recharge : 36 sec <br /> stored ammo: 24 | Type: beam <br /> Target: anti antity <br />  <br />  <br /> |
+<img src="https://user-images.githubusercontent.com/104906253/172271918-053ebb70-c830-4811-80ad-13cb4ae4cf48.png" width="300">
+
+***
+
+### **Prado** <br />
+Laser Tank - long range, medium damage. Attacks air and surface targets. Low health".  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172279922-d4b46408-7bdf-47dd-b6e8-eaa0af5f0d08.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172280025-0cb05b72-030c-4ba3-a843-4e4f243fc241.png" width="64"> | HP: 270 <br /> Build cost: 1650 <br /> DPS: 154  <br />  <br />| Max speed: 10 <br /> Acceleration: 200 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| Fire rate: 0.65 <br /> Max range: 210 <br /> Target: Land Air <br /> <br /> | Damage: 180 <br /> Splash damage: 30 <br /> Splash radius: 20 <br /> Velocity: 800 |
+<img src="https://user-images.githubusercontent.com/104906253/172281901-e491f04a-14c3-4392-9851-b8a6f31df787.png" width="220">
+<img src="https://user-images.githubusercontent.com/104906253/172281905-07530149-ceeb-4000-97cd-51d7ad7e3af7.png" width="300">
+
+***
+
+### **Tanabe** <br />
+Tanky Tank. Medium-long range, lots of health. Medium-high damage with a big damage area.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172283572-a4496d22-1b0d-4578-ba7b-e5e6bf5a3a0f.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172283631-eb73b0c9-03f9-4e70-b896-590c221b3801.png" width="64"> | HP: 5410 <br /> Build cost: 5950 <br /> DPS: F  <br />  <br />| Max speed: 8 <br /> Acceleration: 100 <br /> Braking rate: 80 <br /> Turn rate: 20 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| Fire rate: 0.25 <br /> Max range: 190 <br /> Target: Land <br /> <br /> | Damage: 1350 <br /> Splash damage: 130 <br /> Splash radius: 40 <br /> Velocity: 450 |
+<img src="https://user-images.githubusercontent.com/104906253/172284371-1ed80c56-5b54-409e-9403-ed8e4ee92ab2.png" width="220">
+<img src="https://user-images.githubusercontent.com/104906253/172284374-ef2ed737-9f61-4371-8bff-0e0c91570115.png" width="290">  
+
+
+## AIR
+
+### **Destroyair** <br />
+A Destroyer, but it flies... Only attacks air.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172289233-42669476-4434-48d6-8a28-03210c0b1b28.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172289322-890342a9-35b3-40a4-95d8-c9adb75e93e9.png" width="64"> | HP: 800 <br /> Build cost: 500 <br /> DPS: 0  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 200 <br /> <br /> <br /> <br /> | Air Factory <br />  Advanced Air Factory <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 1 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 50 <br /> splash: 0 <br /> velocity: 200 <br />  |
+<img src="https://user-images.githubusercontent.com/104906253/172290521-1d81a4c0-2eb9-4548-a0c0-af6e77130013.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172290525-9b58a6b9-dfed-465f-89e3-55251e7d8f54.png" width="300">
+
+***
+
+### **Banana** <br />
+Flying bananas are real. Flying submarine, high range, low damage. Attacks land and air targets.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172292928-da492472-400e-4d0a-96de-96e987793a02.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1200 <br /> Build cost: 2200 <br /> DPS: 125  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 5 <br /> max range: 150 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 25 <br /> splash: 0 <br /> velocity: 140  |
+<img src="https://user-images.githubusercontent.com/104906253/172293537-10efd7e8-801c-4d01-bbc1-1397a8bcccf2.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172293532-aea1c6b1-f28a-447a-a686-137933062c2f.png" width="260">
+
+***
+
+### **Binho** <br />
+Long range UFO unit. Durable, slow and equiped with two laser cannons. Attacks air and surface targets. Can load commander units and move among planets.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172297113-6e845189-0e02-4682-a3a7-7d3c780ea974.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172297196-94df581d-7d1d-4d27-9694-1ed84e1eac83.png" width="64"> | HP: 5150 <br /> Build cost: 6200 <br /> DPS: 160  <br />  <br />| Max speed: 22 <br /> Acceleration: 15 <br /> Braking rate: 40 <br /> Turn rate: 45 | Vision radius: 200 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 4 <br /> max range: 180 <br /> Target: Land, Air <br /> <br /> |  damage: 40 <br /> splash damage: 30 <br /> splash radius: 5 <br /> velocity: 800  |
+<img src="https://user-images.githubusercontent.com/104906253/172323865-618cae88-dc1d-425a-a4d1-e015bc76cf1a.png" width="260">
+<img src="https://user-images.githubusercontent.com/104906253/172323869-b4bd87e1-8d56-4b7a-80aa-0a13c79614e0.png" width="300">
+
+***
+
+### **Thorondor** <br />
+Heavy advanced air transport able to carry the Commander, Manhattans or Titans. slower than pelican.      
+
+| <img src="https://user-images.githubusercontent.com/104906253/172298127-d20145dc-38bb-4c21-9499-c2d9649ea969.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172298233-da2a0d58-62f9-4d54-b117-64b3c36d3c1a.png" width="64"> | HP: 800 <br /> Build cost: 5000 <br /> DPS: 0  <br />  <br />| Max speed: 40 <br /> Acceleration: 30 <br /> Braking rate: 20 <br /> Turn rate: 180 | Vision radius: 70 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+
+<img src="https://user-images.githubusercontent.com/104906253/172324293-fc2c7842-c204-42ad-b97e-ed0ed76d441f.png" width="300">
+
+## SEMI-TITANS
+
+### **Pap** <br />
+Semi titan jammer unit. Has a built in radar and makes nearby units invisible to enemy radars. Durable.    
+
+| <img src="https://user-images.githubusercontent.com/104906253/172301108-0b4f036f-3810-40d9-8511-8bf111e04592.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172301257-415e9d18-c30c-48ff-8ca4-6c8908061410.png" width="64"> | HP: 8300 <br /> Build cost: 10000 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: 230 <br /> radar jammer: 250 <br /> radar: 500 <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 0 <br /> max range: 0 <br /> Target: Land <br /> <br /> |  damage: 300 <br /> splash damage: 300 <br /> splash radius: 40  full: 20<br /> damage allies  |
+<img src="https://user-images.githubusercontent.com/104906253/172324452-8f92d7f3-1174-44f0-979e-ba6b1d579dea.png" width="300">
+
+***
+
+### Fef <br />
+Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosive. Durable.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172302356-7069e379-d289-413c-bac4-fcd7b62907b2.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 15 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
+
+**Wild Boombot (Fef minion)** <br />
+boombot - destructs when touching any enemy unit to deal high area damage . <br />
+I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off..
+
+| <img src="https://user-images.githubusercontent.com/104906253/172095538-8f0a6e46-638d-4baa-885f-670f44b962fd.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 10 <br /> Build cost: 5 <br /> DPS: 920  <br />  life duration: 10 sec <br />| Max speed: 50 <br /> Acceleration: 40 <br /> Braking rate: 60 <br /> Turn rate: 200 | Vision radius: <br /> 110 <br /> <br /> <br /> | self destruct <br /> range: 6  <br /> target: Land <br />  <br /> | spec: pbaoe <br /> Damage: 500 <br /> splash radius: 11 <br />  |
+
+<img src="https://user-images.githubusercontent.com/104906253/172324610-852c802b-7e06-4f70-952d-642c7bee97aa.png" width="240"> 
+<img src="https://user-images.githubusercontent.com/104906253/172324604-a760598c-57b1-40b6-8b35-43f0c43e2c9a.png" width="300"> 
+
+
+
+***
+
+### **Toblerone** <br />
+Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies somehow. Long and expensive reload time. Can carry one ammo.
+
+| <img src="https://user-images.githubusercontent.com/104906253/172099321-cd60123d-c548-4c10-ba29-37303b5779c8.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br /> Advanced Fabber <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
+<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
+<br />  
+<br />  
+
+***
+
+### **Lawnmower** <br />
+Giant Bulldozer. Crushes Everything. OOF damage. High. Crushes Mines.
+
+| <img src="https://user-images.githubusercontent.com/104906253/172306711-63dc6798-339f-4737-9ea7-c4409193d183.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172306582-52676f6f-3688-4c5b-8576-46b76d474bf1.png" width="64"> | HP: 900 <br /> Build cost: 10000 <br /> DPS: F  <br />  <br />| Max speed: 12 <br /> Acceleration: 70 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo |
+| :--- | :--- |
+| fire rate: 50 <br /> max range: 45 <br /> Target: Land <br /> <br /> | damage: 2000 <br /> splash radius: 30 <br /> spec: pbaoe <br /> <br /> |
+<img src="https://user-images.githubusercontent.com/104906253/172325006-18f52bf1-c431-4966-8e86-61038a4e2a04.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172325002-3d61a6de-7360-4e0b-8188-a1e12453252d.png" width="300">
+
+***
+
+### **Flying Potato** <br />
+Big balloon airship, shoots enormous amont of homing projectiles to land and air units, Slower than winter. Ideal for turtles.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172308504-7d0e9fdf-b5c3-444c-a001-e3ef2d76e47b.png" width="64">   | Overview  | Physics | Recon  | Build by |
+| :--- | :--- | :---- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 10 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+
+| Weapon Tool  | Ammo | Ammo Death |
+| :--- | :--- | :--- |
+| fire rate: 15 <br /> max range: 100 <br /> Target: Land, Air <br /> <br /> | damage: 80 <br /> splash damage: 40 <br /> splash radius: 20  <br /> spec: tactical missile | Damage: 300 <br /> Splash damage: 100 <br /> Splash radius: 120 <br /> spec: pbaoe |
+<img src="https://user-images.githubusercontent.com/104906253/172325165-c67e3706-f0a5-459f-9624-cf357a432a81.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/172325174-406fbc90-e744-436a-9c92-608381deb085.png" width="300">  
+
+## DEFENSIVE STRUCTURES  
+
+### Jonas <br />
+Medium range straight shot cannon. Vulnerable to side attacks. Shoots air and surface targets.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172312826-fde5606c-8ea3-455f-86e9-cc0eb8ca70a5.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172312959-af26aab9-c439-4ee4-91c1-85b020da8c7f.png" width="64"> | HP: 1000 <br /> Build cost: 1490 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Fabber <br />  <br /> <br /> <br />| Fire rate: 0.8 <br />  range: 250 <br />  <br />  <br /> | Damage:  200 radius: 10 <br /> Splash damage: 20 <br /> Splash damage radius: 18 <br /> Velocity: 1000 <br />  
+<img src="https://user-images.githubusercontent.com/104906253/172325302-5b8a61e8-e5ef-44d8-a8a8-e3746b5a7863.png" width="300">  
+
+***
+
+### Kinha <br />
+Plasma ball launcher. High damage, medium range. Attacks land and sea targets.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172314507-6dbb5911-032a-4295-bc29-d824d585ea37.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172314396-21051375-ce16-4599-a0d2-73dc2b745a7b.png" width="64"> | HP: 2600 <br /> Build cost: 2050 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Fabber <br />  <br /> <br /> <br />| Energy cons: 500 <br /> Full recharge: 8 sec  <br /> Ammo stock: 1 <br /> range: 195 <br /> | Damage:  2000 radius: 10 <br /> Splash damage: 410 <br /> Splash damage radius: 55 <br /> Velocity: 50 <br />  
+<img src="https://user-images.githubusercontent.com/104906253/172325472-87d14e76-c875-446f-a22b-09ce7e5dcf9a.png" width="300">  
+
+***
+
+### Maciota <br />
+High damage single shot weapon. Attacks orbital and air targets and intercepts drop pods. NEEDS TO BE CONTROLLED MANUALLY.  
+
+| <img src="https://user-images.githubusercontent.com/104906253/172316161-cf33c266-b3dc-47fd-aa40-07d2652c35b6.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172316339-04907669-9535-4923-a098-48b9c85f8cda.png" width="64"> | HP: 2000 <br /> Build cost: 7000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Energy cons: 500 <br /> Full recharge: 25 sec  <br /> Ammo stock: 1 <br /> range: 400 <br /> | Damage:  5000 radius: 30 <br /> Splash damage: 500 <br /> Splash damage radius: 100 <br /> Velocity: 1000 <br />  
+
+
+***
+
+### Nukins <br />
+Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean large areas from very far away. Nukes are friendly.
+
+| <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 15000 <br /> Build cost: 60000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
+
+
+
 
