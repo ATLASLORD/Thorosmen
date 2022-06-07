@@ -6,7 +6,7 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 
 ***
 
-<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="265">
+<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="345"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="300">
 
 ***
 If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/2) <br />
@@ -29,8 +29,8 @@ before attacking.
 | Weapon Tool  | Ammo | Summoned Weapon Tool | Summoned Ammo
 | :--- | :--- | :--- | :--- |
 | rate of fire: 0.25 <br />  max range: 140 <br /> <br /> <br /> <br /> | spec : summon <br /> <br /> <br /> <br /> <br /> | range: 65 <br /> energy: 400 per shot <br /> ammo recharge: 2 sec <br /> target: land <br /> <br />| damage: 160 <br /> Splash: 50 damage, radius 10 <br /> Full damage splash radius: 2 <br /> Burn damage: 15, radius 2 <br /> velocity: 180
-<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="240">
-<img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="240"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="300"> 
 
 ***
 
@@ -48,8 +48,7 @@ moving mine - destructs when touching any enemy unit to deal very high area dama
 | :--- | :--- | :---- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 10 <br /> Build cost: 5 <br /> DPS: 920  <br />  life duration: 10 sec <br />| Max speed: 70 <br /> Acceleration: 40 <br /> Braking rate: 60 <br /> Turn rate: 200 | Vision radius: <br /> 110 <br /> <br /> <br /> | self destruct <br /> range: 5  <br /> target: Land <br />  <br /> | spec: pbaoe <br /> Damage: 1000 <br /> splash radius: 15 <br />  |
 
-<img src="https://user-images.githubusercontent.com/104906253/172079823-d77d715c-45b6-4abe-b0d9-d4fb286bb6c5.png" width="240"> 
-<img src="https://user-images.githubusercontent.com/104906253/172264398-9fb6260a-3a10-4564-a625-cca2b7bf8678.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/104906253/172079823-d77d715c-45b6-4abe-b0d9-d4fb286bb6c5.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172264398-9fb6260a-3a10-4564-a625-cca2b7bf8678.png" width="360"> 
 
 
 
@@ -65,7 +64,7 @@ Big Sniper - Good against high health units. OOF damage. Slow rate of fire. Atta
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 0.25 <br /> max range: 220 <br /> Target: Land and sea <br /> <br /> | damage: over 9000 <br /> splash: none <br /> spec: tactical missile <br />velocity: 400 |
-<img src="https://user-images.githubusercontent.com/104906253/172082568-ae1b6c0e-0258-4ec2-a23c-11c4ae4bce78.png" width="240"> 
+<img src="https://user-images.githubusercontent.com/104906253/172082568-ae1b6c0e-0258-4ec2-a23c-11c4ae4bce78.png" width="300"> 
 
 ***
 
@@ -79,7 +78,8 @@ Shoots white holes that keep enemy far away, Ideal for turtling.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 0.2 <br /> max range: 250 <br /> Target: Land and sea <br /> <br /> | damage: 0 <br /> splash: 0 <br /> spec: summon <br />velocity: 160 |
-<img src="https://user-images.githubusercontent.com/104906253/172083792-9ed0eab9-c21e-49ca-8412-c84722a30683.png" width="300"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172083792-9ed0eab9-c21e-49ca-8412-c84722a30683.png" width="320"> 
 
 ***
 
@@ -93,7 +93,8 @@ Medium range, ultra fast shooting bot. Medium health and speed. Shoots surface t
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 10 <br /> max range: 130 <br /> Target: Land and sea <br /> <br /> | damage: 78 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
-<img src="https://user-images.githubusercontent.com/104906253/172086435-62025b63-a388-44d8-bbfa-992c4233aac9.png" width="300"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172086435-62025b63-a388-44d8-bbfa-992c4233aac9.png" width="320"> 
 
 ***
 
@@ -144,8 +145,8 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
-<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
+<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="320">
+<img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="320">  
 <br />  
 <br />  
 
@@ -165,8 +166,8 @@ Decoy landmine, moves to the enemy to be targeted.
 | <img src="https://user-images.githubusercontent.com/104906253/172110149-6ce9ce6b-638e-4a99-a189-ec158a1496f8.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  |
 | :--- | :--- | :---- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 7 sec <br />| Max speed: 100 <br /> Acceleration: 60 <br /> Braking rate: 60 <br /> Turn rate: 240 | Vision radius: 110 <br /> <br /> <br /> <br /> | fire rate: 0 <br /> max range: 0 <br />  <br /> target: Land <br /> |
-<img src="https://user-images.githubusercontent.com/104906253/172260849-f9d6f857-f54d-46f7-b486-aca37300dbfb.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172260854-22c6013f-c665-48df-9332-338f10f16d85.png" width="280">
+
+<img src="https://user-images.githubusercontent.com/104906253/172260849-f9d6f857-f54d-46f7-b486-aca37300dbfb.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172260854-22c6013f-c665-48df-9332-338f10f16d85.png" width="300">
 
 ***
 
@@ -180,7 +181,8 @@ Flame Tank - Extended range, heavy armored vehicle.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 4 <br /> max range: 34 <br /> Target: Land <br /> <br /> | damage: 115 <br /> splash: 0 <br /> spec: beam <br />  |
-<img src="https://user-images.githubusercontent.com/104906253/172260199-d7e5fd1d-360a-4df9-abd6-1c7b5dcd6dd0.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/104906253/172260199-d7e5fd1d-360a-4df9-abd6-1c7b5dcd6dd0.png" width="320">
 
 ***
 
@@ -198,8 +200,8 @@ Decoy landmine, moves to the enemy to be targeted.
 | <img src="https://user-images.githubusercontent.com/104906253/172110149-6ce9ce6b-638e-4a99-a189-ec158a1496f8.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  |
 | :--- | :--- | :---- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 7 sec <br />| Max speed: 100 <br /> Acceleration: 60 <br /> Braking rate: 60 <br /> Turn rate: 240 | Vision radius: 110 <br /> <br /> <br /> <br /> | fire rate: 0 <br /> max range: 0 <br />  <br /> target: Land <br /> |
-<img src="https://user-images.githubusercontent.com/104906253/172262894-fe60f076-48ee-4b7b-9b59-04a4d3b6e1a2.png" width="280">
-<img src="https://user-images.githubusercontent.com/104906253/172262898-9706aa8d-a068-4c1e-93df-df8e09a55ffb.png" width="280">
+
+<img src="https://user-images.githubusercontent.com/104906253/172262894-fe60f076-48ee-4b7b-9b59-04a4d3b6e1a2.png" width="280"> <img src="https://user-images.githubusercontent.com/104906253/172262898-9706aa8d-a068-4c1e-93df-df8e09a55ffb.png" width="280">
 
 ***
 
@@ -218,8 +220,8 @@ Missile and Torpedo Drone - Fast, fragile, attacks land,
 | <img src="https://user-images.githubusercontent.com/104906253/172268091-3bf7c259-1f2a-4536-bc1a-c709704e8ca0.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo  |
 | :--- | :--- | :---- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172268193-4b1cfd2d-31f3-4c91-a6ca-baabb49ffa44.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 13 sec <br />| Max speed: 80 <br /> Acceleration: 80 <br /> Braking rate: 30 <br /> Turn rate: 240 | Vision radius: 150 <br /> <br /> <br /> <br /> | fire rate: 0.8 <br /> max range: 100 <br />  target: Land <br />  <br />| damage: 50  <br /> splash damage: 20  <br /> splash radius: 0.75  <br /> velocity: 150 |
-<img src="https://user-images.githubusercontent.com/104906253/172269342-a821e0c2-42c7-422a-a413-0794e6b8793d.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172269800-bc5992ca-3fa8-42e2-9561-95a8152bc15f.png" width="310">
+
+<img src="https://user-images.githubusercontent.com/104906253/172269342-a821e0c2-42c7-422a-a413-0794e6b8793d.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172269800-bc5992ca-3fa8-42e2-9561-95a8152bc15f.png" width="310">
 
 ***
 
@@ -233,6 +235,7 @@ Moving shield - Basic regen shield vehicle.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | energy cons: 1500 per shot <br /> max range: 125 <br /> ammo full recharge : 36 sec <br /> stored ammo: 24 | Type: beam <br /> Target: anti antity <br />  <br />  <br /> |
+
 <img src="https://user-images.githubusercontent.com/104906253/172271918-053ebb70-c830-4811-80ad-13cb4ae4cf48.png" width="300">
 
 ***
@@ -247,8 +250,8 @@ Laser Tank - long range, medium damage. Attacks air and surface targets. Low hea
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | Fire rate: 0.65 <br /> Max range: 210 <br /> Target: Land Air <br /> <br /> | Damage: 180 <br /> Splash damage: 30 <br /> Splash radius: 20 <br /> Velocity: 800 |
-<img src="https://user-images.githubusercontent.com/104906253/172281901-e491f04a-14c3-4392-9851-b8a6f31df787.png" width="220">
-<img src="https://user-images.githubusercontent.com/104906253/172281905-07530149-ceeb-4000-97cd-51d7ad7e3af7.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/104906253/172281901-e491f04a-14c3-4392-9851-b8a6f31df787.png" width="220"> <img src="https://user-images.githubusercontent.com/104906253/172281905-07530149-ceeb-4000-97cd-51d7ad7e3af7.png" width="300">
 
 ***
 
@@ -262,8 +265,8 @@ Tanky Tank. Medium-long range, lots of health. Medium-high damage with a big dam
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | Fire rate: 0.25 <br /> Max range: 190 <br /> Target: Land <br /> <br /> | Damage: 1350 <br /> Splash damage: 130 <br /> Splash radius: 40 <br /> Velocity: 450 |
-<img src="https://user-images.githubusercontent.com/104906253/172284371-1ed80c56-5b54-409e-9403-ed8e4ee92ab2.png" width="220">
-<img src="https://user-images.githubusercontent.com/104906253/172284374-ef2ed737-9f61-4371-8bff-0e0c91570115.png" width="290">  
+
+<img src="https://user-images.githubusercontent.com/104906253/172284371-1ed80c56-5b54-409e-9403-ed8e4ee92ab2.png" width="220"> <img src="https://user-images.githubusercontent.com/104906253/172284374-ef2ed737-9f61-4371-8bff-0e0c91570115.png" width="290">  
 
 
 ## AIR
@@ -278,8 +281,8 @@ A Destroyer, but it flies... Only attacks air.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 1 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 50 <br /> splash: 0 <br /> velocity: 200 <br />  |
-<img src="https://user-images.githubusercontent.com/104906253/172290521-1d81a4c0-2eb9-4548-a0c0-af6e77130013.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172290525-9b58a6b9-dfed-465f-89e3-55251e7d8f54.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/104906253/172290521-1d81a4c0-2eb9-4548-a0c0-af6e77130013.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172290525-9b58a6b9-dfed-465f-89e3-55251e7d8f54.png" width="300">
 
 ***
 
@@ -293,8 +296,8 @@ Flying bananas are real. Flying submarine, high range, low damage. Attacks land 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 5 <br /> max range: 150 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 25 <br /> splash: 0 <br /> velocity: 140  |
-<img src="https://user-images.githubusercontent.com/104906253/172293537-10efd7e8-801c-4d01-bbc1-1397a8bcccf2.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172293532-aea1c6b1-f28a-447a-a686-137933062c2f.png" width="260">
+
+<img src="https://user-images.githubusercontent.com/104906253/172293537-10efd7e8-801c-4d01-bbc1-1397a8bcccf2.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172293532-aea1c6b1-f28a-447a-a686-137933062c2f.png" width="260">
 
 ***
 
@@ -308,8 +311,8 @@ Long range UFO unit. Durable, slow and equiped with two laser cannons. Attacks a
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 4 <br /> max range: 180 <br /> Target: Land, Air <br /> <br /> |  damage: 40 <br /> splash damage: 30 <br /> splash radius: 5 <br /> velocity: 800  |
-<img src="https://user-images.githubusercontent.com/104906253/172323865-618cae88-dc1d-425a-a4d1-e015bc76cf1a.png" width="260">
-<img src="https://user-images.githubusercontent.com/104906253/172323869-b4bd87e1-8d56-4b7a-80aa-0a13c79614e0.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/104906253/172323865-618cae88-dc1d-425a-a4d1-e015bc76cf1a.png" width="260"> <img src="https://user-images.githubusercontent.com/104906253/172323869-b4bd87e1-8d56-4b7a-80aa-0a13c79614e0.png" width="300">
 
 ***
 
@@ -334,6 +337,7 @@ Semi titan jammer unit. Has a built in radar and makes nearby units invisible to
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 0 <br /> max range: 0 <br /> Target: Land <br /> <br /> |  damage: 300 <br /> splash damage: 300 <br /> splash radius: 40  full: 20<br /> damage allies  |
+
 <img src="https://user-images.githubusercontent.com/104906253/172324452-8f92d7f3-1174-44f0-979e-ba6b1d579dea.png" width="300">
 
 ***
@@ -353,8 +357,7 @@ I remember reading an old sailor's proverb: Piss on wildfire and your cock burns
 | :--- | :--- | :---- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172116523-4a456e14-90dc-4fce-a0b3-eed36905bca4.png" width="64"> | HP: 10 <br /> Build cost: 5 <br /> DPS: 920  <br />  life duration: 10 sec <br />| Max speed: 50 <br /> Acceleration: 40 <br /> Braking rate: 60 <br /> Turn rate: 200 | Vision radius: <br /> 110 <br /> <br /> <br /> | self destruct <br /> range: 6  <br /> target: Land <br />  <br /> | spec: pbaoe <br /> Damage: 500 <br /> splash radius: 11 <br />  |
 
-<img src="https://user-images.githubusercontent.com/104906253/172324610-852c802b-7e06-4f70-952d-642c7bee97aa.png" width="240"> 
-<img src="https://user-images.githubusercontent.com/104906253/172324604-a760598c-57b1-40b6-8b35-43f0c43e2c9a.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/104906253/172324610-852c802b-7e06-4f70-952d-642c7bee97aa.png" width="240"> <img src="https://user-images.githubusercontent.com/104906253/172324604-a760598c-57b1-40b6-8b35-43f0c43e2c9a.png" width="300"> 
 
 
 
@@ -370,8 +373,8 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
-<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
+
+<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
 <br />  
 <br />  
 
@@ -387,8 +390,8 @@ Giant Bulldozer. Crushes Everything. OOF damage. High. Crushes Mines.
 | Weapon Tool  | Ammo |
 | :--- | :--- |
 | fire rate: 50 <br /> max range: 45 <br /> Target: Land <br /> <br /> | damage: 2000 <br /> splash radius: 30 <br /> spec: pbaoe <br /> <br /> |
-<img src="https://user-images.githubusercontent.com/104906253/172325006-18f52bf1-c431-4966-8e86-61038a4e2a04.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172325002-3d61a6de-7360-4e0b-8188-a1e12453252d.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/104906253/172325006-18f52bf1-c431-4966-8e86-61038a4e2a04.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172325002-3d61a6de-7360-4e0b-8188-a1e12453252d.png" width="300">
 
 ***
 
@@ -402,8 +405,8 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 | Weapon Tool  | Ammo | Ammo Death |
 | :--- | :--- | :--- |
 | fire rate: 15 <br /> max range: 100 <br /> Target: Land, Air <br /> <br /> | damage: 80 <br /> splash damage: 40 <br /> splash radius: 20  <br /> spec: tactical missile | Damage: 300 <br /> Splash damage: 100 <br /> Splash radius: 120 <br /> spec: pbaoe |
-<img src="https://user-images.githubusercontent.com/104906253/172325165-c67e3706-f0a5-459f-9624-cf357a432a81.png" width="300">
-<img src="https://user-images.githubusercontent.com/104906253/172325174-406fbc90-e744-436a-9c92-608381deb085.png" width="300">  
+
+<img src="https://user-images.githubusercontent.com/104906253/172325165-c67e3706-f0a5-459f-9624-cf357a432a81.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172325174-406fbc90-e744-436a-9c92-608381deb085.png" width="300">  
 
 ## DEFENSIVE STRUCTURES  
 
@@ -413,6 +416,7 @@ Medium range straight shot cannon. Vulnerable to side attacks. Shoots air and su
 | <img src="https://user-images.githubusercontent.com/104906253/172312826-fde5606c-8ea3-455f-86e9-cc0eb8ca70a5.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172312959-af26aab9-c439-4ee4-91c1-85b020da8c7f.png" width="64"> | HP: 1000 <br /> Build cost: 1490 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Fabber <br />  <br /> <br /> <br />| Fire rate: 0.8 <br />  range: 250 <br />  <br />  <br /> | Damage:  200 radius: 10 <br /> Splash damage: 20 <br /> Splash damage radius: 18 <br /> Velocity: 1000 <br />  
+
 <img src="https://user-images.githubusercontent.com/104906253/172325302-5b8a61e8-e5ef-44d8-a8a8-e3746b5a7863.png" width="300">  
 
 ***
@@ -423,6 +427,7 @@ Plasma ball launcher. High damage, medium range. Attacks land and sea targets.
 | <img src="https://user-images.githubusercontent.com/104906253/172314507-6dbb5911-032a-4295-bc29-d824d585ea37.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172314396-21051375-ce16-4599-a0d2-73dc2b745a7b.png" width="64"> | HP: 2600 <br /> Build cost: 2050 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Fabber <br />  <br /> <br /> <br />| Energy cons: 500 <br /> Full recharge: 8 sec  <br /> Ammo stock: 1 <br /> range: 195 <br /> | Damage:  2000 radius: 10 <br /> Splash damage: 410 <br /> Splash damage radius: 55 <br /> Velocity: 50 <br />  
+
 <img src="https://user-images.githubusercontent.com/104906253/172325472-87d14e76-c875-446f-a22b-09ce7e5dcf9a.png" width="300">  
 
 ***
