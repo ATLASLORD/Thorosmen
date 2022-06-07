@@ -9,7 +9,7 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 <img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="345"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="300">
 
 ***
-If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/2) <br />
+If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/3) <br />
 If you need to find a specific unit fast. clic the unit name to the right of the page that follows [THIS LINK](https://github.com/ATLASLORD/Thorosmen/wiki/Thorosmen)  
 Download link
 https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip
