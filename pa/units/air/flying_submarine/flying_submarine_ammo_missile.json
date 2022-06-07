@@ -25,5 +25,6 @@
 "stage_duration":5000,
 "stage_turn_rate":540,
 "rotates_to_velocity":true}],
+"physics":{"radius":1,"gravity_scalar":20,"add_to_spatial_db":true,"allow_underground":true},
 "events":{"died":{"effect_spec":"/pa/units/sea/battleship/battleship_hit.pfx"}},
 "model":{"filename":"/pa/units/air/atoa_missile/atoa_missile.papa"}}

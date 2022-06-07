@@ -7,6 +7,7 @@
 "initial_velocity":1000.0,
 "lifetime":3,
 "influence_radius":400,
+"physics":{"add_to_spatial_db":true},
 "fx_beam_spec":"/pa/units/land/air_defense_adv/air_defense_adv_ammo_beam.pfx",
 "audio_loop":"/SE/Movement/missile/artillery_short_missile_fly_loop",
 "model":{"filename":"/pa/units/air/shell/shell.papa"},

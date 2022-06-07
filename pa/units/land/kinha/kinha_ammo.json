@@ -2,6 +2,7 @@
 "audio_loop":"/SE/Weapons/veh/vangaurd_fire",
 "fx_trail":{"filename":"/pa/units/land/kinha/uber_proj_trail.pfx",
 "offset":[0.0,0.8,0.0]},
+"physics":{"add_to_spatial_db":true},
 "events":{"died":{"audio_cue":"/SE/Impacts/cannon_uber",
 "effect_spec":"/pa/units/land/kinha/uber_proj_explosion.pfx"}},
 "damage":2000,

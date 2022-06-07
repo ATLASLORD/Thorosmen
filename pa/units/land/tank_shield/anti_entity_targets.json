@@ -78,6 +78,13 @@
     "/pa/units/sea/l_hover_ship/l_hover_ship_ammo_side.json",
     "/pa/units/sea/l_missile_ship/l_missile_ship_rocket_ammo.json",
     "/pa/units/land/bot_sniper_big/bot_sniper_big_ammo.json",
+    "/pa/units/land/prex/prex_ammo.json",
+    "/pa/units/land/bumba/bumba_ammo.json",
+    "/pa/units/air/flying_submarine/flying_submarine_ammo_missile.json",
+    "/pa/units/air/binho/binho_ammo.json",
+    "/pa/units/land/tank_drone/drone_land/drone_land_ammo.json",
+    "/pa/units/land/canhao/canhao_ammo.json",
+    "/pa/units/land/kinha/kinha_ammo.json",
     "/pa/units/sea/l_sea_tank/l_sea_tank_ammo.json"
   ],
   "anti_entity_targets_units": false,
