@@ -99,15 +99,15 @@ Medium range, ultra fast shooting bot. Medium health and speed. Shoots surface t
 ***
 
 ### **Halabib** <br />
-Long range AA laser bot. Durable. Yeah.   
+Long range AA laser bot. Durable. Equipped with radar.   
 
 | <img src="https://user-images.githubusercontent.com/104906253/172087110-41efbfcd-a6c8-4cc7-aeca-a94f5bc16534.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172087469-59d66fdb-0c77-474d-914e-5228b601106e.png" width="64"> | HP: 1000 <br /> Build cost: 2500 <br /> DPS: 920  <br />  <br />| Max speed: 13 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 120 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172087469-59d66fdb-0c77-474d-914e-5228b601106e.png" width="64"> | HP: 1000 <br /> Build cost: 2000 <br /> DPS: 920  <br />  <br />| Max speed: 13 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 120 <br /> radar: 230 <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
+| fire rate: 40 <br /> max range: 230 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172261201-33e65200-8d62-4f16-8a4c-47e57b8a2263.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
 
@@ -118,7 +118,7 @@ Mobile Flying Boombots Launcher - Fires homing boombots. Attacks air. Smiles at 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172093522-9140b1aa-e4b4-4299-a0bd-18e67a01f4ce.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172095611-6af26162-c135-4edf-a1ae-8fe5eb72e0bd.png" width="64"> | HP: 600 <br /> Build cost: 1400 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced <br /> Bot Factory <br /> <br /> <br />| Damage: 0 (4 shots per second)<br /> max range: 220 <br /> Metal consumption: 2 per shot <br /> Ammo recharged after 32 sec <br /> target: Air|  spec: summon <br /> Type: staged <br />  velocity: 80 <br /> velocity: 400 |
+|  <img src="https://user-images.githubusercontent.com/104906253/172095611-6af26162-c135-4edf-a1ae-8fe5eb72e0bd.png" width="64"> | HP: 600 <br /> Build cost: 1400 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced <br /> Bot Factory <br /> <br /> <br />| Damage: 0 (4 shots per second)<br /> max range: 220 <br /> Metal consumption: 2 per shot <br /> Ammo recharged after 8 sec <br /> target: Air|  spec: summon <br /> Type: staged <br />  velocity: 80 <br /> velocity: 400 |
 
 **Flying spider (Sakura minion)** <br />
 Air Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.
@@ -349,7 +349,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
-I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off..
+I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172095538-8f0a6e46-638d-4baa-885f-670f44b962fd.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
