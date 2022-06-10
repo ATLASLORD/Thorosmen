@@ -349,7 +349,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
-I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off..
+I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172095538-8f0a6e46-638d-4baa-885f-670f44b962fd.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
