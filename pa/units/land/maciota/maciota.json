@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_structure/base_structure.json",
 "display_name":"Maciota",
-"description":"!LOC:High damage single shot weapon. Attacks orbital and air targets and intercepts drop pods. NEEDS TO BE CONTROLLED MANUALLY",
+"description":"!LOC:High damage single shot weapon. Attacks orbital and air targets and intercepts drop pods. NEEDS TO BE CONTROLLED MANUALLY.",
 "max_health":2000,
 "build_metal_cost":7000,
 "atrophy_rate":29.16667,

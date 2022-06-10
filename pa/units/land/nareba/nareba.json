@@ -2,7 +2,7 @@
 "display_name":"Stuart",
 "description":"!LOC:Flame Tank - Extended range, heavy armored vehicle.",
 "max_health":900,
-"build_metal_cost":500,
+"build_metal_cost":350,
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,4.3]}},
 "unit_types":["UNITTYPE_Tank","UNITTYPE_Heavy","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Basic","UNITTYPE_FactoryBuild"],
 "transportable":{"size":1},
