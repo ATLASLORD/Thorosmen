@@ -174,7 +174,7 @@ Flame Tank - Extended range, heavy armored vehicle.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172119596-933fe9f4-3a4a-4bc1-b7a6-67fe4202c4c1.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172258471-09912c6f-da38-45bb-bb3e-77483b381d28.png" width="64"> | HP: 900 <br /> Build cost: 500 <br /> DPS: 460  <br />  <br />| Max speed: 8 <br /> Acceleration: 100 <br /> Braking rate: 50 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Vehicle Factory <br />  Advanced Vehicle Factory <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172258471-09912c6f-da38-45bb-bb3e-77483b381d28.png" width="64"> | HP: 900 <br /> Build cost: 350 <br /> DPS: 460  <br />  <br />| Max speed: 8 <br /> Acceleration: 100 <br /> Braking rate: 50 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Vehicle Factory <br />  Advanced Vehicle Factory <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
