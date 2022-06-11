@@ -209,7 +209,7 @@ Drone Tank - drones go brrrrrrrrrrrrrrrrrrrrrrrrr. Attacks Land units.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172267497-07ae07e8-47ce-414f-9ea9-10224d3e30a1.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172267565-93e83ebf-5a9e-4d25-a6f4-e8048c3f9ca5.png" width="64"> | HP: 1500 <br /> Build cost: 3200 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 200 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Source: metal <br /> 1.2 shots per sec <br /> max range: 200 <br /> metal cons: <br /> 30 per shot <br /> Recharge: 6 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 110 <br />  <br />  <br />  <br />  <br />  |
+|  <img src="https://user-images.githubusercontent.com/104906253/172267565-93e83ebf-5a9e-4d25-a6f4-e8048c3f9ca5.png" width="64"> | HP: 1500 <br /> Build cost: 3200 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 200 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Source: metal <br /> 1.2 shots per sec <br /> max range: 220 <br /> metal cons: <br /> 30 per shot <br /> Recharge: 6 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 110 <br />  <br />  <br />  <br />  <br />  |
 
 **Squall (Tornado minion)** <br />
 Missile and Torpedo Drone - Fast, fragile, attacks land,
