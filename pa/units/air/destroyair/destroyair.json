@@ -2,7 +2,7 @@
 "display_name":"Destroyair",
 "description":"!LOC: A destroyer, but it flies, only attacks air. 'But this ship can't sink!' ",
 "max_health":800,
-"build_metal_cost":500,
+"build_metal_cost":600,
 "unit_types":["UNITTYPE_Fighter",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
