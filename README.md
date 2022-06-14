@@ -420,8 +420,9 @@ High damage single shot weapon. Attacks orbital and air targets and intercepts d
 
 ### Bunker <br />
 Heavy Bunker structure. Made to secure, contain and protect the commander from the enemy.
-How to use: Select commander,press M, right clic on the bunker middle square. Wait for commander to stop on the middle square, right clic the bunker with your commander.
-To remove commander: select the bunker, clic on unload feature displayed on the right, left clic on the bunker middle square.
+Heavy Bunker structure. Made to secure, contain and protect the commander from the enemy.
+How to use: Select commander, right clic the bunker with it.
+To remove commander: select the bunker, clic on unload feature displayed on the right, left clic on the bunker.
 
 | <img src="https://user-images.githubusercontent.com/104906253/173497864-e84ab476-d848-4d3f-8879-9986c79e4609.png" width="64">   | Overview  | Recon  | Build by |
 | :--- | :--- | :---- | :--- |
