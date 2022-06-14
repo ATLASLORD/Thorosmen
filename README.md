@@ -129,25 +129,6 @@ Air Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extr
 
 <img src="https://user-images.githubusercontent.com/104906253/172097043-0e6b679a-0453-469b-a094-8ca403a7228d.png" width="280"> <img src="https://user-images.githubusercontent.com/104906253/172097807-ae93d75d-d4cf-409f-82d8-64bcbf33c0de.png" width="280"> <img src="https://user-images.githubusercontent.com/104906253/172097513-b5ad7b86-03d4-4560-a13a-aa569dbce812.png" width="280">  
 
-
-***
-
-
-### **Toblerone** <br />
-Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies somehow. Long and expensive reload time. Can carry one ammo.
-
-| <img src="https://user-images.githubusercontent.com/104906253/172099321-cd60123d-c548-4c10-ba29-37303b5779c8.png" width="64">   | Overview  | Physics | Recon  | Build by |
-| :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
-
-| Weapon Tool  | Ammo |
-| :--- | :--- |
-| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
-<img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="320">
-<img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="320">  
-<br />  
-<br />  
-
 ## Vehicules
 
 ### **Baby Donut** <br />
