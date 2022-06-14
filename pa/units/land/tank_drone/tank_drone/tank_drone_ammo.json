@@ -9,7 +9,6 @@
 "max_velocity":110.0,
 "turn_rate":720.0,
 "lifetime":3.0,
-"physics":{"add_to_spatial_db":true},
 "model":{"filename":"/pa/units/sea/drone_carrier/drone/drone.papa"},
 "fx_trail":{"filename":"/pa/units/sea/drone_carrier/carrier/carrier_ammo_trail.pfx",
 "offset":[0.0,

@@ -34,7 +34,7 @@
 "navigation":{"type":"air",
 "acceleration":30,
 "brake":20,
-"move_speed":40,
+"move_speed":35,
 "turn_speed":180,
 "vertical_speed":100,
 "hover_time":-1.0,
@@ -51,7 +51,7 @@
 "TEMP_texelinfo":10.4837,
 "fx_offsets":[{
 "bone": "bone_root",
-"filename": "/pa/units/land/cube/dust.pfx",
+"filename": "/pa/units/air/thorondor/dust.pfx",
 "offset": [0,
 0,
 0],

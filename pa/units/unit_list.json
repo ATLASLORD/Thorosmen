@@ -234,4 +234,7 @@
 "/pa/units/land/fef/fef.json",
 "/pa/units/land/moving_mine/moving_mine.json",
 "/pa/units/air/airship/airship.json",
+"/pa/units/land/bunker/bunker.json",
+"/pa/units/land/hovertruck/hovertruck.json",
+"/pa/units/land/bunker_orb/bunker_orb.json",
 "/pa/units/sea/hover_ship/hover_ship.json"]}

@@ -2,7 +2,7 @@
 "display_name":"Prado",
 "description":"!LOC:Laser Tank - long range, medium damage. Attacks air and surface targets. Low health",
 "max_health":270,
-"build_metal_cost":1650,
+"build_metal_cost":1800,
 "influence_radius":400,
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,3.1]}},
 "unit_types":["UNITTYPE_Tank",

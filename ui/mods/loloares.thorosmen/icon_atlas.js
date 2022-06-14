@@ -33,5 +33,8 @@ var paeiouIcons = [
     "fef",
     "moving_mine",
     "airship",
+    "bunker",
+    "hovertruck",
+    "bunker_orb",
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

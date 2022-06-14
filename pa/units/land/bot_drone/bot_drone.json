@@ -1,7 +1,7 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Sakura",
 "description":"!LOC:Mobile Flying Boombots Launcher - Fires homing boombots. Attacks air. Smiles at the enemy",
-"build_metal_cost":1400,
+"build_metal_cost":1600,
 "max_health":600,
 "guard_radius":250,
 "attachable":{"offsets":{"root":[0,
