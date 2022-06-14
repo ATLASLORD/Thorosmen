@@ -39,7 +39,7 @@ Kamikaze Trees launcher - shoots moving land mines trees to the enemy.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172079072-abecd669-737e-4dbf-8806-cd540561f59a.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172079410-898a6af6-5006-473f-b6ca-22af24d4bbb5.png" width="64"> | HP: 2000 <br /> Build cost: 5000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 230 <br /> fire rate: 3 <br /> recharge: 10 sec <br /> | type: summon <br /> energy cost: 5 <br /> speed: 60 <br /> turn rate: 270 <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/172079410-898a6af6-5006-473f-b6ca-22af24d4bbb5.png" width="64"> | HP: 2000 <br /> Build cost: 5000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 230 <br /> fire rate: 3 <br /> recharge: 20 sec <br /> | type: summon <br /> energy cost: 5 <br /> speed: 60 <br /> turn rate: 270 <br />
 
 **Moving Tree-Mine (Angry Tree minion)** <br />
 moving mine - destructs when touching any enemy unit to deal very high area damage .  fast and sneaky.
@@ -103,11 +103,11 @@ Long range AA laser bot. Durable. Equipped with radar.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172087110-41efbfcd-a6c8-4cc7-aeca-a94f5bc16534.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172087469-59d66fdb-0c77-474d-914e-5228b601106e.png" width="64"> | HP: 1000 <br /> Build cost: 2000 <br /> DPS: 920  <br />  <br />| Max speed: 13 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 120 <br /> radar: 230 <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172087469-59d66fdb-0c77-474d-914e-5228b601106e.png" width="64"> | HP: 1000 <br /> Build cost: 2000 <br /> DPS: 920  <br />  <br />| Max speed: 13 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 120 <br /> radar: 220 <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 230 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
+| fire rate: 40 <br /> max range: 220 <br /> Target: Air <br /> <br /> | damage: 23 <br /> splash: 0 <br /> spec: summon <br />velocity: 400 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172261201-33e65200-8d62-4f16-8a4c-47e57b8a2263.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172088325-59d70a04-4768-4c99-af25-81c2adadc072.png" width="300">
 
@@ -118,7 +118,7 @@ Mobile Flying Boombots Launcher - Fires homing boombots. Attacks air. Smiles at 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172093522-9140b1aa-e4b4-4299-a0bd-18e67a01f4ce.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172095611-6af26162-c135-4edf-a1ae-8fe5eb72e0bd.png" width="64"> | HP: 600 <br /> Build cost: 1400 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced <br /> Bot Factory <br /> <br /> <br />| Damage: 0 (4 shots per second)<br /> max range: 220 <br /> Metal consumption: 2 per shot <br /> Ammo recharged after 8 sec <br /> target: Air|  spec: summon <br /> Type: staged <br />  velocity: 80 <br /> velocity: 400 |
+|  <img src="https://user-images.githubusercontent.com/104906253/172095611-6af26162-c135-4edf-a1ae-8fe5eb72e0bd.png" width="64"> | HP: 600 <br /> Build cost: 1600 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced <br /> Bot Factory <br /> <br /> <br />| Damage: 0 (4 shots per second)<br /> max range: 220 <br /> Metal consumption: 2 per shot <br /> Ammo recharged after 8 sec <br /> target: Air|  spec: summon <br /> Type: staged <br />  velocity: 80 <br /> velocity: 400 |
 
 **Flying spider (Sakura minion)** <br />
 Air Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.
@@ -189,7 +189,7 @@ Little Decoy flare hover donut - shoots harmless projectiles to mesmerize enemy 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172262049-81eff50c-d718-45d2-b17c-b82c71f13b86.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172262125-5f326166-5d2f-43d7-9de2-73a1da47ecc8.png" width="64"> | HP: 2000 <br /> Build cost: 1000 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 260 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Damage: 0 <br /> 3 shots per sec <br /> max range: 250 <br /> energy cons: <br /> 5 per shot <br /> Recharge: 10 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 80 <br />  |
+|  <img src="https://user-images.githubusercontent.com/104906253/172262125-5f326166-5d2f-43d7-9de2-73a1da47ecc8.png" width="64"> | HP: 2000 <br /> Build cost: 1000 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 260 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Damage: 0 <br /> 5 shots per sec <br /> max range: 250 <br /> energy cons: <br /> 5 per shot <br /> Recharge: 10 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 80 <br />  |
 
 **Decoy (Donut minion)** <br />
 Decoy landmine, moves to the enemy to be targeted.
@@ -209,7 +209,7 @@ Drone Tank - drones go brrrrrrrrrrrrrrrrrrrrrrrrr. Attacks Land units.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172267497-07ae07e8-47ce-414f-9ea9-10224d3e30a1.png" width="64">   | Overview  | Physics | Recon  | Build by | Weapon Tool  | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172267565-93e83ebf-5a9e-4d25-a6f4-e8048c3f9ca5.png" width="64"> | HP: 1500 <br /> Build cost: 3200 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 200 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Source: metal <br /> 1.2 shots per sec <br /> max range: 220 <br /> metal cons: <br /> 30 per shot <br /> Recharge: 6 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 110 <br />  <br />  <br />  <br />  <br />  |
+|  <img src="https://user-images.githubusercontent.com/104906253/172267565-93e83ebf-5a9e-4d25-a6f4-e8048c3f9ca5.png" width="64"> | HP: 1500 <br /> Build cost: 3200 <br /> DPS: 0  <br />  <br />| Max speed: 10 <br /> Acceleration: 100 <br /> Braking rate: 100 <br /> Turn rate: 180 | Vision <br /> radius: 100 <br /> radar: 200 <br /> <br /> <br /> | Advanced <br /> Vehicle  <br /> Factory <br /> <br /> | Source: metal <br /> 1.2 shots per sec <br /> max range: 220 <br /> metal cons: <br /> 20 per shot <br /> Recharge: 6 sec <br /> target: Land|  spec: summon <br /> Type: staged <br />  velocity: 110 <br />  <br />  <br />  <br />  <br />  |
 
 **Squall (Tornado minion)** <br />
 Missile and Torpedo Drone - Fast, fragile, attacks land,
@@ -217,7 +217,7 @@ Missile and Torpedo Drone - Fast, fragile, attacks land,
 
 | <img src="https://user-images.githubusercontent.com/104906253/172268091-3bf7c259-1f2a-4536-bc1a-c709704e8ca0.png" width="64">   | Overview  | Physics | Recon  | Weapon Tool  | Ammo  |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172268193-4b1cfd2d-31f3-4c91-a6ca-baabb49ffa44.png" width="64"> | HP: 21 <br /> Build cost: 5 <br /> DPS: 0  <br />  life duration: 13 sec <br />| Max speed: 80 <br /> Acceleration: 80 <br /> Braking rate: 30 <br /> Turn rate: 240 | Vision radius: 150 <br /> <br /> <br /> <br /> | fire rate: 0.8 <br /> max range: 100 <br />  target: Land <br />  <br />| damage: 50  <br /> splash damage: 20  <br /> splash radius: 0.75  <br /> velocity: 150 |
+|  <img src="https://user-images.githubusercontent.com/104906253/172268193-4b1cfd2d-31f3-4c91-a6ca-baabb49ffa44.png" width="64"> | HP: 21 <br /> Build cost: 20 <br /> DPS: 0  <br />  life duration: 13 sec <br />| Max speed: 80 <br /> Acceleration: 80 <br /> Braking rate: 30 <br /> Turn rate: 240 | Vision radius: 150 <br /> <br /> <br /> <br /> | fire rate: 0.8 <br /> max range: 100 <br />  target: Land <br />  <br />| damage: 50  <br /> splash damage: 20  <br /> splash radius: 0.75  <br /> velocity: 150 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172269342-a821e0c2-42c7-422a-a413-0794e6b8793d.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172269800-bc5992ca-3fa8-42e2-9561-95a8152bc15f.png" width="310">
 
@@ -228,7 +228,7 @@ Moving shield - Basic regen shield vehicle.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172270423-d52f51a0-6bde-423e-a819-f3f110d25919.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 6000 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 5500 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
@@ -262,7 +262,7 @@ Tanky Tank. Medium-long range, lots of health. Medium-high damage with a big dam
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| Fire rate: 0.25 <br /> Max range: 190 <br /> Target: Land <br /> <br /> | Damage: 1350 <br /> Splash damage: 130 <br /> Splash radius: 40 <br /> Velocity: 450 |
+| Fire rate: 0.25 <br /> Max range: 200 <br /> Target: Land <br /> <br /> | Damage: 1350 <br /> Splash damage: 130 <br /> Splash radius: 40 <br /> Velocity: 450 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172284371-1ed80c56-5b54-409e-9403-ed8e4ee92ab2.png" width="220"> <img src="https://user-images.githubusercontent.com/104906253/172284374-ef2ed737-9f61-4371-8bff-0e0c91570115.png" width="290">  
 
@@ -398,9 +398,9 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 | :--- | :--- | :---- | :--- | :--- |
 |  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 10 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
-| Weapon Tool  | Ammo | Ammo Death |
-| :--- | :--- | :--- |
-| fire rate: 15 <br /> max range: 100 <br /> Target: Land, Air <br /> <br /> | damage: 80 <br /> splash damage: 40 <br /> splash radius: 20  <br /> spec: tactical missile | Damage: 300 <br /> Splash damage: 100 <br /> Splash radius: 120 <br /> spec: pbaoe |
+| Weapon Tool  | Ammo |  Weapon Tool 2 | Ammo 2 | Weapon Tool 3 | Ammo 3 |Ammo Death |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| fire rate: 15 <br /> max range: 100 <br /> Target: Land, Air <br /> <br /> | damage: 80 <br /> splash damage: 40 <br /> splash radius: 20  <br /> spec: tactical missile |  fire rate: 2 <br /> max range: 150 <br /> Target: Air <br /> <br />  | damage: 30 <br /> splash damage: 0 <br /> splash radius: 0  <br /> spec: beam |  fire rate: 0.5 <br /> max range: 120 <br /> Target: Air <br /> <br />  | damage: 300 <br /> splash damage: 300 <br /> splash radius: 4  <br /> spec: beam | Damage: 300 <br /> Splash damage: 100 <br /> Splash radius: 120 <br /> spec: pbaoe |
 
 <img src="https://user-images.githubusercontent.com/104906253/172325165-c67e3706-f0a5-459f-9624-cf357a432a81.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172325174-406fbc90-e744-436a-9c92-608381deb085.png" width="300">  
 
