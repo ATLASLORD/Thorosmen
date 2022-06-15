@@ -255,7 +255,7 @@ A Destroyer, but it flies... Only attacks air.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172289233-42669476-4434-48d6-8a28-03210c0b1b28.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172289322-890342a9-35b3-40a4-95d8-c9adb75e93e9.png" width="64"> | HP: 800 <br /> Build cost: 600 <br /> DPS: 0  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 200 <br /> <br /> <br /> <br /> | Air Factory <br />  Advanced Air Factory <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172289322-890342a9-35b3-40a4-95d8-c9adb75e93e9.png" width="64"> | HP: 500 <br /> Build cost: 500 <br /> DPS: 0  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 200 <br /> <br /> <br /> <br /> | Air Factory <br />  Advanced Air Factory <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
