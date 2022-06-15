@@ -14,7 +14,7 @@
 "navigation":{"type":"amphibious",
 "acceleration":50,
 "brake":-1,
-"move_speed":15,
+"move_speed":10,
 "turn_speed":100},
 "physics":{"radius":8.5},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
