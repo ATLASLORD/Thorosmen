@@ -377,7 +377,7 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 
 | <img src="https://user-images.githubusercontent.com/104906253/172308504-7d0e9fdf-b5c3-444c-a001-e3ef2d76e47b.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 10 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |  Weapon Tool 2 | Ammo 2 | Weapon Tool 3 | Ammo 3 |Ammo Death |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
