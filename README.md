@@ -326,7 +326,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 | <img src="https://user-images.githubusercontent.com/104906253/172302356-7069e379-d289-413c-bac4-fcd7b62907b2.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 15 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
