@@ -209,7 +209,7 @@ Moving shield - Basic regen shield vehicle.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172270423-d52f51a0-6bde-423e-a819-f3f110d25919.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 5500 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 6000 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
@@ -326,7 +326,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 | <img src="https://user-images.githubusercontent.com/104906253/172302356-7069e379-d289-413c-bac4-fcd7b62907b2.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 15 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
