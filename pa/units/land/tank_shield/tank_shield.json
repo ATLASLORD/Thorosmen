@@ -2,7 +2,7 @@
 "display_name":"Aegis",
 "description":"!LOC:Moving shield - Basic regen shield vehicle",
 "max_health":2000,
-"build_metal_cost":5500,
+"build_metal_cost":6000,
 "armor_type":"AT_Hover",
 "attachable":{"offsets":{"root":[0,
 0,

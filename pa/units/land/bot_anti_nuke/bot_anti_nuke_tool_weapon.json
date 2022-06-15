@@ -7,7 +7,7 @@
 "ammo_per_shot":5000,
 "start_fully_charged":false,
 "rate_of_fire":1.5,
-"max_range":200,
+"max_range":220,
 "yaw_rate":0,
 "pitch_rate":0,
 "yaw_range":180,
