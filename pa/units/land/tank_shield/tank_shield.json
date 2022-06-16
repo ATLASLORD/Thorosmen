@@ -24,7 +24,7 @@
 "brake":140,
 "move_speed":14,
 "turn_speed":90,
-"group_preference":"front"},
+"group_preference":"back"},
 "physics":{"radius":8.5,"air_friction":0.5},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
