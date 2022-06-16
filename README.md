@@ -347,11 +347,11 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 
 | <img src="https://user-images.githubusercontent.com/104906253/172099321-cd60123d-c548-4c10-ba29-37303b5779c8.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br /> Advanced Fabber <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 180 <br /> radar: 220 <br /> <br /> <br /> | Advanced Bot Factory <br /> Advanced Fabber <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 1500 |
+| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 3000 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
 
@@ -377,7 +377,7 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 
 | <img src="https://user-images.githubusercontent.com/104906253/172308504-7d0e9fdf-b5c3-444c-a001-e3ef2d76e47b.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 10 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |  Weapon Tool 2 | Ammo 2 | Weapon Tool 3 | Ammo 3 |Ammo Death |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
