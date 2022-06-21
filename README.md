@@ -420,13 +420,12 @@ High damage single shot weapon. Attacks orbital and air targets and intercepts d
 
 ### Bunker <br />
 Heavy Bunker structure. Made to secure, contain and protect the commander from the enemy.
-Heavy Bunker structure. Made to secure, contain and protect the commander from the enemy.
 How to use: Select commander, right clic the bunker with it.
 To remove commander: select the bunker, clic on unload feature displayed on the right, left clic on the bunker.
 
-| <img src="https://user-images.githubusercontent.com/104906253/173497864-e84ab476-d848-4d3f-8879-9986c79e4609.png" width="64">   | Overview  | Recon  | Build by |
+| <img src="https://user-images.githubusercontent.com/104906253/174663870-382a4d12-70ce-43d6-8397-e1af6819f1a4.png" width="64">   | Overview  | Recon  | Build by |
 | :--- | :--- | :---- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/173504924-acb7fb1f-7244-45a1-a39c-d06ae9ae6308.png" width="64"> | HP: 160000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/174663684-9e605f64-b36d-445c-aba8-669d91c04150.png" width="64"> | HP: 160000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
 
 <img src="https://user-images.githubusercontent.com/104906253/173497790-58e12b5c-9e29-44d1-9c4f-e1e9a2b6cc17.png" width="300">  
 
@@ -437,9 +436,21 @@ Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 15000 <br /> Build cost: 60000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 60000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
 
 <img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
+
+
+***
+
+### Metal Assimilator <br />
+Advanced Metal Economy - Generates metal by destroying an area. Damage to every land units inside the green zone.
+
+| <img src="https://user-images.githubusercontent.com/104906253/174663359-1c8022cd-7abb-486b-bffa-d20a94d3fb59.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
+| :--- | :--- | :---- | :--- | :--- | :--- |
+|  <img src="https://user-images.githubusercontent.com/104906253/174663409-daeb1e1c-be85-4b9b-95b6-87011c1551f2.png" width="64"> | HP: 10000 <br /> Build cost: 5000 <br /> Metal per sec: 100 <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 4 <br /> Start after: 9 sec  <br /> range: 140 <br />  <br /> | Dmg: 100 radius: 140 <br /> Splash dmg: 100 <br /> Splash dmg radius: 100 <br /> friendly fire: true <br /> 
+
+<img src="https://user-images.githubusercontent.com/104906253/174663577-a5339d5e-bde4-47d4-ba11-b8bbc46842fd.png" width="300">  
 
 
 
