@@ -36,5 +36,6 @@ var paeiouIcons = [
     "bunker",
     "hovertruck",
     "bunker_orb",
+    "metal_destructor",
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

@@ -29,7 +29,8 @@ var newBuild = {
     "/pa/units/land/pap/pap.json": ["factory", 0, { row: 0, column: 0 }],
     "/pa/units/land/fef/fef.json": ["factory", 0, { row: 0, column: 1 }],
     "/pa/units/air/airship/airship.json": ["air", 0, { row: 0, column: 2 }],
-    "/pa/units/land/hovertruck/hovertruck.json": ["utility", 0, { row: 1, column: 0 }]
+    "/pa/units/land/hovertruck/hovertruck.json": ["utility", 0, { row: 1, column: 0 }],
+    "/pa/units/land/metal_destructor/metal_destructor.json": ["utility", 0, { row: 0, column: 2 }]
 
 
 

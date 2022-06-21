@@ -33,7 +33,7 @@
 "aim_bone":"bone_spine",
 "muzzle_bone":"bone_spine"}],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/veh"},
-"fired":{"audio_cue":"/SE/Weapons/veh/tank_T2_leveler"},
+"fired":{"audio_cue":"/SE/Weapons/old/rocket_fire"},
 "died":{"audio_cue":"/SE/Death/structure_small","effect_spec":"/pa/effects/specs/default_building_explosion.pfx",
 "effect_scale":1.3}},
 "audio":{"loops":{"move":{"cue":"/SE/Movement/veh/tank_heavy_mortar_loop_sheller_T2","flag":"vel_changed",
