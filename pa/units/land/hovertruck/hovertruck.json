@@ -1,9 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Bunker",
-"description":"!LOC: Heavy Bunker structure. Made to secure, contain and protects the commander from the enemy.
-How to use: select commander, then right clic the bunker . 
-To remove commander: select the bunker, clic on unload feature displayed to the right, left clic on the bunker.",
-"max_health":180000,
+"description":"!LOC: SCP containment unit. HOW TO USE: Select Commander, right clic the bunker. To remove it: select the bunker, clic on unload feature displayed to the right, left clic on the bunker.",
+"max_health":150000,
 "build_metal_cost":6000,
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Mobile",
@@ -20,7 +18,7 @@ To remove commander: select the bunker, clic on unload feature displayed to the 
 "move_speed":10,
 "turn_speed":100},
 "physics":{"radius":5,
-"gravity_scalar":0.001},
+"gravity_scalar":0.001, "add_to_spatial_db":false},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",

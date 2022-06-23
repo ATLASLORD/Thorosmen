@@ -2,7 +2,7 @@
 "display_name":"Flying Potato",
 "description":"!LOC: big balloon airship, shoots enormous amont of homing projectiles to land and air units, Slower than winter. 'I'll take a potato ship... AND EAT IT!' ",
 "max_health":15000,
-"build_metal_cost":15000,
+"build_metal_cost":18000,
 "unit_types":["UNITTYPE_Fighter",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
