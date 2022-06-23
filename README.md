@@ -425,7 +425,7 @@ To remove commander: select the bunker, clic on unload feature displayed on the 
 
 | <img src="https://user-images.githubusercontent.com/104906253/174663870-382a4d12-70ce-43d6-8397-e1af6819f1a4.png" width="64">   | Overview  | Recon  | Build by |
 | :--- | :--- | :---- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/174663684-9e605f64-b36d-445c-aba8-669d91c04150.png" width="64"> | HP: 160000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/174663684-9e605f64-b36d-445c-aba8-669d91c04150.png" width="64"> | HP: 150000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
 
 <img src="https://user-images.githubusercontent.com/104906253/173497790-58e12b5c-9e29-44d1-9c4f-e1e9a2b6cc17.png" width="300">  
 
