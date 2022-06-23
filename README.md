@@ -59,7 +59,7 @@ Big Sniper - Good against high health units. OOF damage. Slow rate of fire. Atta
 
 | <img src="https://user-images.githubusercontent.com/104906253/172080611-eb5e11d6-741e-4524-829e-50296088ee36.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172080559-949514eb-3b74-40c7-9fe8-e0256e5987d2.png" width="64"> | HP: 1000 <br /> Build cost: 5000 <br />  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172080559-949514eb-3b74-40c7-9fe8-e0256e5987d2.png" width="64"> | HP: 1000 <br /> Build cost: 6000 <br />  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Bot Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
@@ -377,7 +377,7 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 
 | <img src="https://user-images.githubusercontent.com/104906253/172308504-7d0e9fdf-b5c3-444c-a001-e3ef2d76e47b.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 18000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |  Weapon Tool 2 | Ammo 2 | Weapon Tool 3 | Ammo 3 |Ammo Death |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -425,7 +425,7 @@ To remove commander: select the bunker, clic on unload feature displayed on the 
 
 | <img src="https://user-images.githubusercontent.com/104906253/174663870-382a4d12-70ce-43d6-8397-e1af6819f1a4.png" width="64">   | Overview  | Recon  | Build by |
 | :--- | :--- | :---- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/174663684-9e605f64-b36d-445c-aba8-669d91c04150.png" width="64"> | HP: 160000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/174663684-9e605f64-b36d-445c-aba8-669d91c04150.png" width="64"> | HP: 150000 <br /> Build cost: 6000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />
 
 <img src="https://user-images.githubusercontent.com/104906253/173497790-58e12b5c-9e29-44d1-9c4f-e1e9a2b6cc17.png" width="300">  
 
@@ -436,7 +436,7 @@ Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 60000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 66666 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
 
 <img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
 
