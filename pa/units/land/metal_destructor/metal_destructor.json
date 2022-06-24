@@ -39,7 +39,7 @@
 "animtree":"/pa/anim/anim_trees/constant_idle_anim_tree.json",
 "skirt_decal":"/pa/effects/specs/skirt_energy_adv.json"},
 {"layer":"WL_WaterSurface",
-"filename":"/pa/units/sea/sea_metal_destructor/sea_metal_destructor.papa",
+"filename":"/pa/units/land/metal_destructor/metal_destructor.papa",
 "animations":{"idle":"/pa/units/land/metal_destructor/metal_destructor_anim_work.papa"},
 "animtree":"/pa/anim/anim_trees/constant_idle_anim_tree.json"}],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/energy"},
