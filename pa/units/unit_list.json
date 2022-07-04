@@ -238,4 +238,7 @@
 "/pa/units/land/hovertruck/hovertruck.json",
 "/pa/units/land/bunker_orb/bunker_orb.json",
 "/pa/units/land/metal_destructor/metal_destructor.json",
+"/pa/units/land/unit_orbit/unit_orbit.json",
+"/pa/units/land/nuke_orbit/nuke_orbit.json",
+"/pa/units/land/artillery_nuke/artillery_nuke_ammo.json",
 "/pa/units/sea/hover_ship/hover_ship.json"]}
