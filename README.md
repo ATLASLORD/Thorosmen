@@ -326,7 +326,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 | <img src="https://user-images.githubusercontent.com/104906253/172302356-7069e379-d289-413c-bac4-fcd7b62907b2.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 10000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
@@ -351,7 +351,7 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 25 sec <br /> velocity: 3000 |
+| fire rate: 40 <br /> max range: 240 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 25 sec <br /> velocity: 3000 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
 
