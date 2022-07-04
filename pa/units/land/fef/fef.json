@@ -2,7 +2,7 @@
 "display_name":"Fef",
 "description":"Semi titan boom unit. Durable",
 "max_health":8300,
-"build_metal_cost":10000,
+"build_metal_cost":9000,
 
 
 "death_weapon":{"ground_ammo_spec":"/pa/units/land/fef/fef_ammo_death.json"},
