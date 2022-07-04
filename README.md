@@ -326,7 +326,7 @@ Semi titan boom unit. Summons a horde of boombots that contains Wildfire explosi
 
 | <img src="https://user-images.githubusercontent.com/104906253/172302356-7069e379-d289-413c-bac4-fcd7b62907b2.png" width="64">   | Overview  | Physics | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 9000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
+|  <img src="https://user-images.githubusercontent.com/104906253/172302253-c97dfb2e-f7f2-40dd-aa44-796cd034a6d4.png" width="64"> | HP: 8300 <br /> Build cost: 10000 <br />  <br />  <br />| Max speed: 10 <br /> Acceleration: 50 <br /> Braking rate: -1 <br /> Turn rate: 100 | Vision radius: <br /> 90  <br /> <br /> <br /> | Advanced <br /> Bot Factory  <br /> <br /> <br />| source: energy <br />  range: 250 <br /> fire rate: 3.6 <br /> recharge: 9 sec <br /> | type: summon <br /> energy cost: 2.5 <br /> speed: 60 <br /> turn rate: 720 <br />
 
 **Wild Boombot (Fef minion)** <br />
 boombot - destructs when touching any enemy unit to deal high area damage . <br />
@@ -347,11 +347,11 @@ Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies someh
 
 | <img src="https://user-images.githubusercontent.com/104906253/172099321-cd60123d-c548-4c10-ba29-37303b5779c8.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 180 <br /> radar: 220 <br /> <br /> <br /> | Advanced Bot Factory <br /> Advanced Fabber <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172098113-12111cf6-16dd-4f38-9d8e-fdaf0d3d9c3b.png" width="64"> | HP: 15000 <br /> Build cost: 15000 <br /> DPS: 0  <br />  <br />| Max speed: 12 <br /> Acceleration: 120 <br /> Braking rate: 20 <br /> Turn rate: 500 | Vision radius: 240 <br /> radar: 240 <br /> <br /> <br /> | Advanced Bot Factory <br /> Advanced Fabber <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 40 <br /> max range: 200 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 42 sec <br /> velocity: 3000 |
+| fire rate: 40 <br /> max range: 240 <br /> Target: Air <br /> <br /> | charged: false <br /> metal cost: 5000 per shot <br /> recharge time: 25 sec <br /> velocity: 3000 |
 
 <img src="https://user-images.githubusercontent.com/104906253/172099214-8a6152ed-3e21-4603-99eb-f156f09711f0.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172099216-6caabaf8-c449-45d8-b11b-0981f199458d.png" width="300">  
 
@@ -432,11 +432,11 @@ To remove commander: select the bunker, clic on unload feature displayed on the 
 ***
 
 ### Nukins <br />
-Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean large areas from very far away. Nukes are friendly.
+Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean large areas from very far away.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 66666 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.07 <br /> Ammo energy: 37500  <br /> Full recharge: 15 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 200 <br /> 
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 66666 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.05 <br /> Ammo metal: 5000  <br /> Full recharge: 20 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 100 <br /> 
 
 <img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
 
