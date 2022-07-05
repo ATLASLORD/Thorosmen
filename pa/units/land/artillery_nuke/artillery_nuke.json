@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_structure/base_structure.json",
 "display_name":"Nukins",
-"description":"!LOC:Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean large areas from very far away. nukes are immune to enemy anti-nuke and friendly.",
+"description":"!LOC:Nuclear artillery - Extremely long range. Shoots nuke projectiles to clean large areas. Don't let it nuke your base.",
 "max_health":12000,
 "build_metal_cost":50000,
 "atrophy_rate":240.0,
