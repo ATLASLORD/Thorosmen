@@ -2,7 +2,7 @@
 "display_name":"Nukins",
 "description":"!LOC:Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean large areas from very far away. nukes are immune to enemy anti-nuke and friendly.",
 "max_health":12000,
-"build_metal_cost":66666,
+"build_metal_cost":50000,
 "atrophy_rate":240.0,
 "atrophy_cool_down":15.0,
 "spawn_layers":"WL_AnyHorizontalGroundOrWaterSurface",
