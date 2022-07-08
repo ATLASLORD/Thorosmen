@@ -296,7 +296,7 @@ Long range UFO unit. Durable, slow and equiped with two laser cannons. Attacks a
 ***
 
 ### **Thorondor** <br />
-Heavy advanced air transport able to carry the Commander, Manhattans or Titans. slower than pelican.      
+Air transport able to carry Titans, Manhattan and Commander. Visible by all. Can move between planets. IMPORTANT: disabled manhattan explosion during transport to avoid orbital snipes. 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172298127-d20145dc-38bb-4c21-9499-c2d9649ea969.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
