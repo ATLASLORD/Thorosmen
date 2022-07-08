@@ -85,6 +85,8 @@
     "/pa/units/land/tank_drone/drone_land/drone_land_ammo.json",
     "/pa/units/land/canhao/canhao_ammo.json",
     "/pa/units/land/kinha/kinha_ammo.json",
+    "/pa/units/air/binho/binho_ammo.json",
+    "/pa/units/land/cuzeta/cuzeta_ammo.json",
     "/pa/units/sea/l_sea_tank/l_sea_tank_ammo.json"
   ],
   "anti_entity_targets_units": false,
