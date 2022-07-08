@@ -436,7 +436,7 @@ Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 66666 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.05 <br /> Ammo metal: 5000  <br /> Full recharge: 20 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 100 <br /> 
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 50000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.05 <br /> Ammo metal: 5000  <br /> Full recharge: 20 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 100 <br /> 
 
 <img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
 
