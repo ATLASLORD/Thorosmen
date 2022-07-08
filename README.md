@@ -266,15 +266,15 @@ A Destroyer, but it flies... Only attacks air.
 ***
 
 ### **Banana** <br />
-Flying bananas are real. Flying submarine, high range, low damage. Attacks land and air targets.  
+Peanut Butter Jelly Time! Fast Flying Submarine equipped with many medium range tactical missiles that target air and land.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172292928-da492472-400e-4d0a-96de-96e987793a02.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1200 <br /> Build cost: 2200 <br /> DPS: 125  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1600 <br /> Build cost: 2200 <br /> DPS: 200  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 5 <br /> max range: 150 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 25 <br /> splash: 0 <br /> velocity: 140  |
+| fire rate: 5 <br /> max range: 110 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 40 <br /> splash dmg: 25 r: 10 <br /> velocity: 140  |
 
 <img src="https://user-images.githubusercontent.com/104906253/172293537-10efd7e8-801c-4d01-bbc1-1397a8bcccf2.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172293532-aea1c6b1-f28a-447a-a686-137933062c2f.png" width="260">
 
@@ -300,7 +300,7 @@ Heavy advanced air transport able to carry the Commander, Manhattans or Titans. 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172298127-d20145dc-38bb-4c21-9499-c2d9649ea969.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172298233-da2a0d58-62f9-4d54-b117-64b3c36d3c1a.png" width="64"> | HP: 800 <br /> Build cost: 5000 <br /> DPS: 0  <br />  <br />| Max speed: 40 <br /> Acceleration: 30 <br /> Braking rate: 20 <br /> Turn rate: 180 | Vision radius: 70 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172298233-da2a0d58-62f9-4d54-b117-64b3c36d3c1a.png" width="64"> | HP: 2400 <br /> Build cost: 4000 <br /> DPS: 0  <br />  <br />| Max speed: 40 <br /> Acceleration: 30 <br /> Braking rate: 20 <br /> Turn rate: 180 | Vision radius: 70 <br /> visible by all <br /> <br /> interplanetary <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
 
 <img src="https://user-images.githubusercontent.com/104906253/172324293-fc2c7842-c204-42ad-b97e-ed0ed76d441f.png" width="300">
 
@@ -436,7 +436,7 @@ Advanced Artillery - Extremely long range extreme damage. Shoots nukes to clean 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172319011-49aebe80-fb5b-42b9-b2d6-5aa772304b34.png" width="64">   | Overview  | Recon  | Build by | Tool Weapon | Ammo |
 | :--- | :--- | :---- | :--- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 66666 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.05 <br /> Ammo metal: 5000  <br /> Full recharge: 20 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 100 <br /> 
+|  <img src="https://user-images.githubusercontent.com/104906253/172317926-d7d8007a-a0b8-4ad9-a226-76d3dfc04fd3.png" width="64"> | HP: 12000 <br /> Build cost: 50000 <br />  <br />  <br /> | Vision radius: <br /> 100  <br /> <br /> <br /> | Advanced Fabber <br />  <br /> <br /> <br />| Fire rate: 0.05 <br /> Ammo metal: 5000  <br /> Full recharge: 20 sec <br /> range: 600 <br /> | Dmg: 33000 radius: 125 <br /> Splash dmg: 33000 <br /> Splash dmg radius: 150 <br /> Velocity: 100 <br /> 
 
 <img src="https://user-images.githubusercontent.com/104906253/172325608-01740612-44c9-4aa3-8dfa-f11b48129d03.png" width="300">  
 
