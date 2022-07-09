@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
-"display_name":"Spark",
-"description":"!LOC:Tesla Bot - Very high damage over a short range area. Uses energy. Attacks land targets.",
+"display_name":"used Spartak",
+"description":"!LOC:If you read this - your spartak has noclipped into the backrooms",
 "max_health":160,
 "build_metal_cost":130,
 "attachable":{"offsets":{"root":[0,
