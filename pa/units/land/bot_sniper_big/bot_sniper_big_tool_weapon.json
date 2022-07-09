@@ -13,4 +13,6 @@
 "auto_attack":true,
 "target_layers":["WL_LandHorizontal",
 "WL_Seafloor",
-"WL_WaterSurface"]}
+"WL_WaterSurface"],
+"target_priorities":["Titan",
+"Artillery & Advanced & ( Land | Naval )"]}}
