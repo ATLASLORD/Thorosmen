@@ -9,7 +9,7 @@
 "pitch_range":0,
 "firing_arc_yaw":360,
 "firing_arc_pitch":360,
-"auto_attack":true,
+"auto_attack":false,
 "self_destruct":true,
 "spread_fire":true,
 "target_layers":["WL_LandHorizontal",
