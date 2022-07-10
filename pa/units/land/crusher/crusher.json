@@ -1,4 +1,4 @@
-{"base_spec":"/pa/units/land/base_vehicle_crusher/base_vehicle_crusher.json",
+{"base_spec":"/pa/units/land/crusher/base_vehicle_crusher.json",
 "display_name":"Lawnmower",
 "description":"!LOC:Giant Bulldozer. Crushes Everything. OOF damage. High. Detects Mines.",
 "max_health":40000,
