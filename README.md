@@ -24,7 +24,7 @@ Sneaky - tp itself to the enemy
 before attacking.
 | <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172068540-689a9db5-8609-40be-94f6-c55edd58a579.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172069848-6c333428-0cd5-4964-8ed9-19052e321cf9.png" width="64"> | HP: 160 <br /> Build cost: 140 <br />  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 200 <br /> <br /> <br /> <br /> | Bot Factory <br /> Advanced Bot Factory <br /> <br /> <br />  
+|  <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172069848-6c333428-0cd5-4964-8ed9-19052e321cf9.png" width="64"> | HP: 180 <br /> Build cost: 160 <br />  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 200 <br /> <br /> <br /> <br /> | Bot Factory <br /> Advanced Bot Factory <br /> <br /> <br />  
 
 | Weapon Tool  | Ammo | Summoned Weapon Tool | Summoned Ammo
 | :--- | :--- | :--- | :--- |
