@@ -1,7 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Bunker",
 "description":"!LOC: SCP containment unit. HOW TO USE: Select Commander, right clic the bunker. To remove it: select the bunker, clic on unload feature displayed to the right, left clic on the bunker.",
-"max_health":150000,
+"max_health":140000,
 "build_metal_cost":6000,
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Mobile",
