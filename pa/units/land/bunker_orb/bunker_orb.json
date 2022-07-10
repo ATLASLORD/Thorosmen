@@ -31,7 +31,7 @@
 "channel":"sight",
 "shape":"capsule",
 "radius":100}]}},
-"model":{"filename":"/pa/units/land/white_hole/white_hole.papa"},
+"model":{"filename":"/pa/units/land/bunker/bunker.papa"},
 "attack_range_frac":0.3,
 "teleportable":null,
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/Titan_Complete"},
