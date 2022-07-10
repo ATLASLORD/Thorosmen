@@ -2,7 +2,7 @@
 "display_name":"Spartak",
 "description":"!LOC:Sneaky Spark- Use Attack button and it will teleport to the enemy with max health. Can only be used once. Might accidentally noclip into the backrooms after being teleported into a structure",
 "max_health":160,
-"build_metal_cost":130,
+"build_metal_cost":140,
 "attachable":{"offsets":{"root":[0,
 0,
 0],

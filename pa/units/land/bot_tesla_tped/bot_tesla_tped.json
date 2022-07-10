@@ -2,7 +2,7 @@
 "display_name":"used Spartak",
 "description":"!LOC:If you read this - your spartak has noclipped into the backrooms",
 "max_health":160,
-"build_metal_cost":130,
+"build_metal_cost":140,
 "attachable":{"offsets":{"root":[0,
 0,
 0],
