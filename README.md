@@ -8,8 +8,7 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 
 <img src="https://user-images.githubusercontent.com/104906253/178542213-d4e3a525-4fd6-44cd-aa1b-93d3a55f694a.png" width="800"> 
 
-<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="420">
-<img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="380">
+<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="420"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="380">
 
 ***
 If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/3) <br />
