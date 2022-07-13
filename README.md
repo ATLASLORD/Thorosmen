@@ -6,7 +6,9 @@ Players that search new ways to annihilate the enemy will be entertained for sur
 
 ***
 
-<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="345"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="300">
+<img src="https://user-images.githubusercontent.com/104906253/178542213-d4e3a525-4fd6-44cd-aa1b-93d3a55f694a.png" width="800"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="420"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="380">
 
 ***
 If you have any suggestion, or request, comment [HERE](https://github.com/ATLASLORD/Thorosmen/discussions/3) <br />
@@ -30,7 +32,9 @@ before attacking.
 | :--- | :--- | :--- | :--- |
 | rate of fire: 0.25 <br />  max range: 140 <br /> <br /> <br /> <br /> | spec : summon <br /> <br /> <br /> <br /> <br /> | range: 65 <br /> energy: 400 per shot <br /> ammo recharge: 2 sec <br /> target: land <br /> <br />| damage: 160 <br /> Splash: 50 damage, radius 10 <br /> Full damage splash radius: 2 <br /> Burn damage: 15, radius 2 <br /> velocity: 180
 
-<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/104906253/178542213-d4e3a525-4fd6-44cd-aa1b-93d3a55f694a.png" width="800"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="420"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="380">
 
 ***
 
