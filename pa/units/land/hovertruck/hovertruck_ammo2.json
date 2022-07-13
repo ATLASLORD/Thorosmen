@@ -14,7 +14,7 @@
 "radius_accel":-4.0,
 "delay":0.0,
 "burnable_remove_radius":10.0},
-"spawn_unit_on_death":"/pa/units/land/bunker_orb/bunker_orb.json",
+"spawn_unit_on_death":"/pa/units/land/bot_tesla_tped/bot_tesla_tped.json",
 "fx_trail": {
   "filename": "/pa/units/air/bomber/bomber_ammo_trail.pfx"
 },
