@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Bunker",
-"description":"!LOC: SCP containment unit. HOW TO USE: Select Commander, right clic the bunker. To remove it: select the bunker, clic on unload feature displayed to the right, left clic on the bunker.",
+"description":"!LOC: Protects your precious commander. Select your commander and use the bunker with it. If the planet you are on has no enemy, the bunker needs to be activated manually by using the attack button. Commander can be removed from the bunker by unloading it like you would do with pelican",
 "max_health":140000,
 "build_metal_cost":6000,
 "unit_types":["UNITTYPE_Bot",
