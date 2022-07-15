@@ -31,7 +31,8 @@ before attacking.
 | Weapon Tool  | Ammo | Summoned Weapon Tool | Summoned Ammo
 | :--- | :--- | :--- | :--- |
 | rate of fire: 0.25 <br />  max range: 140 <br /> <br /> <br /> <br /> | spec : summon <br /> <br /> <br /> <br /> <br /> | range: 65 <br /> energy: 400 per shot <br /> ammo recharge: 2 sec <br /> target: land <br /> <br />| damage: 160 <br /> Splash: 50 damage, radius 10 <br /> Full damage splash radius: 2 <br /> Burn damage: 15, radius 2 <br /> velocity: 180
-<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="220"><img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="220"> 
+
+<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="240"> <img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="240"> 
 
 ***
 
