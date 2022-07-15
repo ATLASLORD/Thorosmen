@@ -26,15 +26,13 @@ Sneaky - tp itself to the enemy
 before attacking.
 | <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172068540-689a9db5-8609-40be-94f6-c55edd58a579.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172069848-6c333428-0cd5-4964-8ed9-19052e321cf9.png" width="64"> | HP: 180 <br /> Build cost: 160 <br />  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 200 <br /> <br /> <br /> <br /> | Bot Factory <br /> Advanced Bot Factory <br /> <br /> <br />  
+|  <img style="vertical-align:top" src="https://user-images.githubusercontent.com/104906253/172069848-6c333428-0cd5-4964-8ed9-19052e321cf9.png" width="64"> | HP: 160 <br /> Build cost: 140 <br />  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: -1 <br /> Turn rate: 720 | Vision radius: 200 <br /> <br /> <br /> <br /> | Bot Factory <br /> Advanced Bot Factory <br /> <br /> <br />  
 
 | Weapon Tool  | Ammo | Summoned Weapon Tool | Summoned Ammo
 | :--- | :--- | :--- | :--- |
 | rate of fire: 0.25 <br />  max range: 140 <br /> <br /> <br /> <br /> | spec : summon <br /> <br /> <br /> <br /> <br /> | range: 65 <br /> energy: 400 per shot <br /> ammo recharge: 2 sec <br /> target: land <br /> <br />| damage: 160 <br /> Splash: 50 damage, radius 10 <br /> Full damage splash radius: 2 <br /> Burn damage: 15, radius 2 <br /> velocity: 180
 
-<img src="https://user-images.githubusercontent.com/104906253/178542213-d4e3a525-4fd6-44cd-aa1b-93d3a55f694a.png" width="800"> 
-
-<img src="https://user-images.githubusercontent.com/104906253/172067791-5b8a729a-839a-4ca1-9372-3322d1067433.png" width="420"> <img src="https://user-images.githubusercontent.com/104906253/172069601-82701e6b-12d1-4cb2-9d90-87e81c70ddea.png" width="380">
+<img src="https://user-images.githubusercontent.com/104906253/172088948-6f73280a-6ffb-4a5e-903f-5ec32efc8933.png" width="240"> <img src="https://user-images.githubusercontent.com/104906253/172089246-c40a8fa0-edc9-453f-bbe3-72c42da0ff95.png" width="240"> 
 
 ***
 
@@ -366,7 +364,7 @@ Giant Bulldozer. Crushes Everything. OOF damage. High. Crushes Mines.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172306711-63dc6798-339f-4737-9ea7-c4409193d183.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172306582-52676f6f-3688-4c5b-8576-46b76d474bf1.png" width="64"> | HP: 900 <br /> Build cost: 10000 <br /> DPS: F  <br />  <br />| Max speed: 12 <br /> Acceleration: 70 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172306582-52676f6f-3688-4c5b-8576-46b76d474bf1.png" width="64"> | HP: 40000 <br /> Build cost: 10000 <br /> DPS: F  <br />  <br />| Max speed: 12 <br /> Acceleration: 70 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
