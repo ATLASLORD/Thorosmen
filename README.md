@@ -364,7 +364,7 @@ Giant Bulldozer. Crushes Everything. OOF damage. High. Crushes Mines.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172306711-63dc6798-339f-4737-9ea7-c4409193d183.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172306582-52676f6f-3688-4c5b-8576-46b76d474bf1.png" width="64"> | HP: 900 <br /> Build cost: 10000 <br /> DPS: F  <br />  <br />| Max speed: 12 <br /> Acceleration: 70 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172306582-52676f6f-3688-4c5b-8576-46b76d474bf1.png" width="64"> | HP: 40000 <br /> Build cost: 10000 <br /> DPS: F  <br />  <br />| Max speed: 12 <br /> Acceleration: 70 <br /> Braking rate: 70 <br /> Turn rate: 60 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
