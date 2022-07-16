@@ -14,6 +14,7 @@
 "UNITTYPE_Transport",
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild",
+"UNITTYPE_Titan",
 "UNITTYPE_Important",
 "UNITTYPE_Interplanetary"],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/air"},

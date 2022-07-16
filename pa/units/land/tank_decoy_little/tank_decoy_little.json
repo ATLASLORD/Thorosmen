@@ -36,7 +36,7 @@
 {"layer":"surface_and_air",
 "channel":"radar",
 "shape":"capsule",
-"radius":260,
+"radius":220,
 "uses_energy":true}]}},
 "model":{"filename":"/pa/units/land/tank_decoy_little/tank_decoy_little.papa",
 "animations":{"death01":"/pa/units/land/bot_tactical_missile/bot_tactical_missile_anim_death01.papa",
