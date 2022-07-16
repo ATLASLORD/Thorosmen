@@ -211,7 +211,7 @@ Moving shield - Basic regen shield vehicle.
 
 | <img src="https://user-images.githubusercontent.com/104906253/172270423-d52f51a0-6bde-423e-a819-f3f110d25919.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2000 <br /> Build cost: 6000 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172270514-8b003fe5-1802-4294-9a64-05a6560dc416.png" width="64"> | HP: 2500 <br /> Build cost: 6400 <br /> DPS: 0  <br />  <br />| Max speed: 14 <br /> Acceleration: 140 <br /> Braking rate: 140 <br /> Turn rate: 90 | Vision radius: 100 <br /> <br /> <br /> <br /> | Advanced Vehicle Factory <br /> <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
