@@ -272,7 +272,7 @@ Peanut Butter Jelly Time! Fast Flying Submarine equipped with many medium range 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172292928-da492472-400e-4d0a-96de-96e987793a02.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1600 <br /> Build cost: 2400 <br /> DPS: 200  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1600 <br /> Build cost: 2400 <br /> DPS: 200  <br />  <br />| Max speed: 50 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
