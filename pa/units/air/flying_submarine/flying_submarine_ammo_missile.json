@@ -2,7 +2,7 @@
 "flight_type":"Staged",
 "damage":40,
 "splash_damage":20,
-"splash_radius":10,
+"splash_radius":5,
 "initial_velocity":140.0,
 "max_velocity":140.0,
 "cruise_height":60,
