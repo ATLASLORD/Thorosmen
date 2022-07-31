@@ -272,11 +272,11 @@ Peanut Butter Jelly Time! Fast Flying Submarine equipped with many medium range 
 
 | <img src="https://user-images.githubusercontent.com/104906253/172292928-da492472-400e-4d0a-96de-96e987793a02.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1600 <br /> Build cost: 2200 <br /> DPS: 200  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172292817-42211d78-925a-4784-a5c0-45bfc4c4658e.png" width="64"> | HP: 1600 <br /> Build cost: 2400 <br /> DPS: 200  <br />  <br />| Max speed: 60 <br /> Acceleration: 90 <br /> Braking rate: 30 <br /> Turn rate: 270 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br />  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |
 | :--- | :--- |
-| fire rate: 5 <br /> max range: 110 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 40 <br /> splash dmg: 25 r: 10 <br /> velocity: 140  |
+| fire rate: 5 <br /> max range: 110 <br /> Target: Land, Air <br /> <br /> | Type: Tactical missile <br /> damage: 40 <br /> splash dmg: 20 r: 5 <br /> velocity: 140  |
 
 <img src="https://user-images.githubusercontent.com/104906253/172293537-10efd7e8-801c-4d01-bbc1-1397a8bcccf2.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172293532-aea1c6b1-f28a-447a-a686-137933062c2f.png" width="260">
 
@@ -379,11 +379,11 @@ Big balloon airship, shoots enormous amont of homing projectiles to land and air
 
 | <img src="https://user-images.githubusercontent.com/104906253/172308504-7d0e9fdf-b5c3-444c-a001-e3ef2d76e47b.png" width="64">   | Overview  | Physics | Recon  | Build by |
 | :--- | :--- | :---- | :--- | :--- |
-|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 18000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
+|  <img src="https://user-images.githubusercontent.com/104906253/172308632-985bf195-f6d8-4dd4-889f-f76fcfabd52d.png" width="64"> | HP: 15000 <br /> Build cost: 20000 <br /> DPS: F  <br />  <br />| Max speed: 9 <br /> Acceleration: 5 <br /> Braking rate: 30 <br /> Turn rate: 30 | Vision radius: 150 <br /> <br /> <br /> <br /> | Advanced Air Factory <br /> Advanced Fabber  <br /> <br /> <br />|
 
 | Weapon Tool  | Ammo |  Weapon Tool 2 | Ammo 2 | Weapon Tool 3 | Ammo 3 |Ammo Death |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| fire rate: 15 <br /> max range: 100 <br /> Target: Land, Air <br /> <br /> | damage: 80 <br /> splash damage: 40 <br /> splash radius: 20  <br /> spec: tactical missile |  fire rate: 2 <br /> max range: 150 <br /> Target: Air <br /> <br />  | damage: 30 <br /> splash damage: 0 <br /> splash radius: 0  <br /> spec: beam |  fire rate: 0.5 <br /> max range: 120 <br /> Target: Air <br /> <br />  | damage: 300 <br /> splash damage: 300 <br /> splash radius: 4  <br /> spec: beam | Damage: 300 <br /> Splash damage: 100 <br /> Splash radius: 120 <br /> spec: pbaoe |
+| fire rate: 15 <br /> max range: 100 <br /> Target: Land <br /> <br /> | damage: 60 <br /> splash damage: 30 <br /> splash radius: 15  <br /> spec: tactical missile |  fire rate: 2 <br /> max range: 140 <br /> Target: Air <br /> <br />  | damage: 30 <br /> splash damage: 0 <br /> splash radius: 0  <br /> spec: beam |  fire rate: 0.5 <br /> max range: 140 <br /> Target: Air <br /> <br />  | damage: 300 <br /> splash damage: 300 <br /> splash radius: 4  <br /> spec: beam | Damage: 600 <br /> Splash damage: 300 <br /> Splash radius: 120 <br /> spec: pbaoe |
 
 <img src="https://user-images.githubusercontent.com/104906253/172325165-c67e3706-f0a5-459f-9624-cf357a432a81.png" width="300"> <img src="https://user-images.githubusercontent.com/104906253/172325174-406fbc90-e744-436a-9c92-608381deb085.png" width="300">  
 
