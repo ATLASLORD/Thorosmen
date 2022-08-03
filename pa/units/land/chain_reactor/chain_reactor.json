@@ -4,7 +4,7 @@
 "strategic_icon_priority":0,
 "max_health":9000,
 "build_metal_cost":12000,
-"wreckage_health_frac":0.0,
+"wreckage_health_frac":0.7,
 "spawn_layers":"WL_LandHorizontal",
 "attachable":{"offsets":{"root":[0,
 0,
