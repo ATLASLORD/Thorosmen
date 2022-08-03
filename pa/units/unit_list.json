@@ -241,4 +241,6 @@
 "/pa/units/land/unit_orbit/unit_orbit.json",
 "/pa/units/land/nuke_orbit/nuke_orbit.json",
 "/pa/units/land/artillery_nuke/artillery_nuke_ammo.json",
+"/pa/units/land/chain_reactor/chain_reactor.json",
+"/pa/units/land/chain_reaction/chain_reaction.json",
 "/pa/units/sea/hover_ship/hover_ship.json"]}
