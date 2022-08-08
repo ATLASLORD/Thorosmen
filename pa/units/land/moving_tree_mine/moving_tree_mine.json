@@ -21,7 +21,7 @@
 "navigation":{"type":"land-small",
 "acceleration":40,
 "brake":60,
-"move_speed":70,
+"move_speed":60,
 "turn_speed":200},
 "physics":{"radius":3.5},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
