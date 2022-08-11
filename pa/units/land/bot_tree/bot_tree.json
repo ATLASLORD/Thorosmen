@@ -57,7 +57,7 @@
 "should_start_func":"is_moving",
 "should_stop_func":"is_not_moving"}},
 "selection_response":{"cue":"/SE/Selection/orbital/radar"}},
-"selection_icon":{"diameter":14.0},
+"selection_icon":{"diameter":22.0},
 "TEMP_texelinfo":9.04444,
 "mesh_bounds":[5.5,
 6,
