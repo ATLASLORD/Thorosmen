@@ -2,7 +2,7 @@
 "display_name":"Kamechamecha",
 "description":"!LOC:Shoots white holes that keep enemy far away, Ideal for turtling",
 "max_health":5000,
-"build_metal_cost":8000,
+"build_metal_cost":9000,
 "energy_efficiency_requirement":0.9,
 "attachable":{"offsets":{"root":[0,
 0,

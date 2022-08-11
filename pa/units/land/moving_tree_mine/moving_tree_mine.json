@@ -28,7 +28,7 @@
 "channel":"sight",
 "shape":"capsule",
 "radius":110}]}},
-"model":{"filename":"/pa/units/land/bot_tree/bot_tree.papa",
+"model":{"filename":"/pa/units/land/bot_tree/bot_tree_minion/bot_tree_minion.papa",
 "animtree":"/pa/anim/anim_trees/attack_vehicle_anim_tree.json"},
 "tools":[{"spec_id":"/pa/units/land/land_mine/land_mine_tool_weapon.json",
 "aim_bone":"bone_pivot",
