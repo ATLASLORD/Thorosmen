@@ -10,7 +10,7 @@
 "turn_rate":720.0,
 "lifetime":0,
 "model":{"filename":"/pa/units/land/land_mine/land_mine.papa"},
-"fx_trail":{"filename":"/pa/units/land/white_hole/black_hole.pfx",
+"fx_trail":{"filename":"/pa/units/land/white_hole/muzzle_flash_test.pfx",
 "offset":[0.0,
 0.727,
 0.42]},

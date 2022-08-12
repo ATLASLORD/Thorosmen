@@ -39,5 +39,7 @@
 "audio":{"loops":{"move":{"cue":"/SE/Movement/veh/tank_heavy_mortar_loop_sheller_T2","flag":"vel_changed",
 "should_start_func":"is_moving","should_stop_func":"is_not_moving"}}},
 "selection_icon":{"diameter":15.5},
+"scrolling_uv":{"scroll_rate":-0.41,
+"uv_split":0.9},
 "TEMP_texelinfo":9.31488,
 "mesh_bounds":[7,7.5,3.8]}

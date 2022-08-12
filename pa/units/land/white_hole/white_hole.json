@@ -80,7 +80,7 @@
 "fired":{"audio_cue":"",
 "effect_spec":""},
 "died":{"audio_cue":"/SE/Death/Air",
-"effect_spec":"/pa/units/land/white_hole/shockwave.pfx",
+"effect_spec":"/pa/units/land/white_hole/titan_air_ammo_beam_hit.pfx",
 "effect_scale":1.5}},
 "death":{"decals":["/pa/units/land/white_hole/shockwave.pfx"]},
 "audio":{"loops":{"move":{"cue":"/SE/Movement/air/air_bomber_loop",
