@@ -26,7 +26,7 @@
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
-"radius":110}]}},
+"radius":30}]}},
 "model":{"filename":"/pa/units/land/bot_bomb/bot_bomb.papa",
 "animtree":"/pa/anim/anim_trees/attack_vehicle_anim_tree.json"},
 "tools":[{"spec_id":"/pa/units/land/moving_mine/weapon.json",
