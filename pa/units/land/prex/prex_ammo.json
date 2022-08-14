@@ -4,7 +4,7 @@
 "splash_damage":130,
 "splash_radius":40,
 "max_velocity":450.0,
-"lifetime":5,
+"lifetime":0.5,
 "impact_decals":["/pa/effects/specs/scorch_b_01.json"],
 "physics":{"radius":1,"gravity_scalar":20,"add_to_spatial_db":true,"allow_underground":false},
 "fx_trail":{"filename":"/pa/units/land/prex/prex_proj_trail.pfx",
