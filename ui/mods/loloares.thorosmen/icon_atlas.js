@@ -41,6 +41,7 @@ var paeiouIcons = [
     "chain_reaction",
     "chain_reaction_b",
     "bomb_reactor",
+    "ilegal",
     "artillery_nuke_ammo",
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

@@ -31,7 +31,8 @@ var newBuild = {
     "/pa/units/air/airship/airship.json": ["air", 0, { row: 0, column: 2 }],
     "/pa/units/land/hovertruck/hovertruck.json": ["utility", 0, { row: 1, column: 0 }],
     "/pa/units/land/chain_reactor/chain_reactor.json": ["bot", 0, { row: 0, column: 7 }],
-    "/pa/units/land/metal_destructor/metal_destructor.json": ["utility", 0, { row: 0, column: 2 }]
+    "/pa/units/land/metal_destructor/metal_destructor.json": ["utility", 0, { row: 0, column: 2 }],
+    "/pa/units/land/ilegal/ilegal.json": ["bot", 0, { row: 1, column: 7 }]
 
 
 
