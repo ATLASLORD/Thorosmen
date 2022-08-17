@@ -30,7 +30,7 @@
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
-"radius":50}]}},
+"radius":36}]}},
 "model":{"filename":"/pa/units/land/white_hole/white_hole.papa",
 "animations":{"death":"/pa/units/land/bot_bomb/bot_bomb_anim_death01.papa",
 "walk":"/pa/units/land/bot_tesla/bot_tesla_anim_walk.papa",

@@ -1,1 +1,1 @@
-{"ammo_type":"PBAOE","damage":500,"splash_radius":11,"splash_damages_allies":false,"sim_fire_effect":"/pa/effects/specs/default_explosion.pfx","damage_volume":{"initial_radius":15.0}}
+{"ammo_type":"PBAOE","damage":300,"splash_radius":10,"splash_damages_allies":false,"sim_fire_effect":"/pa/effects/specs/default_explosion.pfx","damage_volume":{"initial_radius":15.0}}

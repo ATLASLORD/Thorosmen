@@ -14,6 +14,7 @@
 "UNITTYPE_Mobile",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",
+"UNITTYPE_FabAdvBuild",
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild"],
 "transportable":{"size":1},
