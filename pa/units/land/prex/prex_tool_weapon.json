@@ -2,7 +2,7 @@
 "ammo_id":"/pa/units/land/prex/prex_ammo.json",
 "rate_of_fire":0.25,
 "idle_aim_delay":3,
-"max_range":200,
+"max_range":190,
 "yaw_rate":50,
 "pitch_rate":360,
 "yaw_range":180,

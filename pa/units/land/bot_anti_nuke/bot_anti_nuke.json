@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Toblerone",
-"description":"!LOC:Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies somehow. Long and expensive reload time. Can carry one ammo.",
+"description":"!LOC:Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies somehow. Can carry and reload one ammo.",
 "build_metal_cost":15000,
 "max_health":15000,
 "armor_type":"AT_Hover",

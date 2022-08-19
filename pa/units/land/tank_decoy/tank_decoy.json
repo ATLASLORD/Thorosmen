@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Daddy donut",
-"description":"!LOC:Big decoy flare hover donut - shoots big harmless projectiles to mesmerize enemy units ",
+"description":"!LOC:Big decoy flare hover donut - shoots thick donuts to mesmerize enemy units ",
 "max_health":3000,
 "build_metal_cost":1000,
 "energy_efficiency_requirement":0.9,

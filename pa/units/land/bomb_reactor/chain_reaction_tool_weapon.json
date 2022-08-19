@@ -19,4 +19,5 @@
 "spread_fire":true,
 "auto_fire_when_charged":true,
 "target_layers":["WL_LandHorizontal",
-"WL_WaterSurface"]}
+"WL_WaterSurface"],
+"exclude_unit_types":"Commander | Structure"}

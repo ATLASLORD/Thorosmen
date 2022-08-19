@@ -1,0 +1,7 @@
+{"base_spec":"/pa/units/land/tank_drone/drone_land/torpedo.json",
+"damage":1,
+"initial_velocity":50.0,
+"max_velocity":50.0,
+"lifetime":10.0,
+"turn_rate":360,
+"cruise_height":2}

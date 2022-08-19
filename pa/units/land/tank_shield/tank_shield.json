@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Aegis",
-"description":"!LOC:Moving shield - Basic regen shield vehicle",
+"description":"!LOC:Moving Shield Vehicle - Regen consumes energy. Targets nearly all projectiles (beams and ares projectiles can pierce through it).",
 "max_health":3000,
 "build_metal_cost":7000,
 "armor_type":"AT_Hover",

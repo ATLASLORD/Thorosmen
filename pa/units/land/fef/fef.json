@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Fef",
-"description":"Semi titan boom unit. Durable",
+"description":"Semi titan boom unit. Durable. Summons hundreds of short lived boombots to overwhelm the enemy. ",
 "max_health":8300,
 "build_metal_cost":10000,
 

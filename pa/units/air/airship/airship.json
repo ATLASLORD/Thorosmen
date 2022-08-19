@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/air/base_flyer/base_flyer.json",
 "display_name":"Flying Potato",
-"description":"!LOC: big balloon airship, shoots enormous amont of homing projectiles to land and air units, Deals damage on death Slower than winter. 'I'll take a potato ship... AND EAT IT!' ",
+"description":"!LOC: War Blimp, Equipped with anti-land homing missiles and anti-air omega lasers, Deals area damage on death. Slower than winter. 'I'll take a potato ship... AND EAT IT!' ",
 "max_health":15000,
 "build_metal_cost":20000,
 "unit_types":["UNITTYPE_Fighter",
