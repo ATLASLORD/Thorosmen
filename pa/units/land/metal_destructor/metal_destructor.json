@@ -44,7 +44,7 @@
 "animtree":"/pa/anim/anim_trees/constant_idle_anim_tree.json"}],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/energy"},
 "died":{"audio_cue":"/SE/Death/Factory",
-"effect_spec":"/pa/effects/specs/default_building_explosion_large.pfx",
+"effect_spec":"/pa/units/land/metal_destructor/l_necromancer_explosion.pfx",
 "effect_scale":1.0},
 "fired":{"effect_spec":"/pa/units/land/metal_destructor/metal_destructor_stomp_ent",
 "effect_scale":1.0}},

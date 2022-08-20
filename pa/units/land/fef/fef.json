@@ -44,6 +44,6 @@
 "should_start_func":"is_moving",
 "should_stop_func":"is_not_moving"}},
 "selection_response":{"cue":"/SE/Selection/titan/bot"}},
-"selection_icon":{"diameter":19.0},
+"selection_icon":{"diameter":26.0},
 "TEMP_texelinfo":6.39639,
 "mesh_bounds":[9,4.5,6]}

@@ -25,7 +25,7 @@
         ]
     },
     "context": "server",
-    "date": "2022-08-16",
+    "date": "2022-08-19",
     "build": "115872",
-    "version": "1.5.7"
+    "version": "1.6.0"
 }

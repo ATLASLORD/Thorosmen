@@ -51,7 +51,7 @@
 "selection_response":{"cue":"/SE/Selection/veh/tank_vagaurd_T2"}},
 "scrolling_uv":{"scroll_rate":0.58,
 "uv_split":0.855},
-"selection_icon":{"diameter":14},
+"selection_icon":{"diameter":16},
 "TEMP_texelinfo":9.04444,
 "mesh_bounds":[7.5,
 8.2,

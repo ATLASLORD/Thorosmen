@@ -11,4 +11,5 @@
 "firing_arc_pitch":360,
 "auto_attack":true,
 "self_destruct":true,
-"target_layers":["WL_Air"]}
+"target_layers":["WL_Air"],
+"exclude_unit_types":"Bot & Transport"}

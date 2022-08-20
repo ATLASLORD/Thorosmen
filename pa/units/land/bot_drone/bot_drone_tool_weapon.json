@@ -16,4 +16,5 @@
 "carpet_fire":true,
 "carpet_wait_for_full_ammo":true,
 "spread_fire":true,
-"target_layers":["WL_Air"]}
+"target_layers":["WL_Air"],
+"exclude_unit_types":"Bot & Transport"}

@@ -6,4 +6,4 @@
 "collision_check":"target",
 "collision_response":"impact",
 "fx_beam_spec":"/pa/units/land/bot_sniper_big/bot_sniper_big_beam.pfx",
-"fx_collision_spec":"/pa/units/land/bot_sniper_big/bot_sniper_big_hit.pfx"}
+"fx_collision_spec":"/pa/units/land/bot_sniper_big/aoe_shock_explosion_v2.pfx"}

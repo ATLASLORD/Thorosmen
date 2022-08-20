@@ -50,7 +50,7 @@
 "muzzle_bone":"socket_rightMuzzle"}],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/bot"},
 "fired0":{"audio_cue":"/SE/Weapons/orb/orb_railgun_fire",
-"effect_spec":"/pa/units/land/bot_sniper_big/orbital_railgun_blue_muzzle_flash.pfx socket_rightMuzzle"},
+"effect_spec":"/pa/units/land/bot_sniper_big/orbital_railgun_blue_muzzle_flash.pfx socket_rightMuzzle /pa/units/land/bot_sniper_big/muzzle_flash.pfx socket_rightMuzzle"},
 "fired1":{"audio_cue":"/SE/Weapons/bot/sniper_fire_anti_tac",
 "effect_spec":"/pa/units/land/bot_sniper/bot_sniper_beam_flash.pfx socket_rightMuzzle"},
 "died":{"audio_cue":"/SE/Death/Bot",
