@@ -1,0 +1,72 @@
+{
+  "ammo_type":"PBAOE",
+  "burn_damage": 0,
+  "burn_radius": 0,
+  "damage": 100000,
+      "armor_damage_map": {
+        "AT_Bot": 0,
+        "AT_Structure": 0,
+        "AT_Vehicle": 0,
+        "AT_Hover": 1,
+        "AT_Commander": 0,
+        "AT_Naval": 0.0,
+        "AT_Air": 0.0,
+        "AT_Orbital": 0.0
+    },
+  "damage_volume": {
+    "burnable_remove_radius": 0,
+    "delay": 0,
+    "initial_radius": 150,
+    "radius_accel": 0,
+    "radius_velocity": 0
+  },
+  "events": {
+    "died": {
+      "audio_cue": "",
+      "effect_spec": "/pa/effects/specs/none.pfx"
+    }
+  },
+  "flight_type": "Staged",
+  "full_damage_splash_radius": 150,
+  "fx_trail": {
+    "filename": "/pa/effects/specs/none.pfx"
+  },
+  "influence_radius": 400,
+  "initial_velocity": 0,
+  "lifetime": 10,
+  "max_velocity": 65,
+  "model": {
+    "filename": ""
+  },
+  "physics": {
+    "add_to_spatial_db": false,
+    "allow_underground": true,
+    "gravity_scalar": 3,
+    "ignore_gravity": false,
+    "layer": "orbital",
+    "radius": 10
+  },
+  "recon": {
+    "observable": {
+      "ignore_radar": true,
+      "ignore_sight": true
+    }
+  },
+  "show_in_orbital_layer": false,
+  "show_strategic_icon": false,
+  "spawn_layers": "orbital",
+  "splash_damage": 100000,
+  "splash_damage_orbital": false,
+  "splash_damages_allies": false,
+  "splash_radius": 150,
+  "stages": [
+    {
+      "ignores_LOS": true,
+      "ignores_gravity": false,
+      "rotates_to_velocity": true,
+      "stage_duration": 10000,
+      "stage_turn_rate": 0
+    }
+  ],
+  "turn_rate": 30
+}
