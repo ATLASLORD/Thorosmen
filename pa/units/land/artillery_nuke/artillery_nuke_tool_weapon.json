@@ -15,7 +15,7 @@
 "yaw_range":360,
 "firing_arc_yaw":2,
 "firing_arc_pitch":2,
-"pitch_range":89,
+"pitch_range":50,
 "auto_attack":true,
 "target_layers":["WL_LandHorizontal",
 "WL_Seafloor",
