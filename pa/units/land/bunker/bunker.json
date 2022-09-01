@@ -57,7 +57,7 @@
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/energy"},
 "died":{"audio_cue":"/SE/Death/Factory",
 "effect_scale":0.8}},
-"audio":{"selection_response":{"cue":"/SE/Selection/structure/energy"}},
+"audio":{"selection_response":{"cue":"/SE/Selection/structure/structure_small"}},
 "headlights":[{"gobo":"/pa/effects/textures/gobo/spotlight_gobo.papa",
 "offset":[6.2,
 6.2,
