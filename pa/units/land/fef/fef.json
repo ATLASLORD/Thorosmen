@@ -16,7 +16,8 @@
 "brake":-1,
 "move_speed":10,
 "turn_speed":100},
-"physics":{"radius":8.5},
+"physics":{"radius":9,
+"sync_radius_to_extents":true},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
@@ -46,4 +47,4 @@
 "selection_response":{"cue":"/SE/Selection/titan/bot"}},
 "selection_icon":{"diameter":26.0},
 "TEMP_texelinfo":6.39639,
-"mesh_bounds":[9,4.5,6]}
+"mesh_bounds":[12,12,6]}

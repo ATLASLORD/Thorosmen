@@ -25,7 +25,8 @@
 "move_speed":10,
 "turn_speed":180,
 "group_preference":"front"},
-"physics":{"radius":6},
+"physics":{"radius":9,
+"sync_radius_to_extents":true},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
@@ -52,9 +53,9 @@
 "flag":"vel_changed",
 "should_start_func":"is_moving",
 "should_stop_func":"is_not_moving"}},
-"selection_response":{"cue":"/SE/Selection/veh/tank_vagaurd_T2"}},
+"selection_response":{"cue":"/SE/Selection/titan/bot"}},
 "selection_icon":{"diameter":36.0},
 "TEMP_texelinfo":9.04444,
-"mesh_bounds":[5.5,
-6,
-4.3]}
+"mesh_bounds":[15,
+18,
+15]}

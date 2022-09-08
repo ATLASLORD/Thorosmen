@@ -9,6 +9,7 @@
 "max_velocity":180.0,
 "turn_rate":720.0,
 "lifetime":0,
+"physics":{"add_to_spatial_db":true},
 "model":{"filename":"/pa/units/land/land_mine/land_mine.papa"},
 "fx_trail":{"filename":"/pa/units/land/white_hole/muzzle_flash_test.pfx",
 "offset":[0.0,

@@ -32,7 +32,8 @@
 "move_speed":12,
 "turn_speed":500,
 "group_preference":"back"},
-"physics":{"radius":3.5},
+"physics":{"radius":11.0,
+"sync_radius_to_extents":true},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
@@ -138,6 +139,6 @@
 "selection_response":{"cue":"/SE/Selection/titan/structure"}},
 "selection_icon":{"diameter":36.0},
 "TEMP_texelinfo":5.47132,
-"mesh_bounds":[8.2,
-7,
-9.6]}
+"mesh_bounds":[15,
+15,
+15]}
