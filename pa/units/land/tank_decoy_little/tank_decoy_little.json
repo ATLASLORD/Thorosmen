@@ -3,7 +3,7 @@
 "description":"!LOC: Little Decoy flare hover donut - shoots harmless projectiles to mesmerize enemy units ",
 "max_health":420,
 "armor_type":"AT_Hover",
-"build_metal_cost":250,
+"build_metal_cost":300,
 "energy_efficiency_requirement":0.9,
 "attachable":{"offsets":{"root":[0,
 0,

@@ -29,12 +29,12 @@ var newBuild = {
     "/pa/units/land/pap/pap.json": ["factory", 0, { row: 0, column: 0 }],
     "/pa/units/land/fef/fef.json": ["factory", 0, { row: 0, column: 1 }],
     "/pa/units/air/airship/airship.json": ["air", 0, { row: 0, column: 2 }],
-    "/pa/units/land/hovertruck/hovertruck.json": ["utility", 0, { row: 1, column: 0 }],
+    "/pa/units/land/hovertruck/hovertruck.json": ["utility", 0, { row: 1, column: 5 }],
     "/pa/units/land/chain_reactor/chain_reactor.json": ["bot", 0, { row: 0, column: 7 }],
-    "/pa/units/land/metal_destructor/metal_destructor.json": ["utility", 0, { row: 0, column: 2 }],
+    "/pa/units/land/metal_destructor/metal_destructor.json": ["utility", 0, { row: 0, column: 5 }],
     "/pa/units/land/ilegal/ilegal.json": ["bot", 0, { row: 1, column: 8 }],
-    "/pa/units/land/tank_shield_2/tank_shield_2.json": ["bot", 2, { row: 1, column: 7 }]
-
+    "/pa/units/land/tank_shield_2/tank_shield_2.json": ["bot", 2, { row: 1, column: 7 }],
+    "/pa/units/land/radar_titan/radar_titan.json": ["utility", 0, { row: 0, column: 2 }]
 
 
 }

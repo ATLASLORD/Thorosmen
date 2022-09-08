@@ -12,7 +12,7 @@
 "navigation":{"type":"air",
 "acceleration":90,
 "brake":30,
-"move_speed":60,
+"move_speed":50,
 "turn_speed":270,
 "aggressive_distance":220.0,
 "aggressive_behavior":"circle",
