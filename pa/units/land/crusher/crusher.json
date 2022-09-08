@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/crusher/base_vehicle_crusher.json",
 "display_name":"Lawnmower",
-"description":"!LOC:Giant Tractor. Crushes any unit that gets on its way. Super effective against land-mines, boombots or tree-mines.",
+"description":"!LOC:Giant Tractor. Crushes any unit that gets on its way. Super effective against land-mines, boombots or tree-mines. Destroys white holes",
 "max_health":40000,
 "build_metal_cost":10000,
 "wreckage_health_frac":0.7,
@@ -104,7 +104,7 @@
 "scrolling_uv":{"scroll_rate":-0.15,
 "uv_split":0.9},
 "selection_icon": {"diameter": 70},
-"mesh_bounds": [50,
-20,
-22],
+"mesh_bounds": [33.5,
+16.4,
+15.5],
 "TEMP_texelinfo": 9.04444}
