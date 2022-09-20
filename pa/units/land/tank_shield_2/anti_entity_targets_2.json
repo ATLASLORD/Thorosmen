@@ -1,7 +1,7 @@
 {
-  "ammo_capacity": 36000,
-  "ammo_demand": 1000,
-  "ammo_per_shot": 5,
+  "ammo_capacity": 9000,
+  "ammo_demand": 250,
+  "ammo_per_shot": 375,
   "ammo_source": "energy",
   "anti_entity_targets": [
     "/pa/units/air/gunship/gunship_ammo.json",

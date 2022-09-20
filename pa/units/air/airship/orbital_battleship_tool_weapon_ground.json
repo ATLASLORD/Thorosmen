@@ -8,4 +8,5 @@
 "pitch_range":180,
 "auto_attack":true,
 "spread_fire":true,
-"target_layers":["WL_Air"]}
+"target_layers":["WL_Air"],
+"exclude_unit_types":"Bot & Transport | Air & AirDefense"}

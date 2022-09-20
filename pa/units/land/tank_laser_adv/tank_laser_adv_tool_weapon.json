@@ -2,7 +2,7 @@
 "ammo_id":"/pa/units/land/tank_laser_adv/tank_laser_adv_ammo.json",
 "rate_of_fire":1,
 "idle_aim_delay":3,
-"max_range":130,
+"max_range":120,
 "yaw_rate":30,
 "pitch_rate":360,
 "yaw_range":180,

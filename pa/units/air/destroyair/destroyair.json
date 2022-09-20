@@ -11,7 +11,7 @@
 "UNITTYPE_FactoryBuild"],
 "navigation":{"type":"air",
 "acceleration":90,
-"brake":30,
+"brake":120,
 "move_speed":50,
 "turn_speed":270,
 "aggressive_distance":220.0,

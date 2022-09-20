@@ -7,4 +7,5 @@
 "yaw_range":120,
 "pitch_range":35,
 "auto_attack":true,
-"target_layers":["WL_LandHorizontal","WL_WaterSurface","WL_Air"]}
+"target_layers":["WL_LandHorizontal","WL_WaterSurface","WL_Air"],
+"exclude_unit_types":"Bot & Transport | Air & AirDefense"}

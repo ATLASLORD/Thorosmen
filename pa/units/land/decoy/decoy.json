@@ -3,6 +3,7 @@
 "description":"!LOC: small decoy",
 "max_health":21,
 "build_metal_cost":0,
+"armor_type":"AT_Hover",
 "guard_radius":250,
 "attachable":{"offsets":{"root":[0,
 0,
@@ -25,7 +26,8 @@
 "brake":60,
 "move_speed":100,
 "turn_speed":240},
-"physics":{"radius":3.5},
+"physics":{"radius":3,
+"air_friction":0.5},
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
@@ -53,4 +55,4 @@
 "TEMP_texelinfo":6.12932,
 "mesh_bounds":[3.8,
 5,
-3.5]}
+2.6835]}

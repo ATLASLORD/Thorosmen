@@ -7,4 +7,4 @@
 "auto_attack":true,
 "spread_fire":true,
 "target_layers":["WL_Air"],
-"exclude_unit_types":"Bot & Transport"}
+"exclude_unit_types":"Bot & Transport | Air & AirDefense"}

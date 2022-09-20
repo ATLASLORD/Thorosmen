@@ -3,7 +3,7 @@
 "display_name":"!LOC:Argus Panoptes",
 "description":"!LOC:Planetary vision - Can see everything",
 "max_health":20000,
-"build_metal_cost":30000,
+"build_metal_cost":50000,
 "consumption":{"energy":50000},
 "energy_efficiency_requirement":0.9,
 "atrophy_rate":80.0,

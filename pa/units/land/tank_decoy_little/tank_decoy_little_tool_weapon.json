@@ -18,4 +18,5 @@
 "spread_fire":true,
 "target_layers":["WL_LandHorizontal",
 "WL_WaterSurface",
-"WL_SeaFloor"]}
+"WL_SeaFloor"],
+"exclude_unit_types":"Structure"}

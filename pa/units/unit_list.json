@@ -208,6 +208,8 @@
 "/pa/units/land/tank_decoy/tank_decoy.json",
 "/pa/units/air/destroyair/destroyair.json",
 "/pa/units/land/tank_decoy_little/tank_decoy_little.json",
+"/pa/units/land/decoy/decoy.json",
+"/pa/units/land/decoy_dad/decoy_dad.json",
 "/pa/units/air/thorondor/thorondor.json",
 "/pa/units/land/bot_drone/bot_drone.json",
 "/pa/units/air/boombot_air/boombot_air.json",
