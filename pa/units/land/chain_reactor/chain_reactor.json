@@ -3,7 +3,7 @@
 "description":"Releases experimental self duplicating flammable nanovirus on death. Only targets mobile units (commanders and structures not targeted).'I remember reading an old sailor's proverb: Piss on wildfire and your cock burns off.' ",
 "strategic_icon_priority":0,
 "max_health":5000,
-"build_metal_cost":13000,
+"build_metal_cost":12000,
 "wreckage_health_frac":0.9,
 "spawn_layers":"WL_LandHorizontal",
 "attachable":{"offsets":{"root":[0,
