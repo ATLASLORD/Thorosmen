@@ -35,7 +35,7 @@
 "animations":{"walk":"/pa/units/land/bot_white_hole/bot_white_hole_anim_walk.papa",
 "idle":"/pa/units/land/bot_white_hole/bot_white_hole_anim_idle.papa",
 "walk_stop":"/pa/units/land/bot_white_hole/bot_white_hole_anim_walkStop.papa"},
-"animtree":"/pa/anim/anim_trees/commander_quad_anim_tree.json",
+"animtree":"/pa/units/land/bot_white_hole/bot_white_hole_anim_tree.json",
 "walk_speed":8.0},
 "nearby_target_tick_update_interval":2,
 "tools":[{"spec_id":"/pa/units/land/bot_white_hole/bot_white_hole_tool_weapon.json",
