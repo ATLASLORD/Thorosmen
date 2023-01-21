@@ -63,7 +63,7 @@
 0,
 0],
 "type": "moving_forward"}],
-"selection_response":{"cue":"/SE/Selection/titan/bot"}},
+"selection_response":{"cue":"/SE/Selection/titan/bot"},
 "selection_icon":{"diameter":46.0},
 "TEMP_texelinfo":6.38702,
 "mesh_bounds":[20,
