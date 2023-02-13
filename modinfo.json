@@ -24,11 +24,13 @@
             "coui://ui/mods/loloares.thorosmen/icon_atlas.js"
         ],
         "live_game": [
+          "coui://ui/mods/loloares.thorosmen/live_game/voice_audio.js",
+          "coui://ui/mods/loloares.thorosmen/js/audio.js",
           "coui://ui/mods/loloares.thorosmen/live_game/selection_audio.js"
     ]
     },
     "context": "server",
-    "date": "2023-01-20",
+    "date": "2023-02-13",
     "build": "116400",
-    "version": "1.8.7"
+    "version": "1.8.8"
 }
