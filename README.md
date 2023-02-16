@@ -4,7 +4,7 @@
 From spark that directly teleports to the enemy to landmine-trees replicator, passing by laser eyed anti-air bots as well as flying submarines.  <br />
 Players that search new ways to annihilate the enemy will be entertained for sure.** 
 
-THIS VERSION IS OUTDATED / SEVERAL UNITS HAS BEEN CHANGED/REMOVED SINCE.
+THIS WIKI VERSION IS OUTDATED / SEVERAL UNITS HAVE BEEN CHANGED/REMOVED SINCE.
 
 ***
 
