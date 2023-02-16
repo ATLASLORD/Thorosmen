@@ -537,6 +537,54 @@ var audioModel = (function () {
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
+            '/pa/units/land/crusher/crusher.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_vehicle',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_weapon_upgrade',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_select',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/air/airship/airship.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_speed',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_subcommander',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_economy',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_efficiency',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_land',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
             '/pa/units/land/titan_structure/titan_structure.json': new AudioResponseModel({
                 audio: '/VO/Computer/Titan/lost_Ragnarok',
                 priority: 5,
@@ -717,31 +765,43 @@ var audioModel = (function () {
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/air/airship/airship.json' : new AudioResponseModel({
-                audio: '/VO/Computer/gw/board_commander_factionleader_discovered',
-                always_play: true,
-                priority: 4,
-                interval: 30 * 1000 /* in ms */,
-            }),
-            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
-                audio: '/VO/Computer/gw/board_exploring',
-                always_play: true,
-                priority: 4,
-                interval: 30 * 1000 /* in ms */,
-            }),
-            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Foundation',
                 always_play: true,
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Legonis',
                 always_play: true,
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/radar_titan/radar_titan.json' : new AudioResponseModel({
+            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_commander_factionleader_discovered',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_exploring',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Revenenants',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_faction_discovered_Synchronous',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_initiating_battle',
                 always_play: true,
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
@@ -992,6 +1052,54 @@ var audioModel = (function () {
             '/pa/units/orbital/titan_orbital/titan_orbital.json': new AudioResponseModel({
                 audio: '/VO/Computer/Titan/destroyed_orbital_station',
                 priority: 3,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/crusher/crusher.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_slot_increased',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_system_capture',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_system_found',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/air/airship/airship.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_system_neutral',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_acquired',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_acquired_rare',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_start_online',
+                always_play: true,
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_super_weapon',
+                always_play: true,
+                priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/land/titan_structure/titan_structure.json': new AudioResponseModel({
