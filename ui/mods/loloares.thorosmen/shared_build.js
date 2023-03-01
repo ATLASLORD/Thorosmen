@@ -1,6 +1,5 @@
 var newBuild = {
 
-    "/pa/units/air/flying_submarine/flying_submarine.json": ["air", 0, { row: 1, column: 6 }],
     "/pa/units/land/tank_drone/tank_drone/tank_drone.json": ["vehicle", 0, { row: 1, column: 6 }],
     "/pa/units/orbital/orbital_lander_adv/orbital_lander_adv.json": ["orbital", 0, { row: 1, column: 4 }],
     "/pa/units/land/l_shield_gen/l_shield_gen.json": ["combat", 0, { row: 1, column: 6 }],
