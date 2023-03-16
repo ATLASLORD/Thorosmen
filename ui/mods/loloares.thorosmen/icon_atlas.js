@@ -44,6 +44,7 @@ var paeiouIcons = [
     "ilegal",
     "tank_shield_2",
     "radar_titan",
+    "ggspider_build",
     "artillery_nuke_ammo",
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

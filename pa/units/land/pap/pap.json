@@ -8,7 +8,9 @@
 "death_weapon":{"ground_ammo_spec":"/pa/units/land/pap/pap_ammo_death.json"},
 
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,5.3]}},
-"unit_types":["UNITTYPE_Bot","UNITTYPE_FabAdvBuild","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Important","UNITTYPE_Advanced","UNITTYPE_Amphibious"],
+"unit_types":["UNITTYPE_Bot","UNITTYPE_FabAdvBuild", "UNITTYPE_FabOrbBuild","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Important","UNITTYPE_Advanced","UNITTYPE_Amphibious"],
+"atrophy_rate":200.0,
+"atrophy_cool_down":15.0,
 "transportable":{"size":2},
 "guard_layer":"WL_AnySurface",
 "navigation":{"type":"amphibious",
