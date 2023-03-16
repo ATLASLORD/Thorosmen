@@ -1,4 +1,4 @@
-{"base_spec":"/pa/units/land/bunker/base_flyer.json",
+{"base_spec":"/pa/units/air/base_flyer/base_flyer.json",
 "display_name":"Bunker",
 "description":"!LOC: Protects your precious commander. Select your commander and use the bunker with it. If the planet you are on has no enemy, the bunker needs to be activated manually by using the attack button. Commander can be removed from the bunker by unloading it like you would do with pelican",
 "max_health":140000,
