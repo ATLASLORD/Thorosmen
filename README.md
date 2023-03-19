@@ -10,8 +10,3 @@ Players seeking innovative methods to vanquish their foes will undoubtedly find 
 
 <img src="https://user-images.githubusercontent.com/104906253/226111826-a415d314-75fa-41da-bd7c-78b75a9910e2.png" width="1000"  />
 
-
-
-![button_questions2](https://user-images.githubusercontent.com/104906253/226180748-05321a0d-d047-47d6-9aef-297c665a3493.png)
-![button_wiki2](https://user-images.githubusercontent.com/104906253/226180751-26cf2511-928b-4a13-8eb5-708f12db590f.png)
-![button_download2](https://user-images.githubusercontent.com/104906253/226180752-b5d82d06-d77d-42de-94dc-63ae2acae0c3.png)
