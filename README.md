@@ -4,7 +4,7 @@ The lineup includes 8 semi-titan units, such as the radar jammer bot and the mob
 Additionally, a specially designed bunker is included to safeguard the Commander.  
 Players seeking innovative methods to vanquish their foes will undoubtedly find themselves entertained.**
 
-[WIKI](https://github.com/ATLASLORD/Thorosmen/wiki) | [AMA](https://github.com/ATLASLORD/Thorosmen/discussions/7)
+[<img src="https://user-images.githubusercontent.com/104906253/225938926-66055e98-d5b7-4da9-ba06-360fe560ff32.png" width="500"  />](https://github.com/ATLASLORD/Thorosmen/wiki) | [AMA](https://github.com/ATLASLORD/Thorosmen/discussions/7)
 | [Download](https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip)
 
 ***
