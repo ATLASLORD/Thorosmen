@@ -19,7 +19,6 @@
 "UNITTYPE_FactoryBuild"],
 "command_caps":["ORDER_Move",
 "ORDER_Patrol",
-"ORDER_Attack",
 "ORDER_Assist"],
 "transportable":{"size":1},
 "guard_layer":"WL_AnyHorizontalGroundOrWaterSurface",
