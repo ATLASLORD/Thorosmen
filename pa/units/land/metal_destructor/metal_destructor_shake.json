@@ -45,8 +45,8 @@
         ],
         "stepped": false
       },
-      "max_falloff_dist": 1000.0,
-      "min_falloff_dist": 200.0,
+      "max_falloff_dist": 100.0,
+      "min_falloff_dist": 20.0,
       "width": {
         "keys": [
           [

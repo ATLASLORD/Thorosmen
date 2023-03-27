@@ -13,7 +13,6 @@
 "UNITTYPE_Orbital",
 "UNITTYPE_Mobile",
 "UNITTYPE_Transport",
-"UNITTYPE_Basic",
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild",
 "UNITTYPE_Interplanetary"],
