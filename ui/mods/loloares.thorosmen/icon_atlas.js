@@ -46,5 +46,6 @@ var paeiouIcons = [
     "radar_titan",
     "ggspider_build",
     "artillery_nuke_ammo",
+    "egg_build"
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

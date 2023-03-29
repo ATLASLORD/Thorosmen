@@ -1,5 +1,6 @@
 var newBuild = {
 
+    "/pa/units/land/egg_build/egg_build.json": ["factory", 0, { row: 0, column: 0 }],
     "/pa/units/land/bot_white_hole/bot_white_hole.json": ["Asemititan", 0, { row: 2, column: 0 }],
     "/pa/units/land/crusher/crusher.json": ["Asemititan", 0, { row: 2, column: 1 }],
     "/pa/units/land/ilegal/ilegal.json": ["Asemititan", 0, { row: 1, column: 2 }],
