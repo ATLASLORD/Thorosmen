@@ -23,7 +23,6 @@ var paeiouIcons = [
     "halabib",
     "cuzeta",
     "bumba",
-    "nareba",
     "prex",
     "binho",
     "maciota",
@@ -46,6 +45,9 @@ var paeiouIcons = [
     "radar_titan",
     "ggspider_build",
     "artillery_nuke_ammo",
+    "dagua",
+    "colum",
+    "lolis",
     "egg_build"
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

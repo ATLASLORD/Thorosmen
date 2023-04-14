@@ -30,7 +30,7 @@
 "recon":{"observer":{"items":[{"layer":"surface_and_air",
 "channel":"sight",
 "shape":"capsule",
-"radius":35}]}},
+"radius":20}]}},
 "model":{"filename":"/pa/units/land/land_mine/land_mine.papa",
 "animtree":"/pa/anim/anim_trees/attack_vehicle_anim_tree.json"},
 "tools":[{"spec_id":"/pa/units/land/attack_vehicle/attack_vehicle_tool_weapon.json",

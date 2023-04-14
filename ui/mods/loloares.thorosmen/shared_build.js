@@ -9,6 +9,7 @@ var newBuild = {
     "/pa/units/air/airship/airship.json": ["Asemititan", 0, { row: 0, column: 2 }],
     "/pa/units/land/pap/pap.json": ["Asemititan", 0, { row: 1, column: 0 }],
     "/pa/units/land/fef/fef.json": ["Asemititan", 0, { row: 1, column: 1 }],
+    "/pa/units/land/colum/colum.json": ["Asemititan", 0, { row: 2, column: 2 }],
 
     "/pa/units/land/metal_destructor/metal_destructor.json": ["structure", 0, { row: 1, column: 0 }],
     "/pa/units/land/radar_titan/radar_titan.json": ["structure", 0, { row: 0, column: 0 }],
@@ -31,6 +32,8 @@ var newBuild = {
     "/pa/units/land/canhao/canhao.json": ["combat", 0, { row: 2, column: 6 }],
     "/pa/units/land/kinha/kinha.json": ["combat", 0, { row: 1, column: 6 }],
     "/pa/units/land/hovertruck/hovertruck.json": ["combat", 0, { row: 0, column: 6 }],
+    "/pa/units/land/dagua/dagua.json": ["bot", 0, { row: 2, column: 9 }],
+    "/pa/units/air/lolis/lolis.json": ["air", 0, { row: 0, column: 5 }],
     "/pa/units/land/tank_shield_2/tank_shield_2.json": ["bot", 0, { row: 0, column: 3 }]
 
 

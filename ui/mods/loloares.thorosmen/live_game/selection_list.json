@@ -8,6 +8,7 @@
     "/pa/units/land/chain_reactor/chain_reactor.json":["/pa/audio/spider_sound.ogg"],
     "/pa/units/land/ilegal/ilegal.json":["/pa/audio/tripod_sound.ogg"],
     "/pa/units/land/bot_white_hole/bot_white_hole.json":["/pa/audio/tripod_sound.ogg"],
+    "/pa/units/land/colum/colum.json":["/pa/audio/tripod_sound.ogg"],
     "/pa/units/land/bot_sniper_big/bot_sniper_big.json":["/pa/audio/oblivion2_sound.ogg"],
     "/pa/units/land/cuzeta/cuzeta.json":["/pa/audio/oblivion2_sound.ogg"],
     "/pa/units/land/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"]

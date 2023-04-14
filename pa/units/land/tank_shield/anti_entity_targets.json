@@ -89,6 +89,8 @@
     "/pa/units/land/cuzeta/cuzeta_ammo.json",
     "/pa/units/land/ilegal/missil_ammo.json",
     "/pa/units/land/ilegal/ilegal_ammo.json",
+    "/pa/units/land/colum/colum_ammo.json",
+    "/pa/units/land/dagua/dagua_ammo.json",
     "/pa/units/sea/l_sea_tank/l_sea_tank_ammo.json"
   ],
   "anti_entity_targets_units": false,
