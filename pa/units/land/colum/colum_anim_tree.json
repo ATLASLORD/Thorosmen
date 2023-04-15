@@ -113,5 +113,5 @@
 "rotation_axis":"z"},
 {"type":"recoil",
 "bone":"bone_rightShoulder",
-"recoil_dist":3.0,
-"restore_time":0.25}]}
+"recoil_dist":2.0,
+"restore_time":0.15}]}
