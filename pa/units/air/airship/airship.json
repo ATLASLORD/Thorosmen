@@ -116,4 +116,7 @@
 90,
 0]}],
 "selection_icon":{"diameter":50.0},
-"TEMP_texelinfo":16.0481}
+"TEMP_texelinfo":16.0481,
+"mesh_bounds":[20,
+70,
+35]}

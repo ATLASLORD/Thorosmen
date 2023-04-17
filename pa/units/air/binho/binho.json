@@ -93,6 +93,6 @@
 {"type":"idle","filename":"/pa/units/land/bot_anti_nuke/fabrication_aircraft_adv_jets.pfx","orientation":[0,0,180],"effect_scale":2.0,"bone":"f2","offset":[0,0,0]},
 {"type":"idle","filename":"/pa/units/land/bot_anti_nuke/fabrication_aircraft_adv_jets.pfx","orientation":[0,0,180],"effect_scale":2.0,"bone":"f3","offset":[0,0,0]},
 {"type":"idle","filename":"/pa/units/land/bot_anti_nuke/fabrication_aircraft_adv_jets.pfx","orientation":[0,0,180],"effect_scale":2.0,"bone":"f4","offset":[0,0,0]}],
-"mesh_bounds":[23,23,6],
+"mesh_bounds":[28,28,10],
 "placement_size":[50,50],
 "TEMP_texelinfo":26.4194}

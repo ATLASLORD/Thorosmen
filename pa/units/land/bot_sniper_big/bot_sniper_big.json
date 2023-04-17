@@ -95,7 +95,7 @@
 "intensity":2.0,
 "bone":"bone_weapon"}],
 "selection_icon":{"diameter":18.0},
-"mesh_bounds":[10,
+"mesh_bounds":[7,
 12,
-10],
+20],
 "TEMP_texelinfo":5.32966}

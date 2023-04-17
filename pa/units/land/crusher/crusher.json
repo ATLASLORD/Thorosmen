@@ -54,7 +54,7 @@
 {"move_type":"underwater",
 "stamp_type":"structure"}]}},
 "physics": {"allow_pushing": true,
-"radius": 14, "orient_interp_rate":90.0},
+"radius": 0.5, "orient_interp_rate":90.0},
 "recon": {
 "observer": {"items": [{"channel": "sight",
 "layer": "surface_and_air",
@@ -120,7 +120,7 @@
 "scrolling_uv":{"scroll_rate":-0.12,
 "uv_split":0.9},
 "selection_icon": {"diameter": 70},
-"mesh_bounds": [33.5,
-16.4,
-15.5],
+"mesh_bounds": [44,
+30,
+34],
 "TEMP_texelinfo": 9.04444}
