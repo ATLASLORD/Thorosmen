@@ -34,6 +34,7 @@ var newBuild = {
     "/pa/units/land/hovertruck/hovertruck.json": ["combat", 0, { row: 0, column: 6 }],
     "/pa/units/land/dagua/dagua.json": ["bot", 0, { row: 2, column: 9 }],
     "/pa/units/air/lolis/lolis.json": ["air", 0, { row: 0, column: 5 }],
+    "/pa/units/land/healer/healer/healer.json": ["bot", 0, { row: 1, column: 8 }],
     "/pa/units/land/tank_shield_2/tank_shield_2.json": ["bot", 0, { row: 0, column: 3 }]
 
 

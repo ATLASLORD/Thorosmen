@@ -48,6 +48,8 @@ var paeiouIcons = [
     "dagua",
     "colum",
     "lolis",
+    "healer",
+    "healer_minion",
     "egg_build"
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));
