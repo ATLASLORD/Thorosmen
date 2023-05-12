@@ -120,7 +120,7 @@
 "scrolling_uv":{"scroll_rate":-0.12,
 "uv_split":0.9},
 "selection_icon": {"diameter": 70},
-"mesh_bounds": [44,
-30,
+"mesh_bounds": [22,
+15,
 34],
 "TEMP_texelinfo": 9.04444}
