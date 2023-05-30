@@ -1,5 +1,4 @@
 var paeiouIcons = [
-    "flying_submarine",
     "tank_drone",
     "drone_land",
     "orbital_lander_adv",
@@ -50,6 +49,8 @@ var paeiouIcons = [
     "lolis",
     "healer",
     "healer_minion",
+    "bot_freeze",
+    "bot_freeze_minion",
     "egg_build"
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

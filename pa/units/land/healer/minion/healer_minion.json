@@ -29,10 +29,7 @@
     "aim_bone": "bone_root",
     "record_index": 2,
     "spec_id":"/pa/units/land/healer/minion/healer_minion_life.json"}],
-"model":[{"layer":"WL_LandHorizontal",
-"filename":"/pa/units/land/healer/minion/minion.papa"},
-{"layer":"WL_WaterSurface",
-"filename":"/pa/units/land/healer/minion/minion.papa"}],
+"model":{"filename":"/pa/units/land/healer/minion/empty_minion.papa"},
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/barrier"},
 "fired":{"audio_cue":""},
 "died": {
@@ -49,7 +46,7 @@
 0],
 "type": "idle"}],
 "selection_icon":{"diameter":1.0},
-"mesh_bounds":[1.0,
-1.0,
-1.0],
+"mesh_bounds":[0,
+0,
+0],
 "TEMP_texelinfo":2.37699}

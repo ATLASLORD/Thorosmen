@@ -5,7 +5,7 @@
     "initial_radius": 1.0
   }, 
   "splash_damages_allies": false, 
-  "splash_radius": 50,
+  "splash_radius": 60,
   "armor_damage_map": {
     "AT_Air": 1,
     "AT_Bot": 1,
