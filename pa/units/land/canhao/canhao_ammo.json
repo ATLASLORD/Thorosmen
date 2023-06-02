@@ -5,7 +5,7 @@
 "full_damage_splash_radius":10,
 "splash_damages_allies":false,
 "initial_velocity":1000.0,
-"lifetime":0.5,
+"lifetime":0.35,
 "influence_radius":400,
 "physics":{"add_to_spatial_db":true},
 "fx_beam_spec":"/pa/units/land/air_defense_adv/air_defense_adv_ammo_beam.pfx",
