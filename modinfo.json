@@ -1,7 +1,7 @@
 {
     "identifier": "com.pa.loloares.thorosmen",
     "display_name": "Thorosmen",
-    "description": "Now mergeable with Second Wave and S17! Adds around 30 unique and extraordinary units, known as Thorosmen, to inject additional excitement and variety into the game. New detailed UNIT WIKI via the github link below",
+    "description": "Adds around 30 unique and extraordinary units, known as Thorosmen, to inject additional excitement and variety into the game. Detailed UNIT WIKI via the github link below. Compatible with Second Wave and S17. ",
     "author": "Mr.Loló and ARES LORD",
     "signature": "not yet implemented",
     "download": "https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip",
@@ -32,5 +32,5 @@
     "context": "server",
     "date": "2023-05-30",
     "build": "116931",
-    "version": "2.2.2"
+    "version": "2.2.3"
 }

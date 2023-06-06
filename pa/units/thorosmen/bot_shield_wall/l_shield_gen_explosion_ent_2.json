@@ -1,0 +1,14 @@
+{
+  "recon": {
+    "observable": {
+      "always_visible": false,
+      "ignore_radar": true,
+      "layer": "surface_and_air",
+      "sphere_radius": 5
+    }
+  },
+  "spawn_response": {
+    "audio_cue": "/SE/Weapons/orb/orb_railgun_fire",
+    "effect_spec": "/pa/units/thorosmen/bot_shield_wall/shield_off_2.pfx"
+  }
+}

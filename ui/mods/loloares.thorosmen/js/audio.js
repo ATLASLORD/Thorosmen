@@ -518,7 +518,7 @@ var audioModel = (function () {
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/air/titan_air/titan_air.json': new AudioResponseModel({
-                audio: '/VO/Computer/Titan/lost_zeus_airship',
+                audio: '/VO/Computer/Titan/lost_zeus_st_airship',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -537,42 +537,42 @@ var audioModel = (function () {
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/crusher/crusher.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_lawnmower/st_lawnmower.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_vehicle',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_weapon_upgrade',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_select',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/air/airship/airship.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_airship/st_airship.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_speed',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_white_hole/st_bot_white_hole.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_subcommander',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_pap/st_pap.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_economy',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_fef/st_fef.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_efficiency',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ilegal/st_ilegal.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_land',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
@@ -707,7 +707,7 @@ var audioModel = (function () {
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/air/titan_air/titan_air.json': new AudioResponseModel({
-                audio: '/VO/Computer/Titan/construction_zeus_airship_built',
+                audio: '/VO/Computer/Titan/construction_zeus_st_airship_built',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -750,42 +750,42 @@ var audioModel = (function () {
                 priority: 2,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/crusher/crusher.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_lawnmower/st_lawnmower.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_commander_discovered',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/air/airship/airship.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_airship/st_airship.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Foundation',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_white_hole/st_bot_white_hole.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Legonis',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_commander_factionleader_discovered',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_exploring',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_pap/st_pap.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Revenenants',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_fef/st_fef.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_faction_discovered_Synchronous',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ilegal/st_ilegal.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_initiating_battle',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
@@ -876,7 +876,7 @@ var audioModel = (function () {
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/air/titan_air/titan_air.json': new AudioResponseModel({
-                audio: '/VO/Computer/Titan/site_zeus_airship',
+                audio: '/VO/Computer/Titan/site_zeus_st_airship',
                 priority: 3,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -1014,7 +1014,7 @@ var audioModel = (function () {
                 interval: 30 * 1000 /* in ms */,
             }),
             '/pa/units/air/titan_air/titan_air.json': new AudioResponseModel({
-                audio: '/VO/Computer/Titan/destroyed_zeus_airship',
+                audio: '/VO/Computer/Titan/destroyed_zeus_st_airship',
                 priority: 3,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -1038,42 +1038,42 @@ var audioModel = (function () {
                 priority: 3,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/crusher/crusher.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_lawnmower/st_lawnmower.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_slot_increased',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/chain_reactor/chain_reactor.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_system_capture',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_anti_nuke/bot_anti_nuke.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_system_found',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/air/airship/airship.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_airship/st_airship.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_system_neutral',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/bot_white_hole/bot_white_hole.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_bot_white_hole/st_bot_white_hole.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_acquired',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/pap/pap.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_pap/st_pap.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_acquired_rare',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/fef/fef.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_fef/st_fef.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_start_online',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
-            '/pa/units/land/ilegal/ilegal.json' : new AudioResponseModel({
+            '/pa/units/thorosmen/st_ilegal/st_ilegal.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_super_weapon',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,

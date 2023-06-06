@@ -1,15 +1,15 @@
 {
-    "/pa/units/land/bot_anti_nuke/bot_anti_nuke.json":["/pa/audio/toblerone_sound.ogg"],
-    "/pa/units/land/fef/fef.json":["/pa/audio/tripod_sound.ogg"],
-    "/pa/units/air/airship/airship.json":["/pa/audio/blimp_sound.ogg"],
-    "/pa/units/air/binho/binho.json":["/pa/audio/oblivion_sound.ogg"],
-    "/pa/units/land/pap/pap.json":["/pa/audio/radarbot_sound.ogg"],
-    "/pa/units/land/crusher/crusher.json":["/pa/audio/lawnmower_sound.ogg"],
-    "/pa/units/land/chain_reactor/chain_reactor.json":["/pa/audio/spider_sound.ogg"],
-    "/pa/units/land/ilegal/ilegal.json":["/pa/audio/tripod_sound.ogg"],
-    "/pa/units/land/bot_white_hole/bot_white_hole.json":["/pa/audio/tripod_sound.ogg"],
-    "/pa/units/land/colum/colum.json":["/pa/audio/tripod_sound.ogg"],
-    "/pa/units/land/bot_sniper_big/bot_sniper_big.json":["/pa/audio/oblivion2_sound.ogg"],
-    "/pa/units/land/cuzeta/cuzeta.json":["/pa/audio/oblivion2_sound.ogg"],
-    "/pa/units/land/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"]
+    "/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke.json":["/pa/audio/toblerone_sound.ogg"],
+    "/pa/units/thorosmen/st_fef/st_fef.json":["/pa/audio/tripod_sound.ogg"],
+    "/pa/units/thorosmen/st_airship/st_airship.json":["/pa/audio/blimp_sound.ogg"],
+    "/pa/units/thorosmen/binho/binho.json":["/pa/audio/oblivion_sound.ogg"],
+    "/pa/units/thorosmen/st_pap/st_pap.json":["/pa/audio/radarbot_sound.ogg"],
+    "/pa/units/thorosmen/st_lawnmower/st_lawnmower.json":["/pa/audio/lawnmower_sound.ogg"],
+    "/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.json":["/pa/audio/spider_sound.ogg"],
+    "/pa/units/thorosmen/st_ilegal/st_ilegal.json":["/pa/audio/tripod_sound.ogg"],
+    "/pa/units/thorosmen/st_bot_white_hole/st_bot_white_hole.json":["/pa/audio/tripod_sound.ogg"],
+    "/pa/units/thorosmen/st_colum/st_colum.json":["/pa/audio/tripod_sound.ogg"],
+    "/pa/units/thorosmen/bot_sniper_big/bot_sniper_big.json":["/pa/audio/oblivion2_sound.ogg"],
+    "/pa/units/thorosmen/cuzeta/cuzeta.json":["/pa/audio/oblivion2_sound.ogg"],
+    "/pa/units/thorosmen/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"]
 }
