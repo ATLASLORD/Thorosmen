@@ -7,6 +7,6 @@
 "max_velocity":200.0,
 "lifetime":5,
 "model":{"filename":"/pa/units/air/shell/shell.papa"},
-"fx_trail":{"filename":"/pa/units/thorosmen/st_colum/st_colum_bullet_proj_trail.pfx","offset":[0.0,0.0,0.0]},
+"fx_trail":{"filename":"/pa/units/thorosmen/st_colum/st_colum_bullet_proj_trail.pfx","offset":[0.0,1.0,0.0]},
 "events":{"died":{"audio_cue":"/SE/Impacts/shell_bullet","effect_spec":"/pa/effects/specs/default_explosion.pfx","effect_scale":0.4}},
 "physics":{"radius":1,"gravity_scalar":6,"add_to_spatial_db":true,"allow_underground":true}}
