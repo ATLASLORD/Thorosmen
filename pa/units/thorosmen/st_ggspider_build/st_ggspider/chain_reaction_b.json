@@ -11,6 +11,7 @@
 7.4]}},
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Heavy",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",

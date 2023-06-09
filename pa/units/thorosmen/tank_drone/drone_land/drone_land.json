@@ -5,6 +5,7 @@
 "build_metal_cost":20,
 "guard_radius":250,
 "unit_types":["UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Air",
 "UNITTYPE_Basic"],
 "command_caps":[],

@@ -3,12 +3,11 @@
 "description":"!LOC:Long range UFO unit. Durable, slow and equipped with two laser cannons. Attacks air and surface targets. Can move among planets.",
 "max_health":5150,
 "build_metal_cost":6200,
-
-
-
+"system_velocity_multiplier":30.0,
+"gravwell_velocity_multiplier":10.0,
 "attachable":{"offsets":{"root":[0,0,0]}},
-
-"unit_types":["UNITTYPE_Bomber","UNITTYPE_Transport","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Air","UNITTYPE_Tactical","UNITTYPE_Advanced","UNITTYPE_FactoryBuild"],
+"unit_types":["UNITTYPE_Bomber","UNITTYPE_Transport","UNITTYPE_Mobile",
+"UNITTYPE_Custom58","UNITTYPE_Offense","UNITTYPE_Air","UNITTYPE_Tactical","UNITTYPE_Advanced","UNITTYPE_FactoryBuild"],
 "command_caps":["ORDER_Move","ORDER_Patrol","ORDER_Assist","ORDER_Load","ORDER_Unload","ORDER_SpecialMove","ORDER_Attack"],
 "guard_layer":"WL_AnySurface",
 "navigation":{"type":"air","inter_planetary_type":"system",
@@ -19,9 +18,6 @@
 "turn_speed":45,
 "dodge_radius":0,
 "dodge_multiplier":0.0,
-
-"system_velocity_multiplier":15.0,
-
 "aggressive_distance":180.0,
 "aggressive_height":100.0,
 "aggressive_behavior":"circle",

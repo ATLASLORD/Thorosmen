@@ -13,6 +13,7 @@
 "area_build_separation":200,
 "unit_types":["UNITTYPE_Land",
 "UNITTYPE_Structure",
+"UNITTYPE_Custom58",
 "UNITTYPE_Advanced",
 "UNITTYPE_Titan",
 "UNITTYPE_Important",

@@ -27,6 +27,7 @@
         "UNITTYPE_FabOrbBuild",
         "UNITTYPE_Titan",
         "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
         "UNITTYPE_Artillery",
         "UNITTYPE_Offense",
         "UNITTYPE_Land",

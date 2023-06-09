@@ -10,6 +10,7 @@
 "death_weapon":{"ground_ammo_spec":"/pa/units/thorosmen/bunker_build/bunker_orb/bunker_ammo_death.json"},
 "has_death_effects":true,
 "unit_types":["UNITTYPE_Structure",
+"UNITTYPE_Custom58",
 "UNITTYPE_Land",
 "UNITTYPE_Advanced",
 "UNITTYPE_SelfDestruct"],

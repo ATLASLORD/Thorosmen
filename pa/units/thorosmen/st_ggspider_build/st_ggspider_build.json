@@ -5,6 +5,7 @@
 "build_metal_cost":15000,
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Heavy",
 "UNITTYPE_Advanced",
 "UNITTYPE_FabAdvBuild",

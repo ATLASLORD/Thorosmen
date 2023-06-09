@@ -65,6 +65,7 @@
 0,
 0]],
 "unit_types":["UNITTYPE_Structure",
+"UNITTYPE_Custom58",
 "UNITTYPE_Advanced",
 "UNITTYPE_Land",
 "UNITTYPE_SurfaceDefense",

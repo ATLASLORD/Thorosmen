@@ -9,6 +9,7 @@
 "area_build_type":"Sphere","area_build_separation":50,
 "show_in_orbital_layer":false,
 "unit_types":["UNITTYPE_Structure",
+"UNITTYPE_Custom58",
 "UNITTYPE_Basic","UNITTYPE_Defense",
 "UNITTYPE_OrbitalDefense","UNITTYPE_FabAdvBuild"],
 "command_caps":["ORDER_Attack"],

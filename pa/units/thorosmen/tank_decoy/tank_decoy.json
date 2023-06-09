@@ -14,6 +14,7 @@
 "unit_types":["UNITTYPE_Tank",
 "UNITTYPE_Heavy",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",
 "UNITTYPE_Hover",

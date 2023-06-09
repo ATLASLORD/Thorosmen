@@ -9,6 +9,7 @@
 0]}},
 "unit_types":["UNITTYPE_Air",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Transport",
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild"],

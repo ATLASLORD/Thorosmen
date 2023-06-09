@@ -13,6 +13,7 @@
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Heavy",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",
 "UNITTYPE_Advanced",

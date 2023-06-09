@@ -16,6 +16,7 @@
 3.4]}},
 "unit_types":["UNITTYPE_Tank",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",
 "UNITTYPE_Advanced",

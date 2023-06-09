@@ -15,6 +15,7 @@
 "UNITTYPE_Bot",
 "UNITTYPE_Transport",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Advanced",
 "UNITTYPE_NoBuild"],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/air"},

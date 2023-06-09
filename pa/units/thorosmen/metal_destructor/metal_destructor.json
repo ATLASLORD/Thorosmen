@@ -11,6 +11,7 @@
 "area_build_type":"Line",
 "production":{"metal":100},
 "unit_types":["UNITTYPE_Structure",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_MetalProduction",
 "UNITTYPE_Advanced",

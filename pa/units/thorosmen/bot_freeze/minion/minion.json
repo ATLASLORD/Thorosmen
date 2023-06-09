@@ -15,6 +15,7 @@
 "unit_types":["UNITTYPE_Naval",
 "UNITTYPE_Sub",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Advanced",
 "UNITTYPE_NoBuild"],
 "events":{"build_complete":{"audio_cue":""},

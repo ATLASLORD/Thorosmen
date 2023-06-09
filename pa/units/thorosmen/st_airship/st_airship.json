@@ -6,6 +6,7 @@
 "unit_types":["UNITTYPE_Fighter",
 "UNITTYPE_Air",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_Advanced",
 "UNITTYPE_Titan",

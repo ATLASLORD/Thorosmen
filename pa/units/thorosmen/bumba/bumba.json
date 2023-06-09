@@ -7,6 +7,7 @@
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,3.1]}},
 "unit_types":["UNITTYPE_Tank",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Offense",
 "UNITTYPE_Land",
 "UNITTYPE_Artillery",

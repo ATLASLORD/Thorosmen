@@ -12,6 +12,7 @@
 9.2]}},
 "unit_types":["UNITTYPE_Bot",
 "UNITTYPE_Mobile",
+"UNITTYPE_Custom58",
 "UNITTYPE_Defense",
 "UNITTYPE_NukeDefense",
 "UNITTYPE_Land",
