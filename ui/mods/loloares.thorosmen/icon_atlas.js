@@ -50,6 +50,7 @@ var paeiouIcons = [
     "healer_minion",
     "bot_freeze",
     "bot_freeze_minion",
+    "gigatank",
     "titan_egg_build"
 ];
 model.strategicIcons(model.strategicIcons().concat(paeiouIcons));

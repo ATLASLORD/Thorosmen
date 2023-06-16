@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/air/base_flyer/base_flyer.json",
 "display_name":"Binho",
-"description":"!LOC:Long range UFO unit. Durable, slow and equipped with two laser cannons. Attacks air and surface targets. Can move among planets.",
+"description":"!LOC:Durable, long-range UFO. Functions as mobile bastion, can pick up units including the Commander. Equipped with dual lasers for air/ground attacks. Interplanetary mobility.",
 "max_health":5150,
 "build_metal_cost":6200,
 "system_velocity_multiplier":30.0,
