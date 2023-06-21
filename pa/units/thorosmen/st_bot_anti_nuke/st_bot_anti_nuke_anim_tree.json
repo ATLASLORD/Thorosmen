@@ -33,5 +33,7 @@
 "transition_seek":{"func":"fired1",
 "true_target":"start",
 "false_target":"idle"}},
-"dead":{"type":"bind_pose"},
+"dead":{"type":"playback",
+"looping":false,
+"anim_name":"death"},
 "ghost":{"type":"bind_pose"}}}}

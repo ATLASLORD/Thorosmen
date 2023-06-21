@@ -5,11 +5,12 @@
 "build_metal_cost":10000,
 
 
-"death_weapon":{"ground_ammo_spec":"/pa/units/thorosmen/st_pap/pap_ammo_death.json"},
+"death_weapon":{"ground_ammo_spec":"/pa/ammo/st_ammo_death/st_ammo_death.json"},
 
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,5.3]}},
 "unit_types":["UNITTYPE_Bot","UNITTYPE_FabAdvBuild", "UNITTYPE_FabOrbBuild","UNITTYPE_Mobile",
 "UNITTYPE_Custom58","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Important","UNITTYPE_Advanced","UNITTYPE_Amphibious"],
+"has_death_effects": true,
 "atrophy_rate":200.0,
 "atrophy_cool_down":15.0,
 "transportable":{"size":2},
@@ -30,12 +31,13 @@
 {"layer":"underwater","channel":"sight","shape":"capsule","radius":85}]}},
 
 "model":{"filename":"/pa/units/thorosmen/st_pap/st_pap.papa",
-"animations":{"death01":"/pa/units/land/assault_bot_adv/assault_bot_adv_anim_death01.papa",
-"walk":"/pa/units/commanders/quad_base/quad_base_anim_walk.papa",
+"animations":{"walk":"/pa/units/commanders/quad_base/quad_base_anim_walk.papa",
 "idle":"/pa/units/commanders/quad_base/quad_base_anim_idle.papa",
 "aim_up":"/pa/units/commanders/quad_base/quad_base_anim_aimUp.papa",
-"aim_down":"/pa/units/commanders/quad_base/quad_base_anim_aimDown.papa"},
-"animtree":"/pa/anim/anim_trees/commander_quad_anim_tree.json","walk_speed":10},
+"aim_down":"/pa/units/commanders/quad_base/quad_base_anim_aimDown.papa",
+"death":"/pa/units/thorosmen/st_fef/st_fef_anim_death.papa",
+"dead":"/pa/units/thorosmen/st_fef/st_fef_anim_dead.papa"},
+"animtree":"/pa/units/thorosmen/st_fef/st_fef_anim_tree.json","walk_speed":10},
 
 "tools":[{"spec_id":"/pa/units/thorosmen/st_pap/weapon.json","aim_bone":"bone_turret","muzzle_bone":["socket_rightMuzzle","socket_leftMuzzle"]}],
 
@@ -45,8 +47,8 @@
 "fired":{"audio_cue":"/SE/Weapons/structure/laser_defense_ADV_fire",
 "effect_spec":"/pa/effects/specs/default_small_muzzle_flash.pfx socket_rightMuzzle /pa/effects/specs/default_small_muzzle_flash.pfx socket_leftMuzzle"},
 "died":{"audio_cue":"/SE/Death/Bot",
-"effect_spec":"/pa/effects/specs/default_building_explosion_large.pfx",
-"effect_scale":1.2}},
+"effect_spec":"/pa/effects/specs/st_explosion.pfx",
+"effect_scale":1.0}},
 "audio":{"loops":{"move":{"cue":"/SE/Movement/bot/T2_assault_loop",
 "flag":"vel_changed",
 "should_start_func":"is_moving",

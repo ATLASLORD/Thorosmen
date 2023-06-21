@@ -4,9 +4,7 @@
     "description": "Semi titan grenadier anti land unit. Durable",
     "max_health": 12500,
     "build_metal_cost": 10000,
-    "death_weapon": {
-        "ground_ammo_spec": "/pa/units/thorosmen/st_fef/st_fef_ammo_death.json"
-    },
+    "death_weapon":{"ground_ammo_spec":"/pa/ammo/st_ammo_death/st_ammo_death.json"},
     "attachable": {
         "offsets": {
             "root": [
@@ -27,7 +25,7 @@
         "UNITTYPE_FabOrbBuild",
         "UNITTYPE_Titan",
         "UNITTYPE_Mobile",
-"UNITTYPE_Custom58",
+        "UNITTYPE_Custom58",
         "UNITTYPE_Artillery",
         "UNITTYPE_Offense",
         "UNITTYPE_Land",
@@ -35,6 +33,7 @@
         "UNITTYPE_Advanced",
         "UNITTYPE_Amphibious"
     ],
+    "has_death_effects": true,
     "transportable": {
         "size": 2
     },
@@ -70,11 +69,12 @@
     "model": {
         "filename": "/pa/units/thorosmen/st_colum/st_colum.papa",
         "animations": {
-            "death01": "/pa/units/land/assault_bot_adv/assault_bot_adv_anim_death01.papa",
+            "death": "/pa/units/thorosmen/st_colum/st_colum_anim_death.papa",
             "walk": "/pa/units/thorosmen/st_colum/st_colum_anim_walk.papa",
             "idle": "/pa/units/thorosmen/st_colum/st_colum_anim_idle.papa",
             "aim_up":"/pa/units/thorosmen/st_colum/st_colum_anim_aimUp.papa",
-			"aim_down":"/pa/units/thorosmen/st_colum/st_colum_anim_aimDown.papa"
+			"aim_down":"/pa/units/thorosmen/st_colum/st_colum_anim_aimDown.papa",
+            "dead": "/pa/units/thorosmen/st_colum/st_colum_anim_dead.papa"
         },
         "animtree": "/pa/units/thorosmen/st_colum/st_colum_anim_tree.json",
         "walk_speed": 8
@@ -124,7 +124,7 @@
         },
         "died": {
             "audio_cue": "/SE/Death/Bot",
-            "effect_spec": "/pa/units/thorosmen/st_fef/default_building_explosion_large.pfx",
+            "effect_spec": "/pa/effects/specs/st_explosion.pfx",
             "effect_scale": 1.0
         }
     },

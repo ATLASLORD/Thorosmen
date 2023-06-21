@@ -20,7 +20,7 @@
 },
 "events": {
   "died": {
-    "effect_spec": "/pa/units/air/bomber/bomber_ammo_hit.pfx"
+    "effect_spec": "/pa/effects/specs/none.pfx"
     }
   }
 }

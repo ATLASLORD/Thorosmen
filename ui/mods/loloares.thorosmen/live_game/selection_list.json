@@ -5,6 +5,7 @@
     "/pa/units/thorosmen/binho/binho.json":["/pa/audio/oblivion_sound.ogg"],
     "/pa/units/thorosmen/st_pap/st_pap.json":["/pa/audio/radarbot_sound.ogg"],
     "/pa/units/thorosmen/st_lawnmower/st_lawnmower.json":["/pa/audio/lawnmower_sound.ogg"],
+    "/pa/units/thorosmen/st_ggspider_build/st_ggspider_build.json":["/pa/audio/spider_sound.ogg"],
     "/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.json":["/pa/audio/spider_sound.ogg"],
     "/pa/units/thorosmen/st_ilegal/st_ilegal.json":["/pa/audio/tripod_sound.ogg"],
     "/pa/units/thorosmen/st_bot_white_hole/st_bot_white_hole.json":["/pa/audio/tripod_sound.ogg"],

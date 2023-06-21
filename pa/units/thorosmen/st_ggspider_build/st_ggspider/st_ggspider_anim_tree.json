@@ -112,8 +112,4 @@
 "ghost":{"type":"bind_pose"}}},
 "skeleton_controls":[{"type":"procedural_aim",
 "rotation_bone":"bone_turret",
-"rotation_axis":"z"},
-{"type":"recoil",
-"bone":"bone_turret",
-"recoil_dist":7.0,
-"restore_time":1.5}]}
+"rotation_axis":"z"}]}

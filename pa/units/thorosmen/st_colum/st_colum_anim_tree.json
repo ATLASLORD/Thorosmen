@@ -106,7 +106,9 @@
 "target":"walking",
 "duration":0.2}}],
 "reset":"playback_reset"}]}},
-"dead":{"type":"bind_pose"},
+"dead":{"type":"playback",
+"looping":false,
+"anim_name":"death"},
 "ghost":{"type":"bind_pose"}}},
     "skeleton_controls": [
         {
