@@ -1,7 +1,7 @@
 {"base_spec":"/pa/tools/base_shell_turret/base_shell_turret.json",
 "ammo_id":"/pa/units/thorosmen/bot_sniper_big/bot_sniper_big_ammo.json",
 "ammo_source":"time",
-"rate_of_fire":1,
+"rate_of_fire":0.2,
 "ammo_capacity":5,
 "ammo_demand":1,
 "ammo_per_shot":5,

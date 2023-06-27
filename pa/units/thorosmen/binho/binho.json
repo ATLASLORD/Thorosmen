@@ -45,10 +45,11 @@
     "capacity": 1,
     "transportable_unit_types":"(Mobile & Land) | (Fabber & (Air | Naval))",
     "transporter_attach_bone": "bone_root",
-    "transportable_attach_offset": "head"
+    "transportable_attach_offset": "head",
+    "load_range": 20,
+    "chase_range": 20
   },
 
-"usable": true,
   "useable": {
     "type": "transport",
     "range": 20

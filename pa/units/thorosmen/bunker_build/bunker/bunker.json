@@ -32,7 +32,6 @@
 "useable":{"type":"transport",
 "range":50},
 "transporter":{"capacity":4,
-"load_range":20,
 "transportable_unit_types":"Commander",
 "transporter_attach_bone":"bone_root",
 "transportable_attach_offset":"head",

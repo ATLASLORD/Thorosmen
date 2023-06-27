@@ -22,7 +22,7 @@
 "ORDER_Patrol",
 "ORDER_Assist",
 "ORDER_Use"],
-"transportable":{"size":1},
+"transportable":{"size":2},
 "guard_layer":"WL_AnySurface",
 "navigation":{"type":"hover",
 "acceleration":140,

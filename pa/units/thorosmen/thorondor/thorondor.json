@@ -33,7 +33,7 @@
 "useable":{"type":"transport",
 "range":10},
 "transporter":{"capacity":2,
-"transportable_unit_types":"(Mobile & Land) | (Fabber & (Air | Naval))",
+"transportable_unit_types":"(Mobile & Land) | (Fabber & (Air | Naval)) | Titan",
 "transporter_attach_bone":"bone_payload",
 "transportable_attach_offset":"head"},
 "navigation":{"type":"air",

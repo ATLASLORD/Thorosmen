@@ -4,7 +4,7 @@
 "splash_radius":5,
 "initial_velocity":650.0,
 "max_velocity":800.0,
-"lifetime":10,
+"lifetime":1,
 "physics":{"radius":1,"gravity_scalar":0.001,"add_to_spatial_db":true,"allow_underground":false},
 "fx_trail":{"filename":"/pa/units/thorosmen/binho/laser_defense_adv_ammo_trail.pfx"},
 "events":{"died":{"audio_cue":"/SE/Impacts/missile_artillery_short","effect_spec":"/pa/units/thorosmen/binho/binho_ammo_ground_beam_hit.pfx"}}}

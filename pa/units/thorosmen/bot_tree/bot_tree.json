@@ -18,7 +18,7 @@
 "UNITTYPE_Land",
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild"],
-"transportable":{"size":1},
+"transportable":{"size":2},
 "guard_layer":"WL_AnySurface",
 "navigation":{"type":"land-small",
 "acceleration":100,

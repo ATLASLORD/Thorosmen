@@ -1,5 +1,5 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
-"display_name":"st_pap",
+"display_name":"Pap",
 "description":"Semi titan jammer unit. Has a built in radar and makes nearby units invisible to enemy radars. Durable",
 "max_health":8300,
 "build_metal_cost":10000,
