@@ -20,13 +20,13 @@ var newBuild = {
     "/pa/units/thorosmen/thorondor/thorondor.json": ["air", 0, { row: 0, column: 3 }],
     "/pa/units/thorosmen/bot_drone/bot_drone.json": ["bot", 0, { row: 0, column: 4 }],
     "/pa/units/thorosmen/bot_tp/bot_tp.json": ["bot", 0, { row: 2, column: 8 }],
-    "/pa/units/thorosmen/tank_shield/tank_shield.json": ["vehicle", 0, { row: 0, column: 2 }],
+    "/pa/units/thorosmen/tank_shield/tank_shield.json": ["vehicle", 0, { row: 0, column: 7 }],
     "/pa/units/thorosmen/bot_tree/bot_tree.json": ["bot", 0, { row: 0, column: 5 }],
     "/pa/units/thorosmen/bot_sniper_big/bot_sniper_big.json": ["bot", 0, { row: 0, column: 2 }],
     "/pa/units/thorosmen/halabib/halabib.json": ["bot", 0, { row: 0, column: 6 }],
     "/pa/units/thorosmen/cuzeta/cuzeta.json": ["bot", 0, { row: 0, column: 1 }],
     "/pa/units/thorosmen/bumba/bumba.json": ["vehicle", 0, { row: 0, column: 4 }],
-    "/pa/units/thorosmen/prex/prex.json": ["vehicle", 0, { row: 0, column: 1 }],
+    "/pa/units/thorosmen/prex/prex.json": ["vehicle", 0, { row: 0, column: 2 }],
     "/pa/units/thorosmen/binho/binho.json": ["air", 0, { row: 0, column: 1 }],
     "/pa/units/thorosmen/maciota/maciota.json": ["combat", 0, { row: 0, column: 1 }],
     "/pa/units/thorosmen/canhao/canhao.json": ["combat", 0, { row: 2, column: 6 }],
@@ -36,7 +36,7 @@ var newBuild = {
     "/pa/units/thorosmen/lolis/lolis.json": ["air", 0, { row: 0, column: 5 }],
     "/pa/units/thorosmen/healer/healer/healer.json": ["bot", 0, { row: 1, column: 8 }],
     "/pa/units/thorosmen/bot_freeze/bot_freeze.json": ["bot", 0, { row: 0, column: 8 }],
-    "/pa/units/thorosmen/gigatank/gigatank.json": ["vehicle", 0, { row: 0, column: 6 }],
+    "/pa/units/thorosmen/gigatank/gigatank.json": ["vehicle", 0, { row: 0, column: 1 }],
     "/pa/units/thorosmen/bot_shield_wall/bot_shield_wall.json": ["bot", 0, { row: 0, column: 3 }]
 
 

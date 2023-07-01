@@ -1,0 +1,20 @@
+{
+  "ammo_capacity": 5000,
+  "ammo_demand": 500,
+  "ammo_per_shot": 5000,
+  "ammo_source": "energy",
+  "anti_entity_targets": [
+    "/pa/units/air/bomber_heavy/bomber_heavy_ammo.json",
+    "/pa/units/land/artillery_long/artillery_long_ammo.json",
+    "/pa/units/land/l_artillery_long/l_artillery_long_ammo.json",
+    "/pa/units/thorosmen/prex/prex_ammo.json"
+  ],
+  "anti_entity_targets_units": false,
+  "auto_task_type": "anti_entity",
+  "base_spec": "/pa/tools/base_shell_turret/base_shell_turret.json",
+  "energy_efficiency_requirement": 1,
+  "start_fully_charged": false,
+  "target_layers": [
+    "WL_Air"
+  ]
+}

@@ -10,6 +10,9 @@
 "turn_rate":60,
 "lifetime":4,
 "influence_radius":400,
+"physics": {
+        "add_to_spatial_db": true
+    },
 "stages":[{"ignores_gravity":true,
 "ignores_LOS":true,
 "stage_duration":100,
