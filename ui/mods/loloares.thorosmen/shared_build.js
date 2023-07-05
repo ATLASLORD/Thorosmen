@@ -13,6 +13,8 @@ var newBuild = {
 
     "/pa/units/thorosmen/metal_destructor/metal_destructor.json": ["structure", 0, { row: 1, column: 0 }],
     "/pa/units/thorosmen/titan_radar/titan_radar.json": ["structure", 0, { row: 0, column: 0 }],
+    "/pa/units/thorosmen/spell_heal/spell_heal.json": ["structure", 0, { row: 0, column: 1 }],
+    "/pa/units/thorosmen/spell_heal/spell_heal_ammo.json": ["ammo", 0, { row: 2, column: 1 }],
 
     "/pa/units/thorosmen/tank_drone/tank_drone/tank_drone.json": ["vehicle", 0, { row: 0, column: 3 }],
     "/pa/units/thorosmen/tank_decoy/tank_decoy.json": ["vehicle", 0, { row: 1, column: 7 }],

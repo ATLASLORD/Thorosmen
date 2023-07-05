@@ -1,0 +1,54 @@
+{"base_spec":"/pa/units/land/base_structure/base_structure.json",
+"unit_name":"healer_minion",
+"display_name":"!LOC:GIGA REGEN",
+"description":"!LOC:Regen Spell - Heals units within a radius",
+"max_health":5000,
+"build_metal_cost":20,
+"wreckage_health_frac":0.0,
+"spawn_layers":"WL_AnyHorizontalGroundOrWaterSurface",
+"unit_types":["UNITTYPE_Structure",
+"UNITTYPE_Custom58",
+"UNITTYPE_Land"],
+"recon":{"observable":{"always_visible":true},
+"observer":{"items":{"layer":"surface_and_air",
+"channel":"sight",
+"shape":"capsule",
+"radius":1}}},
+"physics": {
+    "add_to_spatial_db": false
+  },
+"tools":[{
+      "aim_bone": "bone_root",
+      "record_index": 0,
+      "spec_id": "/pa/units/thorosmen/spell_heal/minion/spell_heal_minion_regen_tool.json"
+    },
+    {
+      "aim_bone": "bone_root",
+      "record_index": 1,
+      "spec_id": "/pa/units/thorosmen/spell_heal/minion/spell_heal_minion_regen_tool2.json"
+    },
+    {
+    "aim_bone": "bone_root",
+    "record_index": 2,
+    "spec_id":"/pa/units/thorosmen/spell_heal/minion/spell_heal_minion_life.json"}],
+"model":{"filename":"/pa/units/thorosmen/healer/minion/empty_minion.papa"},
+"events":{"build_complete":{"audio_cue":"/SE/Build_Complete/barrier"},
+"fired":{"audio_cue":""},
+"died": {
+      "audio_cue": "/SE/Weapons/veh/vangaurd_fire",
+      "effect_spec": "/pa/effects/specs/heal_off.pfx"
+    }},
+"fx_offsets": [{"bone": "bone_root",
+"filename": "/pa/effects/specs/heal_spell_big.pfx",
+"offset": [0,
+0,
+0],
+"orientation": [0,
+0,
+0],
+"type": "idle"}],
+"selection_icon":{"diameter":1.0},
+"mesh_bounds":[0,
+0,
+0],
+"TEMP_texelinfo":2.37699}
