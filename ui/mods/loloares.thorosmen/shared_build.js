@@ -38,6 +38,7 @@ var newBuild = {
     "/pa/units/thorosmen/lolis/lolis.json": ["air", 0, { row: 0, column: 5 }],
     "/pa/units/thorosmen/healer/healer/healer.json": ["bot", 0, { row: 1, column: 8 }],
     "/pa/units/thorosmen/bot_freeze/bot_freeze.json": ["bot", 0, { row: 0, column: 8 }],
+    "/pa/units/thorosmen/drill/drill.json": ["bot", 0, { row: 0, column: 7 }],
     "/pa/units/thorosmen/gigatank/gigatank.json": ["vehicle", 0, { row: 0, column: 1 }],
     "/pa/units/thorosmen/bot_shield_wall/bot_shield_wall.json": ["bot", 0, { row: 0, column: 3 }]
 
