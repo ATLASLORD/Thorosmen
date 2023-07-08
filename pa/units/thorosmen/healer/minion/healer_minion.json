@@ -2,6 +2,7 @@
 "unit_name":"healer_minion",
 "display_name":"!LOC:SUPER REGEN",
 "description":"!LOC:Regen Potion - Heals units within a radius",
+"si_name":"empty",
 "max_health":5000,
 "build_metal_cost":20,
 "wreckage_health_frac":0.0,
@@ -30,7 +31,7 @@
     "aim_bone": "bone_root",
     "record_index": 2,
     "spec_id":"/pa/units/thorosmen/healer/minion/healer_minion_life.json"}],
-"model":{"filename":"/pa/units/thorosmen/healer/minion/empty_minion.papa"},
+"model":{"filename":"/pa/effects/models/empty_model.papa"},
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/barrier"},
 "fired":{"audio_cue":""},
 "died": {

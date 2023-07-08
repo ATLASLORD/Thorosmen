@@ -1,6 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"White hole",
 "description":"!LOC:Giant white sphere - Pushes armies far away",
+"si_name":"empty",
 "max_health":9000,
 "build_metal_cost":0,
 "armor_type":"AT_Hover",

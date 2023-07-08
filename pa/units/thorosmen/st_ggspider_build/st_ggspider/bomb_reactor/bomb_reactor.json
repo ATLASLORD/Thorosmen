@@ -1,6 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Bomb reactor",
 "description":"!LOC:Wildfire bomb",
+"si_name":"empty",
 "max_health":1000,
 "build_metal_cost":100,
 "attachable":{"offsets":{"root":[0,

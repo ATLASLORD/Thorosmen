@@ -23,7 +23,7 @@
 "UNITTYPE_Orbital",
 "UNITTYPE_Interplanetary"],
 "collision_check":"ground",
-"model":{"filename":"/pa/units/thorosmen/spell_heal/minion/empty_minion.papa"},
+"model":{"filename":"/pa/effects/models/empty_model.papa"},
 "fx_trail":{"filename":"/pa/effects/specs/none.pfx",
 "offset":[0.0,
 0.0,
