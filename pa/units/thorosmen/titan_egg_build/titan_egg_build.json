@@ -4,6 +4,7 @@
 "max_health":50000,
 "build_metal_cost":99000,
 "unit_types":["UNITTYPE_Bot",
+"UNITTYPE_Titan",
 "UNITTYPE_Mobile",
 "UNITTYPE_Custom58",
 "UNITTYPE_Heavy",

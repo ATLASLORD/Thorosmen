@@ -6,7 +6,7 @@
 "death_weapon":{"ground_ammo_spec":"/pa/ammo/st_ammo_death/st_ammo_death.json"},
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,5.3]}},
 "unit_types":["UNITTYPE_Bot","UNITTYPE_FabAdvBuild", "UNITTYPE_FabOrbBuild","UNITTYPE_Mobile",
-"UNITTYPE_Custom58","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Important","UNITTYPE_Advanced","UNITTYPE_Amphibious"],
+"UNITTYPE_Custom58","UNITTYPE_Offense","UNITTYPE_Land","UNITTYPE_Titan","UNITTYPE_Important","UNITTYPE_Advanced","UNITTYPE_Amphibious"],
 "has_death_effects": true,
 "atrophy_rate":200.0,
 "atrophy_cool_down":15.0,

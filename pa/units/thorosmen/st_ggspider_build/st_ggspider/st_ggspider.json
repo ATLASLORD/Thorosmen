@@ -16,6 +16,7 @@
 "UNITTYPE_Mobile",
 "UNITTYPE_Custom58",
 "UNITTYPE_Land",
+"UNITTYPE_Titan",
 "UNITTYPE_Important",
 "UNITTYPE_Advanced",
 "UNITTYPE_Offense",
@@ -36,6 +37,7 @@
 "shape":"capsule",
 "radius":52}
 ]}},
+"maintain_priority_target":false,
 "spawn_unit_on_death":"/pa/units/thorosmen/st_ggspider_build/st_ggspider/bomb_reactor/bomb_reactor.json",
 "model":{"filename":"/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider.papa",
 "animations":{"walk":"/pa/units/thorosmen/st_ggspider_build/st_ggspider/st_ggspider_anim_run.papa",

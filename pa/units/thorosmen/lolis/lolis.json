@@ -29,7 +29,7 @@
 "useable":{"type":"transport",
 "range":1000},
 "transporter":{"capacity":6,
-"transportable_unit_types":"Mobile & Land - Commander - Titan",
+"transportable_unit_types":"Mobile & Land - Commander - Titan - (Tank & Important & Heavy & Amphibious & Custom58)",
 "transporter_attach_bone":"bone_payload",
 "transportable_attach_offset":"head",
 "load_range": 30,
