@@ -8,5 +8,5 @@ Players seeking innovative methods to vanquish their foes will undoubtedly find 
 [<img src="https://user-images.githubusercontent.com/104906253/226180748-05321a0d-d047-47d6-9aef-297c665a3493.png" width="196"  />](https://github.com/ATLASLORD/Thorosmen/discussions/7)
 [<img src="https://user-images.githubusercontent.com/104906253/226180752-b5d82d06-d77d-42de-94dc-63ae2acae0c3.png" width="115"  />](https://github.com/ATLASLORD/Thorosmen/archive/refs/heads/main.zip)
 
-<img src="https://user-images.githubusercontent.com/104906253/226111826-a415d314-75fa-41da-bd7c-78b75a9910e2.png" width="1000"  />
+![thorosmen_wallpaper_github](https://github.com/ATLASLORD/Thorosmen/assets/104906253/1a134cdf-416a-4816-97b7-5d01d6aae1b3)
 
