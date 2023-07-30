@@ -3,7 +3,7 @@
 "description":"!LOC: minion",
 "si_name":"empty",
 "build_metal_cost":0.01,
-"max_health": 500000,
+"max_health": 400000,
 "passive_health_regen": -100000,
 "usable":false,
 "wreckage_health_frac":0.0,

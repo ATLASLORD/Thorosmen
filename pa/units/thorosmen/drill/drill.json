@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Drill",
-"description":"!LOC:Drill bot - Invisible to enemy except by land scout. Moving effect visible by all. Close range. Devastating damage. Semi underground. Attacks land targets. Can see landmines.",
+"description":"!LOC:Drill bot - Invisible to enemy except by land scout. Moving effect visible by all. Close range. Devastating damage. Semi underground. Attacks land targets.",
 "max_health":800,
 "spawn_layers":"WL_LandHorizontal",
 "build_metal_cost":1500,
@@ -34,10 +34,6 @@
 "recon":{"observable": {"layer": "mine"},
 "observer":{"items":[
 {"layer":"surface_and_air",
-"channel":"sight",
-"shape":"capsule",
-"radius":60},
-{"layer":"mine",
 "channel":"sight",
 "shape":"capsule",
 "radius":60}]}},
