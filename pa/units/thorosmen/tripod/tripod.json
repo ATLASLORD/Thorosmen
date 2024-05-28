@@ -1,0 +1,223 @@
+{
+  "base_spec": "/pa/units/land/base_bot/base_bot.json",
+  "display_name": "Tripod",
+  "description": "A towering, three-legged machine with a powerful heat-ray",
+  "max_health": 20000,
+  "build_metal_cost": 20000,
+  "death_weapon": {
+    "ground_ammo_spec": "/pa/ammo/st_ammo_death/st_ammo_death.json"
+  },
+  "attachable": {
+    "offsets": {
+      "root": [0, 0, 0],
+      "head": [0, 0, 2.7]
+    }
+  },
+  "unit_types": [
+    "UNITTYPE_Bot",
+    "UNITTYPE_FabOrbBuild",
+    "UNITTYPE_FabAdvBuild",
+    "UNITTYPE_Mobile",
+    "UNITTYPE_Custom58",
+    "UNITTYPE_Offense",
+    "UNITTYPE_Land",
+    "UNITTYPE_Titan",
+    "UNITTYPE_Important",
+    "UNITTYPE_Advanced",
+    "UNITTYPE_Amphibious"
+  ],
+  "command_caps": [
+    "ORDER_Move",
+    "ORDER_Patrol",
+    "ORDER_Attack",
+    "ORDER_Assist",
+    "ORDER_Use",
+    "ORDER_FireSecondaryWeapon"
+  ],
+  "has_death_effects": true,
+  "atrophy_rate": 200.0,
+  "atrophy_cool_down": 10.0,
+  "transportable": {
+    "size": 2
+  },
+  "guard_layer": "WL_AnySurface",
+  "navigation": {
+    "type": "amphibious",
+    "acceleration": 5,
+    "brake": -1,
+    "move_speed": 5,
+    "turn_speed": 18,
+    "group_preference": "back"
+  },
+  "physics": {
+    "radius": 8.5
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "layer": "surface_and_air",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 240
+        },
+        {
+          "layer": "underwater",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 240
+        },
+        {
+          "layer": "surface_and_air",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 150,
+          "uses_energy": false
+      }
+      ]
+    }
+  },
+  "model": {
+    "filename": "/pa/units/thorosmen/tripod/tripod.papa",
+    "animations": {
+      "deploy": "/pa/units/thorosmen/tripod/tripod_anim_deploy.papa",
+      "build": "/pa/units/thorosmen/tripod/tripod_anim_build.papa",
+      "death01": "/pa/units/land/assault_bot_adv/assault_bot_adv_anim_death01.papa",
+      "walk": "/pa/units/thorosmen/tripod/tripod_anim_walk.papa",
+      "idle": "/pa/units/thorosmen/tripod/tripod_anim_idle.papa",
+      "aim_up": "/pa/units/thorosmen/tripod/tripod_anim_aimUp.papa",
+      "aim_down": "/pa/units/thorosmen/tripod/tripod_anim_aimDown.papa",
+      "tactical": "/pa/units/thorosmen/tripod/tripod_anim_tactical.papa",
+      "death": "/pa/units/thorosmen/st_ilegal/st_ilegal_anim_death.papa",
+      "dead": "/pa/units/thorosmen/st_ilegal/st_ilegal_anim_dead.papa"
+    },
+    "animtree": "/pa/units/thorosmen/tripod/tripod_anim_tree.json",
+    "walk_speed": 5
+  },
+  "tools": [
+    {
+      "spec_id": "/pa/units/thorosmen/tripod/tripod_tool_weapon.json",
+      "aim_bone": "bone_head",
+      "record_index": 0,
+      "fire_event": "fired0",
+      "muzzle_bone": ["socket_muzzle"]
+    },
+    {
+      "spec_id": "/pa/units/thorosmen/tripod/tripod_tool_weapon_tactical.json",
+      "aim_bone": "socket_tactical",
+      "record_index": 1,
+      "secondary_weapon": true,
+      "fire_event": "fired1",
+      "muzzle_bone": ["socket_tactical"]
+    }
+  ],
+  "events": {
+    "build_complete": {
+      "audio_cue": "/VO/Computer/gw/board_tech_dismissed"
+    },
+    "fired0": {
+      "audio_cue": "/SE/Weapons/orb/orb_railgun_fire",
+      "effect_spec": "/pa/units/thorosmen/halabib/beam_hit.pfx socket_muzzle"
+    },
+    "fired1": {
+      "audio_cue": "/SE/Weapons/orb/orb_railgun_fire",
+      "effect_spec": 
+        "/pa/units/thorosmen/tripod/tripod_door.pfx bone_door_left /pa/units/thorosmen/tripod/tripod_door.pfx bone_door_right /pa/units/thorosmen/tripod/tripod_tactical_muzzle_flash.pfx socket_tactical"
+
+    },
+    "died": {
+      "audio_cue": "/SE/Death/Bot",
+      "effect_spec": "/pa/effects/specs/st_explosion.pfx",
+      "effect_scale": 1.0
+    }
+  },
+  "fx_offsets": [
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_point_on.pfx",
+      "bone": "bone_head",
+      "offset": [2.2, -5, -12.5]
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_point_on.pfx",
+      "bone": "bone_head",
+      "offset": [17.5, -5, -12.5]
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_effect_1.pfx",
+      "bone": "bone_reactor_left"
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_effect_1.pfx",
+      "bone": "bone_reactor_right"
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_door_still.pfx",
+      "bone": "bone_door_left"
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/tripod_door_still.pfx",
+      "bone": "bone_door_right"
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/tripod/cubes.pfx",
+      "bone": "socket_tactical"
+    }
+  ],
+  "audio": {
+    "loops": {
+      "move": {
+        "cue": "/SE/Movement/air/air_solar_drone_loop",
+        "flag": "vel_changed",
+        "should_start_func": "is_moving",
+        "should_stop_func": "is_not_moving"
+      }
+    },
+    "selection_response": {
+      "cue": "/SE/Selection/titan/bot"
+    }
+  },
+  "headlights": [
+    {
+      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
+      "offset": [0.0, -1.7, 1.9],
+      "orientation": [0.0, 45.0, 0.0],
+      "near_width": 5.0,
+      "near_height": 5.0,
+      "near_distance": 3.0,
+      "far_distance": 900.0,
+      "color": [1.0, 1.0, 0.8],
+      "intensity": 16.0,
+      "bone": "bone_spine",
+      "shadow_resolution": 128
+    }
+  ],
+  "lamps": [
+    {
+        "offset": [
+            0.0,
+            -2,
+            0
+        ],
+        "radius": 4.0,
+        "color": [
+            1.0,
+            1.0,
+            0.6
+        ],
+        "intensity": 4.0,
+        "bone": "socket_muzzle"
+    }
+],
+  "selection_icon": {
+    "diameter": 48.0
+  },
+  "TEMP_texelinfo": 6.39639,
+  "mesh_bounds": [3, 3, 60]
+}

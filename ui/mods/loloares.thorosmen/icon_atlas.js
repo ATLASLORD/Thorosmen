@@ -45,6 +45,7 @@ var paeiouIcons = [
     "spell_heal",
     "spell_heal_ammo",
     "drill",
+    "tripod",
     "titan_egg_build",
     "empty"
 ];

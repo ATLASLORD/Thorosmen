@@ -10,6 +10,7 @@ var newBuild = {
     "/pa/units/thorosmen/st_pap/st_pap.json": ["Asemititan", 0, { row: 1, column: 0 }],
     "/pa/units/thorosmen/st_fef/st_fef.json": ["Asemititan", 0, { row: 1, column: 1 }],
     "/pa/units/thorosmen/st_colum/st_colum.json": ["Asemititan", 0, { row: 2, column: 2 }],
+    "/pa/units/thorosmen/tripod/tripod.json": ["Asemititan", 0, { row: 0, column: 3 }],
 
     "/pa/units/thorosmen/metal_destructor/metal_destructor.json": ["structure", 0, { row: 1, column: 0 }],
     "/pa/units/thorosmen/titan_radar/titan_radar.json": ["structure", 0, { row: 0, column: 0 }],

@@ -577,6 +577,11 @@ var audioModel = (function () {
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
+            '/pa/units/thorosmen/tripod/tripod.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_titan_zeus',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
             '/pa/units/land/titan_structure/titan_structure.json': new AudioResponseModel({
                 audio: '/VO/Computer/Titan/lost_Ragnarok',
                 priority: 5,
@@ -787,6 +792,11 @@ var audioModel = (function () {
             }),
             '/pa/units/thorosmen/st_ilegal/st_ilegal.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_initiating_battle',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/thorosmen/tripod/tripod.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_titan_ares',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -1075,6 +1085,11 @@ var audioModel = (function () {
             }),
             '/pa/units/thorosmen/st_ilegal/st_ilegal.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_super_weapon',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/thorosmen/tripod/tripod.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_titan_atlas',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),

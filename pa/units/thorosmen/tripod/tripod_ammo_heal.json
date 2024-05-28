@@ -1,0 +1,21 @@
+{"base_spec":"/pa/ammo/base_beam/base_beam.json",
+"damage":50,
+"damage_volume": {
+    "initial_radius": 50.0
+  }, 
+  "splash_damages_allies": true, 
+  "splash_radius": 60,
+  "armor_damage_map": {
+    "AT_Air": -1,
+    "AT_Bot": -1,
+    "AT_Commander": -1,
+    "AT_Hover": -1,
+    "AT_Naval": -1,
+    "AT_None": 0,
+    "AT_Orbital": 0,
+    "AT_Structure": -1,
+    "AT_Vehicle": -1
+  },
+"collision_check":"target",
+"fx_beam_spec":"/pa/units/thorosmen/tripod/beam_yellow.pfx",
+"fx_collision_spec":"/pa/units/thorosmen/halabib/beam_yellow_hit.pfx"}

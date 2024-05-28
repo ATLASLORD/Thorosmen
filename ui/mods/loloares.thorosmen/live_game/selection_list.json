@@ -12,5 +12,6 @@
     "/pa/units/thorosmen/st_colum/st_colum.json":["/pa/audio/tripod_sound.ogg"],
     "/pa/units/thorosmen/bot_sniper_big/bot_sniper_big.json":["/pa/audio/oblivion2_sound.ogg"],
     "/pa/units/thorosmen/cuzeta/cuzeta.json":["/pa/audio/oblivion2_sound.ogg"],
-    "/pa/units/thorosmen/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"]
+    "/pa/units/thorosmen/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"],
+    "/pa/units/thorosmen/tripod/tripod.json":["/pa/audio/tripod_og_sound.ogg"]
 }

@@ -1,0 +1,15 @@
+{"base_spec":"/pa/tools/base_laser_turret/base_laser_turret.json",
+"ammo_id":"/pa/units/thorosmen/tripod/tripod_ammo_heal.json",
+"rate_of_fire":6,
+"max_range":200,
+"yaw_rate":140,
+"pitch_rate":80,
+"yaw_range":180,
+"pitch_range":100,
+"firing_arc_yaw":1,
+"firing_arc_pitch":1,
+"idle_aim_delay":0,
+"auto_attack":true,
+"spread_fire":false,
+"target_layers":["WL_LandHorizontal","WL_WaterSurface"]
+}
