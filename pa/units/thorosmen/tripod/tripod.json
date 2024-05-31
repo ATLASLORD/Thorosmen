@@ -4,6 +4,8 @@
   "description": "A towering, three-legged machine with a powerful heat-ray",
   "max_health": 20000,
   "build_metal_cost": 20000,
+  "armor_type": "AT_Custom0",
+  "reclaimable":false,
   "death_weapon": {
     "ground_ammo_spec": "/pa/ammo/st_ammo_death/st_ammo_death.json"
   },
@@ -109,7 +111,16 @@
       "secondary_weapon": true,
       "fire_event": "fired1",
       "muzzle_bone": ["socket_tactical"]
+    },
+    {
+      "spec_id": "/pa/units/thorosmen/tripod/tripod_regen_tool.json",
+      "aim_bone": "bone_root",
+      "record_index": 2,
+      "secondary_weapon": true,
+      "fire_event": "fired2",
+      "muzzle_bone": ["bone_root"]
     }
+
   ],
   "events": {
     "build_complete": {

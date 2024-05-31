@@ -2,7 +2,7 @@
 "display_name":"Aegis",
 "description":"!LOC:Moving Regen Shield - high fire rate against small projectiles - low fire rate against tactical missiles (8 ammos, 0.5/s) - very low fire rate against high damage projectiles (1 ammo, 0.1/s ) - Can't counter beams and Ares projectiles ",
 "max_health":4000,
-"build_metal_cost":6000,
+"build_metal_cost":7000,
 "armor_type":"AT_Hover",
 "attachable":{"offsets":{"root":[0,
 0,

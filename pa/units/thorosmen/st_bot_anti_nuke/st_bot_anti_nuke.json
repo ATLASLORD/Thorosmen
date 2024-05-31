@@ -1,8 +1,8 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Toblerone",
-"description":"!LOC:Mobile Anti Nuke - Protect your army from impending doom. Heavy, but flies somehow. Can carry and reload one ammo.",
+"description":"!LOC: One-time use Mobile Anti Nuke - Carries one anti-nuke missile. Self-destructs when fired. Heavy, but flies somehow.",
 "build_metal_cost":15000,
-"max_health":15000,
+"max_health":10000,
 "armor_type":"AT_Hover",
 "attachable":{"offsets":{"root":[0,
 0,
@@ -27,7 +27,6 @@
 "ORDER_Assist",
 "ORDER_Use"],
 "has_death_effects": true,
-"death_weapon":{"ground_ammo_spec":"/pa/ammo/st_ammo_death/st_ammo_death.json"},
 "atrophy_rate":200.0,
 "atrophy_cool_down":10.0,
 "transportable":{"size":1},
@@ -55,7 +54,7 @@
 "start":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_fire.papa",
 "end":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_close.papa",
 "idle":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_loop.papa",
-"death":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_death.papa",
+"death":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_fire.papa",
 "dead":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_dead.papa"},
 "animtree":"/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_anim_tree.json",
 "walk_speed":12},
@@ -66,7 +65,13 @@
 "socket_leftMuzzle"]}],
 "events":{"build_complete":{"audio_cue":"/SE/Build_Complete/bot"},
 "fired":{"audio_cue":"/SE/Weapons/bot/bot_tactical_missile_fire",
-"effect_spec":"/pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle /pa/effects/specs/default_muzzle_flash.pfx bone_root"},
+"effect_spec":"/pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle /pa/effects/specs/default_muzzle_flash.pfx bone_root",
+"trigger": [
+    {
+      "event": "trigger_tool",
+      "tool": "/pa/units/thorosmen/st_bot_anti_nuke/st_bot_anti_nuke_tool_weapon_destruct.json"
+    }
+  ]},
 "died":{"audio_cue":"/SE/Death/Bot",
 "effect_spec":"/pa/effects/specs/st_explosion.pfx",
 "effect_scale":1.1}},

@@ -25,7 +25,7 @@ try
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_titan_atlas', dir + 'enemy_tripod_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_vehicle', dir + 'lawnmower_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_weapon_upgrade', dir + 'spider_lost.ogg');
-      api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_select', dir + 'toblerone_lost.ogg');
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_select', dir + 'antinuke_missile_fired_2.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_speed', dir + 'hindenburg_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_subcommander', dir + 'kamecha_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_economy', dir + 'pap_lost.ogg');
