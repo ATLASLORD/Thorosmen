@@ -1,11 +1,10 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Tripod",
-  "description": "A towering, three-legged machine with a powerful heat-ray",
-  "max_health": 20000,
+  "description": "A towering, three-legged machine with a powerful heat-ray. Its secondary weapon leaves enemies with no chance to fire back..",
+  "max_health": 30000,
   "build_metal_cost": 20000,
   "armor_type": "AT_Custom0",
-  "reclaimable":false,
   "death_weapon": {
     "ground_ammo_spec": "/pa/ammo/st_ammo_death/st_ammo_death.json"
   },
@@ -87,8 +86,6 @@
       "death01": "/pa/units/land/assault_bot_adv/assault_bot_adv_anim_death01.papa",
       "walk": "/pa/units/thorosmen/tripod/tripod_anim_walk.papa",
       "idle": "/pa/units/thorosmen/tripod/tripod_anim_idle.papa",
-      "aim_up": "/pa/units/thorosmen/tripod/tripod_anim_aimUp.papa",
-      "aim_down": "/pa/units/thorosmen/tripod/tripod_anim_aimDown.papa",
       "tactical": "/pa/units/thorosmen/tripod/tripod_anim_tactical.papa",
       "death": "/pa/units/thorosmen/st_ilegal/st_ilegal_anim_death.papa",
       "dead": "/pa/units/thorosmen/st_ilegal/st_ilegal_anim_dead.papa"
@@ -111,14 +108,6 @@
       "secondary_weapon": true,
       "fire_event": "fired1",
       "muzzle_bone": ["socket_tactical"]
-    },
-    {
-      "spec_id": "/pa/units/thorosmen/tripod/tripod_regen_tool.json",
-      "aim_bone": "bone_root",
-      "record_index": 2,
-      "secondary_weapon": true,
-      "fire_event": "fired2",
-      "muzzle_bone": ["bone_root"]
     }
 
   ],
