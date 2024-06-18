@@ -582,6 +582,11 @@ var audioModel = (function () {
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
+            '/pa/units/thorosmen/atat/atat.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_banks_full',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
             '/pa/units/land/titan_structure/titan_structure.json': new AudioResponseModel({
                 audio: '/VO/Computer/Titan/lost_Ragnarok',
                 priority: 5,
@@ -797,6 +802,11 @@ var audioModel = (function () {
             }),
             '/pa/units/thorosmen/tripod/tripod.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_titan_ares',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/thorosmen/atat/atat.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_cost_reduction',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),
@@ -1090,6 +1100,11 @@ var audioModel = (function () {
             }),
             '/pa/units/thorosmen/tripod/tripod.json' : new AudioResponseModel({
                 audio: '/VO/Computer/gw/board_tech_available_titan_atlas',
+                priority: 4,
+                interval: 30 * 1000 /* in ms */,
+            }),
+            '/pa/units/thorosmen/atat/atat.json' : new AudioResponseModel({
+                audio: '/VO/Computer/gw/board_tech_available_blueprint',
                 priority: 4,
                 interval: 30 * 1000 /* in ms */,
             }),

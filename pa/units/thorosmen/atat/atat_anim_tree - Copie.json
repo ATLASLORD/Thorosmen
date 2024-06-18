@@ -1,0 +1,172 @@
+{
+    "blend_root": {
+        "type": "unit_state",
+        "nodes": {
+            "being_built": {
+                "type": "bind_pose"
+            },
+            "living": {
+                "type": "walk",
+                "node_idle": {
+                    "type": "playback",
+                    "anim_name": "idle"
+                },
+                "node_walk": {
+                    "type": "playback",
+                    "anim_name": "walk",
+                    "events": [
+                                {
+                                    "time": 0.84,
+                                    "type": "audio",
+                                    "parameters": {
+                                        "cue": "/SE/Movement/titan/bot_stepzzz"
+                                    }
+                                },
+                                {
+                                    "time": 0.84,
+                                    "type": "effect",
+                                    "parameters": {
+                                        "bone": "topleft_control",
+                                        "spec": "/pa/units/land/titan_bot/titan_bot_footstep_01.pfx",
+                                        "effect_scale": 1.0,
+                                        "bone_offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    }
+                                },
+                                {
+                                    "time": 1.84,
+                                    "type": "audio",
+                                    "parameters": {
+                                        "cue": "/SE/Movement/titan/bot_stepzzz"
+                                    }
+                                },
+                                {
+                                    "time": 1.84,
+                                    "type": "effect",
+                                    "parameters": {
+                                        "bone": "bottomleft_control",
+                                        "spec": "/pa/units/land/titan_bot/titan_bot_footstep_01.pfx",
+                                        "effect_scale": 0.6,
+                                        "bone_offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    }
+                                },
+                                {
+                                    "time": 3.0,
+                                    "type": "audio",
+                                    "parameters": {
+                                        "cue": "/SE/Movement/titan/bot_stepzzz"
+                                    }
+                                },
+                                {
+                                    "time": 3.0,
+                                    "type": "effect",
+                                    "parameters": {
+                                        "bone": "topright_control",
+                                        "spec": "/pa/units/land/titan_bot/titan_bot_footstep_01.pfx",
+                                        "effect_scale": 0.6,
+                                        "bone_offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    }
+                                },
+                                {
+                                    "time": 4.0,
+                                    "type": "audio",
+                                    "parameters": {
+                                        "cue": "/SE/Movement/titan/bot_stepzzz"
+                                    }
+                                },
+                                {
+                                    "time": 4.0,
+                                    "type": "effect",
+                                    "parameters": {
+                                        "bone": "bottomright_control",
+                                        "spec": "/pa/units/land/titan_bot/titan_bot_footstep_01.pfx",
+                                        "effect_scale": 0.6,
+                                        "bone_offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    }
+                                }
+                                
+                            ]
+                    
+                }
+            },
+            "dead": {
+                "type": "playback",
+                "looping": false,
+                "anim_name": "death01"
+            },
+            "ghost": {
+                "type": "bind_pose"
+            }
+        }
+    },
+    "skeleton_controls": [
+        {
+            "type": "fader",
+            "lerp_func": "is_active",
+            "child": {
+                "type": "procedural_aim",
+                "rotation_bone": "bone_turret",
+                "rotation_axis": "z"
+            }
+        },
+        {
+            "type": "fader",
+            "lerp_func": "is_active",
+            "child": {
+                "type": "procedural_aim",
+                "rotation_bone": "bone_turret",
+                "rotation_axis": "x"
+            }
+        },
+        {
+            "type": "fader",
+            "lerp_func": "is_active",
+            "child": {
+                "type": "procedural_aim",
+                "rotation_bone": "bone_pitchAir",
+                "rotation_axis": "x"
+            }
+        },
+        {
+            "type": "recoil",
+            "bone": "bone_rightRecoil",
+            "recoil_dist": 3.0,
+            "restore_time": 1.5
+        },
+        {
+            "type": "recoil",
+            "bone": "bone_leftRecoil",
+            "recoil_dist": 3.0,
+            "restore_time": 1.5
+        },
+        {
+            "type": "recoil",
+            "bone": "bone_leftRecoil2",
+            "recoil_dist": 2.0,
+            "restore_time": 0.5,
+            "unit_event": "fired2"
+        },
+        {
+            "type": "recoil",
+            "bone": "bone_rightRecoil2",
+            "recoil_dist": 2.0,
+            "restore_time": 0.5,
+            "unit_event": "fired2"
+        }
+    ]
+}

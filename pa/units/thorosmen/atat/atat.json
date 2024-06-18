@@ -1,0 +1,169 @@
+{
+  "base_spec": "/pa/units/land/base_bot/base_bot.json",
+  "display_name": "AT-AT",
+  "description": "Massive four legged imperial walker equipped with powerful laser cannons designed to pierce vehicles armor. Along with Anti-air cannons. Devastating damage against vehicles. Vulnerable on the sides",
+  "max_health": 50000,
+  "build_metal_cost": 20000,
+  "armor_type": "AT_Custom0",
+  "death_weapon": {
+    "ground_ammo_spec": "/pa/ammo/st_ammo_death/st_ammo_death.json"
+  },
+  "attachable": {
+    "offsets": {
+      "root": [0, 0, 0],
+      "head": [0, 0, 2.7]
+    }
+  },
+  "unit_types": [
+    "UNITTYPE_Bot",
+    "UNITTYPE_Gunship",
+    "UNITTYPE_FabOrbBuild",
+    "UNITTYPE_FabAdvBuild",
+    "UNITTYPE_Mobile",
+    "UNITTYPE_Custom58",
+    "UNITTYPE_Offense",
+    "UNITTYPE_Land",
+    "UNITTYPE_Titan",
+    "UNITTYPE_Important",
+    "UNITTYPE_Advanced",
+    "UNITTYPE_Amphibious"
+  ],
+  "command_caps": [
+    "ORDER_Move",
+    "ORDER_Patrol",
+    "ORDER_Attack"
+  ],
+  "has_death_effects": true,
+  "atrophy_rate": 200.0,
+  "atrophy_cool_down": 10.0,
+  "transportable": {
+    "size": 2
+  },
+  "guard_layer": "WL_AnySurface",
+  "navigation": {
+    "type": "amphibious",
+    "acceleration": 2,
+    "brake": -1,
+    "move_speed": 4,
+    "turn_speed": 6
+  },
+  "physics": {
+    "radius": 8.5
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "layer": "surface_and_air",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 240
+        },
+        {
+          "layer": "underwater",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 240
+        },
+        {
+          "layer": "surface_and_air",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 150,
+          "uses_energy": false
+      }
+      ]
+    }
+  },
+  "model": {
+    "filename": "/pa/units/thorosmen/atat/atat.papa",
+    "animations": {
+      "deploy": "/pa/units/thorosmen/atat/atat_anim_lol.papa",
+      "walk_stop": "/pa/units/thorosmen/atat/atat_anim_walkStop.papa",
+      "build": "/pa/units/thorosmen/tripod/atat_anim_restpose.papa",
+      "walk": "/pa/units/thorosmen/atat/atat_anim_walk.papa",
+      "idle": "/pa/units/thorosmen/atat/atat_anim_idle.papa",
+      "death": "/pa/units/thorosmen/atat/atat_anim_death.papa",
+      "dead": "/pa/units/thorosmen/atat/atat_anim_dead.papa"
+    },
+    "animtree": "/pa/units/thorosmen/atat/atat_anim_tree.json",
+    "arrows": 5,
+    "walk_speed": 4
+  },
+  "tools": [
+    {
+      "spec_id": "/pa/units/thorosmen/atat/atat_land_tool_weapon.json",
+      "aim_bone": "bone_turret",
+      "projectiles_per_fire": 2,
+      "muzzle_bone": [
+                "socket_muzzle_left",
+                "socket_muzzle_right"
+            ]
+    },
+    {
+      "spec_id": "/pa/units/thorosmen/atat/atat_air_tool_weapon.json",
+      "aim_bone": "bone_pitchAir",
+      "record_index": 2,
+      "fire_event": "fired2",
+      "projectiles_per_fire": 4,
+      "muzzle_bone": [
+                "socket_muzzle_left1",
+                "socket_muzzle_left2",
+                "socket_muzzle_right1",
+                "socket_muzzle_right2"
+            ]
+    }
+
+  ],
+  "events": {
+    "build_complete": {
+      "audio_cue": "/VO/Computer/gw/board_tech_level_unlocked"
+    },
+    "fired": {
+      "audio_cue": "/SE/Weapons/orb/orb_railgun_fire",
+      "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_left /pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_right"
+    },
+    "fired2": {
+      "audio_cue": "/SE/Weapons/orb/orb_railgun_fire",
+      "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_left1 /pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_left2 /pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_right1 /pa/effects/specs/default_muzzle_flash.pfx socket_muzzle_right2"
+
+    },
+    "died": {
+      "audio_cue": "/SE/Death/Bot",
+      "effect_spec": "/pa/effects/specs/st_explosion.pfx",
+      "effect_scale": 1.0
+    }
+  },
+  "audio": {
+    "loops": {
+            "move": {
+                "cue": "",
+                "flag": "vel_changed",
+                "should_start_func": "is_moving",
+                "should_stop_func": "is_not_moving"
+            }},
+    "selection_response": {
+      "cue": "/SE/Selection/titan/bot"
+    }
+  },
+  "headlights": [
+    {
+      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
+      "offset": [0.0, -1.7, 1.9],
+      "orientation": [0.0, 45.0, 0.0],
+      "near_width": 5.0,
+      "near_height": 5.0,
+      "near_distance": 3.0,
+      "far_distance": 900.0,
+      "color": [1.0, 0.2, 0.2],
+      "intensity": 16.0,
+      "bone": "bone_turret",
+      "shadow_resolution": 128
+    }
+  ],
+  "selection_icon": {
+    "diameter": 40.0
+  },
+  "TEMP_texelinfo": 6.39639,
+  "mesh_bounds": [10, 35, 35]
+}

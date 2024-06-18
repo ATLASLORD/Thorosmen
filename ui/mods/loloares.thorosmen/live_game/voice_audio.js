@@ -14,6 +14,7 @@ try
       api.audio.registerCueMod('/VO/Computer/gw/board_faction_discovered_Synchronous', dir + 'enemy_fef_detected.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_initiating_battle', dir + 'enemy_ilegal_detected.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_titan_ares', dir + 'enemy_tripod_detected.ogg');
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_cost_reduction', dir + 'enemy_atat_detected.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_slot_increased', dir + 'enemy_lawnmower_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_system_capture', dir + 'enemy_spider_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_system_found', dir + 'enemy_toblerone_destroyed.ogg');
@@ -23,6 +24,7 @@ try
       api.audio.registerCueMod('/VO/Computer/gw/board_start_online', dir + 'enemy_fef_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_super_weapon', dir + 'enemy_ilegal_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_titan_atlas', dir + 'enemy_tripod_destroyed.ogg');
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_blueprint', dir + 'enemy_atat_destroyed.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_vehicle', dir + 'lawnmower_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_weapon_upgrade', dir + 'spider_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_select', dir + 'antinuke_missile_fired_2.ogg');
@@ -32,7 +34,9 @@ try
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_efficiency', dir + 'fef_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_land', dir + 'ilegal_lost.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_titan_zeus', dir + 'tripod_lost.ogg');
-      api.audio.registerCueMod('/VO/Computer/gw/board_tech_dismissed', dir + 'tripod_ascend.ogg')
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_banks_full', dir + 'atat_lost.ogg');
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_dismissed', dir + 'tripod_ascend.ogg');
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_level_unlocked', dir + 'atat_build_complete.ogg')
 
     }
     _.defer(audioModdingTest);

@@ -245,6 +245,7 @@
         "/pa/units/thorosmen/gigatank/gigatank.json",
         "/pa/units/thorosmen/spell_heal/spell_heal.json",
         "/pa/units/thorosmen/drill/drill.json",
+        "/pa/units/thorosmen/atat/atat.json",
         "/pa/units/thorosmen/tripod/tripod.json"
     ]
 }
