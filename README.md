@@ -1,6 +1,6 @@
 ## Welcome Commander!
-**This PA Mod adds around 30 unique and extraordinary units, known as Thorosmen, to inject additional excitement and variety into the game.  
-The lineup includes 9 semi-titan units, such as the radar jammer bot and the mobile anti-nuke pyramid, alongside advanced units like the mobile regenerative shield walls and laser-eyed anti-aircraft robots.  
+**This PA Mod adds around 40 unique and extraordinary units, known as Thorosmen, to inject additional excitement and variety into the game.  
+The lineup includes 11 semi-titan units, such as the radar jammer bot and the mobile anti-nuke pyramid, alongside advanced units like the mobile regenerative shield walls and laser-eyed anti-aircraft robots.  
 Additionally, a specially designed bunker is included to safeguard the Commander.  
 Players seeking innovative methods to vanquish their foes will undoubtedly find themselves entertained.**
 
