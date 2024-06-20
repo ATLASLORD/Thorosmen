@@ -246,6 +246,8 @@
         "/pa/units/thorosmen/spell_heal/spell_heal.json",
         "/pa/units/thorosmen/drill/drill.json",
         "/pa/units/thorosmen/atat/atat.json",
-        "/pa/units/thorosmen/tripod/tripod.json"
+        "/pa/units/thorosmen/tripod/tripod.json",
+        "/pa/units/land/laser_defense_legged_build/laser_defense_legged_build.json",
+        "/pa/units/land/laser_defense_legged/laser_defense_legged.json"
     ]
 }

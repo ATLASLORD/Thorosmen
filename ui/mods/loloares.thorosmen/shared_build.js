@@ -42,7 +42,9 @@ var newBuild = {
     "/pa/units/thorosmen/bot_freeze/bot_freeze.json": ["bot", 0, { row: 0, column: 8 }],
     "/pa/units/thorosmen/drill/drill.json": ["bot", 0, { row: 0, column: 9 }],
     "/pa/units/thorosmen/gigatank/gigatank.json": ["vehicle", 0, { row: 0, column: 1 }],
-    "/pa/units/thorosmen/bot_shield_wall/bot_shield_wall.json": ["bot", 0, { row: 0, column: 3 }]
+    "/pa/units/thorosmen/bot_shield_wall/bot_shield_wall.json": ["bot", 0, { row: 0, column: 3 }],
+
+    "/pa/units/land/laser_defense_legged_build/laser_defense_legged_build.json": ["upgrade1", 0, { row: 2, column: 0 }]
 
 
 }
