@@ -1,7 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Knalha ZX",
 "description":"Medium range, ultra fast shooting bot. Medium health and speed. Shoots surface targets",
-"max_health":2500,
+"max_health":4000,
 "build_metal_cost":4700,
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,5.3]}},
 "unit_types":["UNITTYPE_Bot","UNITTYPE_Mobile",

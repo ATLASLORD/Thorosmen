@@ -1,7 +1,7 @@
 {"base_spec":"/pa/units/land/base_bot/base_bot.json",
 "display_name":"Ilegal",
 "description":"Semi titan anti land unit. Durable",
-"max_health":12500,
+"max_health":15000,
 "build_metal_cost":11000,
 
 

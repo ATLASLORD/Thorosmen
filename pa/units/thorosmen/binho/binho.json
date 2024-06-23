@@ -31,15 +31,7 @@
 "recon":{"observer":{"items":[{"layer":"surface_and_air","channel":"sight","shape":"capsule","radius":200},
 {"layer":"underwater","channel":"sight","shape":"capsule","radius":200}]}},
 
-"attachable": {
-    "offsets": {
-      "root": [
-        0,
-        0,
-        0
-      ]
-    }
-  },
+
 
 "transporter": {
     "capacity": 1,

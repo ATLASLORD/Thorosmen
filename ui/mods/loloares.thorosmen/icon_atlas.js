@@ -47,6 +47,7 @@ var paeiouIcons = [
     "drill",
     "tripod",
     "atat",
+    "air_healer",
     "laser_defense_legged",
     "titan_egg_build",
     "empty"

@@ -14,5 +14,6 @@
     "/pa/units/thorosmen/cuzeta/cuzeta.json":["/pa/audio/oblivion2_sound.ogg"],
     "/pa/units/thorosmen/bot_tree/bot_tree.json":["/pa/audio/tree_sound.ogg"],
     "/pa/units/thorosmen/tripod/tripod.json":["/pa/audio/tripod_og_sound.ogg"],
-    "/pa/units/thorosmen/atat/atat.json":["/pa/audio/atat_sound.ogg"]
+    "/pa/units/thorosmen/atat/atat.json":["/pa/audio/atat_sound.ogg"],
+    "/pa/units/thorosmen/air_healer/air_healer.json":["/pa/audio/air_healer_sound.ogg"]
 }
