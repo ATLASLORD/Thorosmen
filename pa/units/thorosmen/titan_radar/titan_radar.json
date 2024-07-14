@@ -3,7 +3,7 @@
 "display_name":"!LOC:Sauron",
 "description":"!LOC:Planetary vision - Can see everything - Needs 50k energy income to see",
 "max_health":20000,
-"build_metal_cost":60000,
+"build_metal_cost":90000,
 "consumption":{"energy":50000},
 "energy_efficiency_requirement":0.9,
 "atrophy_rate":80.0,

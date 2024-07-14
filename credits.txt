@@ -1,0 +1,6 @@
+Ferretmaster for the custom selection sounds and voice implementations
+Ferretmaster for the research mechanics
+Bot for the upgradable mechanics
+Legion team for the shield effects
+
+

@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Manhattan",
-"description":"!LOC:Mobile Nuke - Detonates a nuke on death. Slow. Extremely durable. Self-destruct attack.",
+"description":"!LOC:Mobile Nuke - Detonates a nuke on death. Slow. Extremely durable. Self-destruct attack. Explosion disabled when flying.",
 "max_health":15000,
 "build_metal_cost":8000,
 "attachable":{"offsets":{"root":[0,

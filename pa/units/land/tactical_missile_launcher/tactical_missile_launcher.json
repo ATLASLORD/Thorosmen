@@ -1,0 +1,190 @@
+{
+    "base_spec": "/pa/units/land/base_structure/base_structure.json",
+    "display_name": "Catapult",
+    "description": "!LOC:Tactical Missile Launcher - Long range with very heavy damage. Attacks land, sea, and orbital targets.",
+    "max_health": 1500,
+    "build_metal_cost": 2000,
+    "atrophy_rate": 30.0,
+    "atrophy_cool_down": 15.0,
+    "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+    "buildable_types": "Custom13 & Tactical & Advanced & Defense",
+    "rolloff_dirs": [
+        [
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            -1,
+            0
+        ]
+    ],
+    "wait_to_rolloff_time": 0,
+    "factory_cooldown_time": 4,
+    "alt_area_build_type": "Sphere",
+    "alt_area_build_pattern": [
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "unit_types": [
+        "UNITTYPE_Factory",
+        "UNITTYPE_Construction",
+        "UNITTYPE_Custom58",
+        "UNITTYPE_Land",
+        "UNITTYPE_Structure",
+        "UNITTYPE_Tactical",
+        "UNITTYPE_Defense",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_FabAdvBuild",
+        "UNITTYPE_SurfaceDefense",
+        "UNITTYPE_OrbitalDefense"
+    ],
+    "command_caps": [
+        "ORDER_FactoryBuild",
+        "ORDER_Attack"
+    ],
+    "guard_layer": "WL_AnySurface",
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 100
+                },
+                {
+                    "layer": "underwater",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 100
+                }
+            ]
+        }
+    },
+    "model": [
+        {
+            "layer": "WL_LandHorizontal",
+            "filename": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher.papa",
+            "animations": {
+                "start": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_anim_start.papa",
+                "end": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_anim_end.papa"
+            },
+            "animtree": "/pa/anim/anim_trees/tactical_missile_launcher_anim_tree.json",
+            "skirt_decal": "/pa/effects/specs/skirt_08.json"
+        },
+        {
+            "layer": "WL_WaterSurface",
+            "filename": "/pa/units/sea/tactical_missile_launcher/tactical_missile_launcher.papa",
+            "animations": {
+                "start": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_anim_start.papa",
+                "end": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_anim_end.papa"
+            },
+            "animtree": "/pa/anim/anim_trees/tactical_missile_launcher_anim_tree.json"
+        }
+    ],
+    "tools": [
+        {
+            "spec_id": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_tool_weapon.json",
+            "aim_bone": "bone_missile01",
+            "muzzle_bone": "bone_missile01"
+        },
+        {
+            "spec_id": "/pa/units/land/tactical_missile_launcher/tactical_missile_tool_antidrop.json",
+            "aim_bone": "bone_missile01",
+            "muzzle_bone": "bone_missile01"
+        },
+        {
+            "spec_id": "/pa/units/land/laser_defense/build_arm.json",
+            "aim_bone": "bone_root"
+        }
+    ],
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/factory"
+        },
+        "fired": {
+            "audio_cue": "/SE/Weapons/structure/tact_mis_launcher_catapult_fire",
+            "effect_spec": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_launch.pfx"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/Factory",
+            "effect_scale": 0.5
+        }
+    },
+    "audio": {
+        "selection_response": {
+            "cue": "/SE/Selection/structure/artillery"
+        }
+    },
+    "selection_icon": {
+        "diameter": 18.0
+    },
+    "TEMP_texelinfo": 15.8261,
+    "mesh_bounds": [
+        10,
+        10,
+        8.7
+    ],
+    "placement_size": [
+        18,
+        18
+    ]
+}

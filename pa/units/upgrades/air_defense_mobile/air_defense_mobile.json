@@ -1,0 +1,84 @@
+{
+    "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
+    "display_name": "Rolling Galata Turret",
+    "description": "!LOC:Rolling Anti-Air Defense - Equipped with homing missiles. Only attacks air.",
+    "armor_type": "AT_Custom1",
+    "si_name": "air_defense",
+    "max_health": 1000,
+    "build_metal_cost": 225,
+    "atrophy_rate": 5,
+    "atrophy_cool_down": 15,
+    "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+    "area_build_separation": 50,
+    "alt_area_build_type": "Sphere",
+    "alt_area_build_separation": 50.0,
+    "unit_types": [
+        "UNITTYPE_Mobile",
+        "UNITTYPE_Vehicle",
+        "UNITTYPE_Basic",
+        "UNITTYPE_Land",
+        "UNITTYPE_AirDefense",
+        "UNITTYPE_Defense"
+    ],
+    "guard_layer": "WL_Air",
+    "navigation":{"type":"land-small",
+    "acceleration":18,
+    "brake":-1,
+    "move_speed":11,
+    "turn_speed":70},
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 155
+                }
+            ]
+        }
+    },
+    "model": [
+        {
+            "filename": "/pa/units/upgrades/air_defense_mobile/air_defense_mobile.papa",
+            "animations": {
+                "run": "/pa/units/upgrades/air_defense_mobile/air_defense_mobile_anim_run.papa"
+            },
+            "animtree": "/pa/units/upgrades/air_defense_mobile/air_defense_mobile_anim_tree.json",
+            "walk_speed": 12.0
+        }
+    ],
+    "nearby_target_tick_update_interval": 2,
+    "tools": [
+        {
+            "spec_id": "/pa/units/upgrades/air_defense_mobile/air_defense_mobile_tool_weapon.json",
+            "aim_bone": "bone_pitch",
+            "muzzle_bone": [
+                "socket_rightMuzzle",
+                "socket_leftMuzzle"
+            ]
+        }
+    ],
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/structure_small"
+        },
+        "fired": {
+            "audio_cue": "/SE/Weapons/structure/air_defense_fire",
+            "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_rightMuzzle /pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/structure_small",
+            "effect_scale": 0.5
+        }
+    },
+    "selection_icon": {
+        "diameter": 12.0
+    },
+    "mesh_bounds": [
+        5,
+        5,
+        9
+    ],
+    "TEMP_texelinfo": 9.4493
+}

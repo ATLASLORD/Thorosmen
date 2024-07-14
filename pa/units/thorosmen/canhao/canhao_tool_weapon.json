@@ -1,6 +1,6 @@
 {"base_spec":"/pa/tools/base_laser_turret/base_laser_turret.json",
 "ammo_id":"/pa/units/thorosmen/canhao/canhao_ammo.json",
-"rate_of_fire":0.80,
+"rate_of_fire":0.60,
 "max_range":250,
 "yaw_rate":16,
 "pitch_rate":180,

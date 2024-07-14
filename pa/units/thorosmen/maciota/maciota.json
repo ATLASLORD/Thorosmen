@@ -1,8 +1,8 @@
 {"base_spec":"/pa/units/land/base_structure/base_structure.json",
-"display_name":"Maciota",
+"display_name":"Sky Breaker",
 "description":"!LOC:High damage single shot weapon. Attacks orbital and air targets and intercepts drop pods. NEEDS TO BE CONTROLLED MANUALLY.",
-"max_health":2000,
-"build_metal_cost":7000,
+"max_health":6000,
+"build_metal_cost":9000,
 "atrophy_rate":29.16667,
 "atrophy_cool_down":15.0,
 "spawn_layers":"WL_AnyHorizontalGroundOrWaterSurface",
@@ -17,30 +17,71 @@
 "recon":{"observer":{"items":[{"layer":"surface_and_air","channel":"sight","shape":"capsule","radius":100},
 {"layer":"orbital","channel":"sight","shape":"capsule","radius":500},
 {"layer":"underwater","channel":"sight","shape":"capsule","radius":100}]}},
-"model":[{"layer":"WL_LandHorizontal",
+"model":{
 "filename":"/pa/units/thorosmen/maciota/maciota.papa",
-"animtree":"/pa/anim/anim_trees/ion_defense_anim_tree.json",
-"skirt_decal":"/pa/effects/specs/skirt_ion_defense.json"},
-{"layer":"WL_WaterSurface","filename":"/pa/units/sea/ion_defense/ion_defense.papa",
-"animtree":"/pa/anim/anim_trees/ion_defense_anim_tree.json"}],
+"animations": {"idle": "/pa/units/thorosmen/maciota/maciota_anim_idle.papa"},
+"animtree":"/pa/units/thorosmen/maciota/maciota_anim_tree.json",
+"skirt_decal":"/pa/units/thorosmen/maciota/skirt_maciota.json"},
 
 "tools":[{"spec_id":"/pa/units/thorosmen/maciota/maciota_tool_weapon.json",
 
 "aim_bone":"bone_turret",
 "record_index":0,
-"fire_event":"fired0",
-"muzzle_bone":["socket_muzzle01"]},{"spec_id":"/pa/units/orbital/ion_defense/ion_defense_tool_antidrop.json",
+"fire_event":"fired",
+"muzzle_bone":["socket_muzzle_01"]},{"spec_id":"/pa/units/orbital/ion_defense/ion_defense_tool_antidrop.json",
 "aim_bone":"bone_turret","record_index":1,
 "fire_event":"fired1",
-"muzzle_bone":["socket_muzzle02","socket_muzzle03"]}],
-"events":{"build_complete":{"audio_cue":"/SE/Build_Complete/structure_small"},
-"fired0":{"audio_cue":"/SE/Weapons/orb/umbrella_laser_fire",
-"effect_spec":"/pa/units/thorosmen/maciota/ion_defense_muzzle_flash.pfx socket_muzzle01"},
+"muzzle_bone":["socket_muzzle_01"]}],
+"events":{"build_complete":{"audio_cue": "/VO/Computer/gw/board_tech_available_armor"},
+"fired":{"audio_cue":"/SE/Weapons/orb/umbrella_laser_fire",
+"effect_spec":"/pa/units/thorosmen/maciota/maciota_muzzle.pfx socket_muzzle_01"},
 "fired1":{"audio_cue":"/SE/Weapons/orb/umbrella_mis_anti_unitcannon_fire"},
 "died":{"audio_cue":"/SE/Death/structure_small","effect_scale":2.0}},
+"fx_offsets": [
+    {
+      "type": "idle",
+      "filename": "/pa/units/thorosmen/maciota/discotest.pfx",
+      "bone": "bone_turret",
+      "offset": [0, 0.4, 0],
+      "orientation": [
+                0,
+                -90,
+                0
+            ]},
+            {
+                "type": "idle",
+                "filename": "/pa/units/thorosmen/maciota/cuberingtest.pfx",
+                "bone": "bone_rotor",
+                "offset": [0, 0, 0],
+                "orientation": [
+                          0,
+                          -90,
+                          0
+                      ]},
+                      {
+                        "type": "idle",
+                        "filename": "/pa/units/thorosmen/maciota/electricity_circle.pfx",
+                        "bone": "bone_root",
+                        "offset": [0, 0, 17.5],
+                        "orientation": [
+                                  0,
+                                  -90,
+                                  0
+                              ]},
+                              {
+                                "type": "idle",
+                                "filename": "/pa/units/thorosmen/maciota/elec_circles.pfx",
+                                "bone": "bone_turret",
+                                "offset": [0, 0, 0.4],
+                                "orientation": [
+                                          0,
+                                          0,
+                                          0
+                                      ]}
+  ],
 "lamps":[{"offset":[-8.0,8.0,4.22],"radius":5.0,"color":[1.0,1.0,1.0],
 "intensity":5.75},{"offset":[2.8,-4.8,0],"radius":8.0,"color":[1.0,1.0,1.0],
 "intensity":2.0,"bone":"bone_pitch"},{"offset":[-2.8,-4.8,0],
 "radius":12.0,"color":[1.0,1.0,1.0],"intensity":2.0,"bone":"bone_pitch"}],
-"selection_icon":{"diameter":40.0},"mesh_bounds":[20,21.6558,16.4],
+"selection_icon":{"diameter":60.0},"mesh_bounds":[40,40,60],
 "TEMP_texelinfo":32.1806,"physics":{"collision_layers":"WL_AnyHorizontalGroundOrWaterSurface"}}

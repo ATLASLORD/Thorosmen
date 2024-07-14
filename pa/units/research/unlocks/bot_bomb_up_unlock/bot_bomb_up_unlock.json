@@ -1,0 +1,59 @@
+
+
+  {
+    "base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
+    "display_name":"!LOC:Sonic kamikaze spiders Upgrade",
+    "description":"!LOC:New spiders 1.5x faster, explode on death and do friendly fire",
+    "si_name": "upgrade",
+    "build_metal_cost": 10000,
+    "add_to_spatial_db": false,
+    "model": {
+      "filename": "/pa/units/misc/empty_unit.papa"
+      
+  },
+  
+    "navigation": {
+        "type": "land-small",
+     
+        "move_speed": 0
+     
+    },
+    "physics": {
+  "add_to_spatial_db": false,
+"radius":0.05
+},
+    "unit_types": [
+    
+        "UNITTYPE_Bot",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_Heavy",
+        "UNITTYPE_FactoryBuild",
+        "UNITTYPE_Custom3"    
+
+    ],
+    "recon": {
+  
+      "observer": {
+          "items": [
+              {
+                  "layer": "surface_and_air",
+                  "channel": "radar",
+                  "shape": "capsule",
+                  "radius": 0
+              },
+              {
+                  "layer": "orbital",
+                  "channel": "sight",
+                  "shape": "capsule",
+                  "radius": 0
+              },
+              {
+                  "layer": "underwater",
+                  "channel": "sight",
+                  "shape": "capsule",
+                  "radius": 0
+              }
+          ]
+      }
+  }
+ }

@@ -4,7 +4,7 @@
 "max_health":2400,
 "system_velocity_multiplier":15.0,
 "gravwell_velocity_multiplier":6.0,
-"build_metal_cost":5000,
+"build_metal_cost":9000,
 "usable":true,
 "attachable":{"offsets":{"root":[0,
 0,

@@ -4,6 +4,7 @@
     "display_name": "!LOC:Laser Defense Walking Tower",
     "description": "!LOC:Basic Walking Turret - Equipped with direct fire anti-land, and anti-ship defenses.",
     "armor_type": "AT_Custom1",
+    "si_name": "laser_defense",
     "max_health": 1500,
     "build_metal_cost": 350,
     "atrophy_rate": 7.5,
@@ -47,12 +48,11 @@
             "animations": {
                 "walk": "/pa/units/land/laser_defense_legged/laser_defense_legged_anim_walk.papa",
                 "idle": "/pa/units/land/laser_defense_legged/laser_defense_legged_anim_idle.papa",
-                "walk_stop": "/pa/units/land/laser_defense_legged/laser_defense_legged_anim_walkStop.papa"
+                "walk_stop": "/pa/units/land/laser_defense_legged/laser_defense_legged_anim_walk_stop.papa"
             },
 
             "animtree": "/pa/units/land/laser_defense_legged/laser_defense_legged_anim_tree.json",
-            "walk_speed": 7.0,
-            "skirt_decal": "/pa/effects/specs/skirt_defense.json"
+            "walk_speed": 7.0
         }
     ],
     "tools": [

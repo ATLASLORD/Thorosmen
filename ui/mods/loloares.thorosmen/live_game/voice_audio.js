@@ -40,7 +40,8 @@ try
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_unit_upgrade_available', dir + 'elysium_lost.ogg')
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_dismissed', dir + 'tripod_ascend.ogg');
       api.audio.registerCueMod('/VO/Computer/gw/board_tech_level_unlocked', dir + 'atat_build_complete.ogg'),
-      api.audio.registerCueMod('/VO/Computer/gw/board_tech_deleted', dir + 'elysium_build_complete.ogg')
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_deleted', dir + 'elysium_build_complete.ogg'),
+      api.audio.registerCueMod('/VO/Computer/gw/board_tech_available_armor', dir + 'sky_breaker_build_complete.ogg')
 
     }
     _.defer(audioModdingTest);

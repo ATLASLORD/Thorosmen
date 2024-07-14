@@ -1,0 +1,99 @@
+{
+    "base_spec": "/pa/units/land/base_bot/base_bot.json",
+    "display_name": "Walking Catapult",
+    "description": "!LOC:Walking Tactical Missile Launcher - Long range with very heavy damage. Attacks land, sea, and orbital targets.",
+    "armor_type": "AT_Custom1",
+    "si_name": "tactical_missile_launcher",
+    "max_health": 1500,
+    "build_metal_cost": 1800,
+    "atrophy_rate": 30.0,
+    "atrophy_cool_down": 15.0,
+    "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+    "unit_types": [
+        "UNITTYPE_Mobile",
+        "UNITTYPE_Bot",
+        "UNITTYPE_Land",
+        "UNITTYPE_Tactical",
+        "UNITTYPE_Defense",
+        "UNITTYPE_Advanced"
+    ],
+    "guard_layer": "WL_AnySurface",
+    "navigation":{"type":"land-small",
+    "acceleration":6,
+    "brake":-1,
+    "move_speed":8,
+    "turn_speed":20},
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 100
+                },
+                {
+                    "layer": "underwater",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 100
+                }
+            ]
+        }
+    },
+    "model": [
+        {
+            "filename": "/pa/units/upgrades/tactical_missile_launcher_mobile/tactical_missile_launcher_mobile.papa",
+            "animations": {
+                "walk": "/pa/units/upgrades/tactical_missile_launcher_mobile/tactical_missile_launcher_mobile_anim_walk.papa",
+                "idle": "/pa/units/upgrades/tactical_missile_launcher_mobile/tactical_missile_launcher_mobile_anim_idle.papa",
+                "walk_stop": "/pa/units/upgrades/tactical_missile_launcher_mobile/tactical_missile_launcher_mobile_walkStop.papa"
+            },
+            "animtree": "/pa/units/upgrades/tactical_missile_launcher_mobile/tactical_missile_launcher_mobile_anim_tree.json",
+            "walk_speed": 8.0
+        }
+    ],
+    "tools": [
+        {
+            "spec_id": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_tool_weapon.json",
+            "aim_bone": "bone_missile01",
+            "muzzle_bone": "bone_missile01"
+        },
+        {
+            "spec_id": "/pa/units/land/tactical_missile_launcher/tactical_missile_tool_antidrop.json",
+            "aim_bone": "bone_missile01",
+            "muzzle_bone": "bone_missile01"
+        }
+    ],
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/factory"
+        },
+        "fired": {
+            "audio_cue": "/SE/Weapons/structure/tact_mis_launcher_catapult_fire",
+            "effect_spec": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_launch.pfx"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/Factory",
+            "effect_scale": 0.5
+        }
+    },
+    "audio": {
+        "selection_response": {
+            "cue": "/SE/Selection/structure/artillery"
+        }
+    },
+    "selection_icon": {
+        "diameter": 18.0
+    },
+    "TEMP_texelinfo": 15.8261,
+    "mesh_bounds": [
+        10,
+        10,
+        8.7
+    ],
+    "placement_size": [
+        18,
+        18
+    ]
+}

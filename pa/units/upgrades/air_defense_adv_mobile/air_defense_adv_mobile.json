@@ -1,0 +1,87 @@
+{
+    "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
+    "display_name": "Rolling Flak Cannon",
+    "description": "!LOC:Rolling Advanced Anti-Air - Overhead heavy damage. Only attacks air.",
+    "armor_type": "AT_Custom1",
+    "si_name": "air_defense_adv",
+    "max_health": 2000,
+    "build_metal_cost": 900,
+    "atrophy_rate": 26.66667,
+    "atrophy_cool_down": 15,
+    "area_build_separation": 72,
+    "alt_area_build_type": "Sphere",
+    "alt_area_build_separation": 58.0,
+    "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+    "unit_types": [
+        "UNITTYPE_Mobile",
+        "UNITTYPE_Vehicle",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_Land",
+        "UNITTYPE_AirDefense",
+        "UNITTYPE_Defense"
+    ],
+    "guard_layer": "WL_Air",
+    "navigation":{"type":"land-small",
+    "acceleration":18,
+    "brake":-1,
+    "move_speed":11,
+    "turn_speed":70},
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 155
+                }
+            ]
+        }
+    },
+    "model": [
+        {
+            "filename": "/pa/units/upgrades/air_defense_adv_mobile/air_defense_adv_mobile.papa",
+            "animations": {
+                "run": "/pa/units/upgrades/air_defense_adv_mobile/air_defense_adv_mobile_anim_run.papa"
+            },
+            "animtree": "/pa/units/upgrades/air_defense_adv_mobile/air_defense_adv_mobile_anim_tree.json",
+            "walk_speed": 12.0
+        }
+    ],
+    "nearby_target_tick_update_interval": 3,
+    "tools": [
+        {
+            "spec_id": "/pa/units/land/air_defense_adv/air_defense_adv_tool_weapon.json",
+            "aim_bone": "bone_pitch",
+            "projectiles_per_fire": 4,
+            "muzzle_bone": [
+                "socket_rightMuzzle01",
+                "socket_leftMuzzle01",
+                "socket_rightMuzzle02",
+                "socket_leftMuzzle02"
+            ]
+        }
+    ],
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/structure_small"
+        },
+        "fired": {
+            "audio_cue": "/SE/Weapons/structure/air_defense_flak_fire",
+            "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_rightMuzzle01 /pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle01 /pa/effects/specs/default_muzzle_flash.pfx socket_rightMuzzle02 /pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle02"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/structure_small",
+            "effect_scale": 0.5
+        }
+    },
+    "selection_icon": {
+        "diameter": 16.0
+    },
+    "mesh_bounds": [
+        7,
+        7,
+        9.4
+    ],
+    "TEMP_texelinfo": 9.09853
+}

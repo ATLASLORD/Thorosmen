@@ -1,0 +1,87 @@
+{
+    "base_spec": "/pa/units/land/base_structure/base_structure.json",
+    "unit_name": "laser defense adv legged build",
+    "display_name": "!LOC:Walking Advanced Laser Turret.",
+    "description": "!LOC:It can... Walk?",
+    "si_name": "empty",
+    "max_health": 5000,
+    "build_metal_cost": 900,
+    "unit_types": [
+        "UNITTYPE_Important",
+        "UNITTYPE_FactoryBuild",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_Defense",
+        "UNITTYPE_Custom9"
+    ], 
+    "wreckage_health_frac": 0.0,
+    "death_weapon": {
+        "ground_ammo_spec": "/pa/units/land/laser_defense_legged_build/laser_defense_legged_build_death_weapon.json"
+    },
+    "spawn_unit_on_death": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged.json",
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 110
+                },
+                {
+                    "layer": "underwater",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 110
+                }
+            ]
+        }
+    },
+    "navigation": {
+        "type": "air",
+        "acceleration": 0,
+        "brake": 0,
+        "move_speed": 0,
+        "turn_speed": 0,
+        "dodge_radius": 0,
+        "dodge_multiplier": 0.0,
+        "wobble_factor": 0.0,
+        "wobble_speed": 0.0
+    },
+    "model": {
+        "filename": "/pa/units/land/laser_defense_adv/laser_defense_adv.papa"
+    },
+    "events": {
+        "died": {
+            "audio_cue": "",
+            "effect_spec": "/pa/units/land/laser_defense_legged_build/death.pfx",
+            "effect_scale": -1
+        }
+    },
+    "death": {
+        "decals": [
+            "/pa/units/land/laser_defense_legged_build/decal.json"
+        ]
+    },
+    "tools": [
+        {
+          "aim_bone": "bone_root",
+          "muzzle_bone": "bone_root",
+          "record_index": 0,
+          "show_range": false,
+          "spec_id": "/pa/units/land/laser_defense_legged_build/weapon_death.json"
+        }
+      ],
+    "selection_icon": {
+        "diameter": 0
+    },
+    "placement_size": [
+        40,
+        55
+    ],
+    "TEMP_texelinfo": 36.3223,
+    "mesh_bounds": [0.01, 0.01, 0.01],
+    "physics": {
+        "radius": 0,
+        "add_to_spatial_db": false
+    }
+}

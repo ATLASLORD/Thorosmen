@@ -45,45 +45,7 @@
     "acceleration": 2,
     "brake": -1,
     "move_speed": 4,
-    "turn_speed": 6,
-    "park_stamp": {
-            "shape": "sphere",
-            "cost": 5,
-            "type_data": [
-                {
-                    "move_type": "land-small",
-                    "stamp_type": "structure"
-                },
-                {
-                    "move_type": "amphibious",
-                    "stamp_type": "structure"
-                },
-                {
-                    "move_type": "amphibious-large",
-                    "stamp_type": "simple"
-                },
-                {
-                    "move_type": "hover",
-                    "stamp_type": "structure"
-                },
-                {
-                    "move_type": "water-hover",
-                    "stamp_type": "structure"
-                },
-                {
-                    "move_type": "hover-large",
-                    "stamp_type": "simple"
-                },
-                {
-                    "move_type": "deepwater",
-                    "stamp_type": "structure"
-                },
-                {
-                    "move_type": "underwater",
-                    "stamp_type": "structure"
-                }
-            ]
-        }
+    "turn_speed": 6
   },
   "physics": {
     "radius": 5.0

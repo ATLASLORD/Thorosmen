@@ -1,0 +1,91 @@
+{
+    "base_spec": "/pa/units/land/base_bot/base_bot.json",
+    "unit_name": "Advanced Laser Defense Walking Tower",
+    "display_name": "!LOC:Advanced Laser Defense Walking Tower",
+    "description": "!LOC:Advanced Walking Turret - Equipped with direct fire anti-land, and anti-ship defenses.",
+    "armor_type": "AT_Custom1",
+    "si_name": "laser_defense_adv",
+    "max_health": 4000,
+    "build_metal_cost": 900,
+    "atrophy_rate": 15.0,
+    "atrophy_cool_down": 15.0,
+    "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+    "unit_types": [
+        "UNITTYPE_Mobile",
+        "UNITTYPE_Bot",
+        "UNITTYPE_Advanced",
+        "UNITTYPE_Land",
+        "UNITTYPE_SurfaceDefense",
+        "UNITTYPE_Defense"
+    ],
+    "guard_layer": "WL_AnySurface",
+    "navigation":{"type":"land-small",
+    "acceleration":18,
+    "brake":-1,
+    "move_speed":9,
+    "turn_speed":70},
+    "recon": {
+        "observer": {
+            "items": [
+                {
+                    "layer": "surface_and_air",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 130
+                },
+                {
+                    "layer": "underwater",
+                    "channel": "sight",
+                    "shape": "capsule",
+                    "radius": 130
+                }
+            ]
+        }
+    },
+    "model": [
+        {
+            "filename": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged.papa",
+            "animations": {
+                "walk": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged_anim_walk.papa",
+                "idle": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged_anim_idle.papa",
+                "walk_stop": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged_anim_walk_stop.papa"
+            },
+
+            "animtree": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged_anim_tree.json",
+            "walk_speed": 7.0
+        }
+    ],
+    "tools": [
+        {
+            "spec_id": "/pa/units/upgrades/laser_defense_adv_legged/laser_defense_adv_legged_tool_weapon.json",
+            "aim_bone": "bone_pitch",
+            "muzzle_bone": [
+                "socket_rightMuzzle",
+                "socket_centerMuzzle",
+                "socket_leftMuzzle"
+            ]
+        }
+    ],
+    "events": {
+        "build_complete": {
+            "audio_cue": "/SE/Build_Complete/structure_small"
+        },
+        "fired": {
+            "audio_cue": "/SE/Weapons/structure/laser_defense_ADV_fire",
+            "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_rightMuzzle /pa/effects/specs/default_muzzle_flash.pfx socket_centerMuzzle /pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle"
+        },
+        "died": {
+            "audio_cue": "/SE/Death/structure_small",
+            "effect_scale": 0.75
+        }
+    },
+    "selection_icon": {
+        "diameter": 15.0
+    },
+    "mesh_bounds": [
+        8,
+        8,
+        23
+    ],
+    "TEMP_texelinfo": 15.3609
+}
