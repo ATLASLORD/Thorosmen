@@ -1,6 +1,6 @@
 {
     "base_spec": "/pa/units/land/base_bot/base_bot.json",
-    "display_name": "Tilha",
+    "display_name": "Rainbringer",
     "description": "Semi titan grenadier anti land unit. Durable",
     "max_health": 12500,
     "build_metal_cost": 10000,
@@ -71,9 +71,8 @@
         "animations": {
             "death": "/pa/units/thorosmen/st_colum/st_colum_anim_death.papa",
             "walk": "/pa/units/thorosmen/st_colum/st_colum_anim_walk.papa",
+            "walk_stop": "/pa/units/thorosmen/st_colum/st_colum_anim_walkStop.papa",
             "idle": "/pa/units/thorosmen/st_colum/st_colum_anim_idle.papa",
-            "aim_up":"/pa/units/thorosmen/st_colum/st_colum_anim_aimUp.papa",
-			"aim_down":"/pa/units/thorosmen/st_colum/st_colum_anim_aimDown.papa",
             "dead": "/pa/units/thorosmen/st_colum/st_colum_anim_dead.papa"
         },
         "animtree": "/pa/units/thorosmen/st_colum/st_colum_anim_tree.json",
@@ -82,34 +81,15 @@
     "tools": [
         {
             "spec_id": "/pa/units/thorosmen/st_colum/st_colum_tool_weapon.json",
-            "aim_bone": "bone_rightShoulder",
+            "aim_bone": "socket_aim",
+            "projectiles_per_fire": 6,
             "muzzle_bone": [
-                "tiro1",
-                "tiro1"
-            ]
-        },
-        {
-            "spec_id": "/pa/units/thorosmen/st_colum/st_colum_tool_weapon.json",
-            "aim_bone": "bone_rightShoulder",
-            "muzzle_bone": [
-                "tiro2",
-                "tiro2"
-            ]
-        },
-        {
-            "spec_id": "/pa/units/thorosmen/st_colum/st_colum_tool_weapon.json",
-            "aim_bone": "bone_rightShoulder",
-            "muzzle_bone": [
-                "tiro3",
-                "tiro3"
-            ]
-        },
-        {
-            "spec_id": "/pa/units/thorosmen/st_colum/st_colum_tool_weapon.json",
-            "aim_bone": "bone_rightShoulder",
-            "muzzle_bone": [
-                "tiro4",
-                "tiro4"
+                "socket_muzzle",
+                "socket_muzzle",
+                "socket_muzzle",
+                "socket_muzzle",
+                "socket_muzzle",
+                "socket_muzzle"
             ]
         }
     ],
@@ -119,8 +99,8 @@
         },
         "fired": {
             "audio_cue": "/SE/Weapons/old/rocket_fire",
-            "effect_spec": "/pa/effects/specs/tank_muzzle_flash.pfx tiro1 /pa/effects/specs/tank_muzzle_flash.pfx tiro1",
-            "effect_scale": 2.0
+            "effect_spec": "/pa/effects/specs/tank_muzzle_flash.pfx socket_muzzle",
+            "effect_scale": 3.0
         },
         "died": {
             "audio_cue": "/SE/Death/Bot",

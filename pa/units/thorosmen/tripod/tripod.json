@@ -46,7 +46,7 @@
     "type": "amphibious",
     "acceleration": 5,
     "brake": -1,
-    "move_speed": 5,
+    "move_speed": 6,
     "turn_speed": 18,
     "group_preference": "back"
   },
@@ -91,7 +91,7 @@
       "dead": "/pa/units/thorosmen/st_ilegal/st_ilegal_anim_dead.papa"
     },
     "animtree": "/pa/units/thorosmen/tripod/tripod_anim_tree.json",
-    "walk_speed": 5
+    "walk_speed": 6
   },
   "tools": [
     {
