@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
-"display_name":"Tanabe",
-"description":"!LOC:Tanky Tank. Medium-long range, lots of health. Medium-high damage with a big damage area.",
+"display_name":"Pulverizer",
+"description":"!LOC:Tanky Tank. Medium-long range. Fires a projectile that deals Area damage upon impact.",
 "max_health":7000,
 "build_metal_cost":6000,
 "influence_radius":400,
