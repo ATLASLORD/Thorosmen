@@ -2,7 +2,6 @@
 "damage":7900,
 "splash_damage":0,
 "splash_radius":0,
-"physics": {"add_to_spatial_db": true},
 "collision_check":"target",
 "collision_response":"impact",
 "fx_beam_spec":"/pa/units/thorosmen/bot_sniper_big/bot_sniper_big_beam.pfx",

@@ -1,0 +1,29 @@
+{"ammo_type": "AMMO_Beam",
+    "audio_loop": "/SE/Impacts/laser_blast",
+    "collision_audio": "/SE/Impacts/laser_blast",
+    "recon": {
+        "observable": {
+            "ignore_radar": true
+        }
+    },
+"damage": 1000,
+    "splash_damage": 1000,
+    "splash_radius": 20,
+    "full_damage_splash_radius": 3,
+    "collision_check":"target",
+"collision_response":"impact",
+"armor_damage_map": {
+    "AT_Custom0":0,
+    "AT_Custom4":0,
+    "AT_Air": 0,
+    "AT_Bot": 0,
+    "AT_Hover": 0,
+    "AT_Naval": 0,
+    "AT_Commander": 0,
+    "AT_None": 0,
+    "AT_Orbital": 0,
+    "AT_Structure": 0,
+    "AT_Vehicle": 1
+  },
+"fx_beam_spec":"/pa/units/thorosmen/bot_sniper_big/bot_sniper_big_beam.pfx",
+"fx_collision_spec":"/pa/units/thorosmen/bot_sniper_big/aoe_shock_explosion_v2.pfx"}

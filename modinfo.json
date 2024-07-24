@@ -12,6 +12,7 @@
     "enabled": true,
     "category": [
         "balance",
+        "server",
         "addon",
         "unit",
         "titans"
@@ -27,15 +28,19 @@
       "coui://ui/mods/loloares.thorosmen/live_build_bar.js"
     ],
         "live_game": [
-          "coui://ui/mods/loloares.thorosmen/live_game/voice_audio.js",
-          "coui://ui/mods/loloares.thorosmen/js/audio.js",
-          "coui://ui/mods/loloares.thorosmen/live_game/selection_audio.js",
           "coui://ui/mods/loloares.thorosmen/research.js",
-          "coui://ui/mods/loloares.thorosmen/research_live_game.js"
+          "coui://ui/mods/loloares.thorosmen/research_live_game.js",
+          "coui://ui/mods/loloares.thorosmen/js/audio.js"
     ]
     },
+    "dependencies": [
+    "com.pa.loloares.thorosmen-client"
+  ],
+  "companions": [
+    "com.pa.loloares.thorosmen-client"
+  ],
     "context": "server",
-    "date": "2024-07-14",
+    "date": "2024-07-21",
     "build": "120799",
-    "version": "2.6.1"
+    "version": "2.6.2"
 }

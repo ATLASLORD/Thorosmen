@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/ammo/base_shell/base_shell.json",
-  "damage": 30,
-  "full_damage_splash_radius": 4,
-  "splash_damage": 60,
-  "splash_radius": 6,
+  "damage": 50,
+  "full_damage_splash_radius": 8,
+  "splash_damage": 200,
+  "splash_radius": 8,
   "splash_damages_allies": false,
   "initial_velocity": 160.0,
   "max_velocity": 160.0,
@@ -14,9 +14,9 @@
     "radius": 1,
     "gravity_scalar": 8,
     "add_to_spatial_db": false,
-    "allow_underground": true
+    "allow_underground": false
   },
-  "model":{"filename":"/pa/units/thorosmen/gigatank/empty_shell.papa"},
+  "model":{"filename":"/pa/units/generic/placeholder_proj/placeholder_proj.papa"},
   "fx_trail": {
     "filename": "/pa/units/thorosmen/gigatank/gigatank_ammo_trail.pfx"
   },
