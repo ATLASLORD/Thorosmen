@@ -11,6 +11,6 @@
     "AT_Hover": 2
   },
     "fx_trail": {
-        "filename": "/pa/units/land/laser_defense_adv/laser_defense_adv_ammo_trail.pfx"
+        "filename": "/pa/units/thorosmen/atat/laser_defense_adv_ammo_trail.pfx"
     }
 }
