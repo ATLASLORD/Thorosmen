@@ -1,8 +1,8 @@
 {"base_spec":"/pa/ammo/base_bullet/base_bullet.json",
 "damage":1350,
 "initial_velocity":500.0,
-"splash_damage":130,
-"splash_radius":40,
+"splash_damage":600,
+"splash_radius":20,
 "max_velocity":450.0,
 "lifetime":0.7,
 "impact_decals":["/pa/effects/specs/scorch_b_01.json"],
@@ -12,7 +12,7 @@
 1.0,
 0.0],
 "effect_scale":3.0},
-"events":{"died":{"audio_cue":"/SE/Impacts/missile_artillery_short","effect_spec":"/pa/effects/specs/default_building_explosion.pfx"}}}
+"events":{"died":{"audio_cue":"/SE/Impacts/missile_artillery_short","effect_spec":"/pa/units/thorosmen/prex/prex_ammo_hit.pfx"}}}
 
 
 
