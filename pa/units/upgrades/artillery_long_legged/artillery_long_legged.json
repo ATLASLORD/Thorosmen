@@ -58,7 +58,7 @@
     "nearby_target_tick_update_interval": 30,
     "tools": [
         {
-            "spec_id": "/pa/units/land/artillery_long/artillery_long_tool_weapon.json",
+            "spec_id": "/pa/units/upgrades/artillery_long_legged/artillery_long_legged_tool_weapon.json",
             "aim_bone": "socket_aim",
             "muzzle_bone": "socket_muzzle"
         }
