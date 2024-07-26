@@ -8,6 +8,11 @@
   "splash_damages_allies": true, 
   "splash_radius": 120,
   "armor_damage_map": {
+    "AT_Custom0":-1,
+    "AT_Custom1":-1,
+    "AT_Custom2":-1,
+    "AT_Custom3":-1,
+    "AT_Custom4":-1,
     "AT_Air": -1,
     "AT_Bot": -1,
     "AT_Commander": -1,

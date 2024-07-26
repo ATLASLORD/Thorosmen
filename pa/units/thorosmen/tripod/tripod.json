@@ -46,7 +46,7 @@
     "type": "amphibious",
     "acceleration": 5,
     "brake": -1,
-    "move_speed": 6,
+    "move_speed": 7,
     "turn_speed": 18,
     "group_preference": "back"
   },
