@@ -43,7 +43,7 @@
     "acceleration": 15,
     "vertical_speed": 30,
     "brake": 40,
-    "move_speed": 16,
+    "move_speed": 15,
     "turn_speed": 45,
     "dodge_radius": 0,
     "dodge_multiplier": 0.0,
@@ -71,13 +71,13 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 220
+          "radius": 240
         },
         {
           "layer": "underwater",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 220
+          "radius": 240
         }
       ]
     }

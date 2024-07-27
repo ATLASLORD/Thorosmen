@@ -96,6 +96,7 @@
         "UNITTYPE_CmdBuild",
         "UNITTYPE_FabBuild",
         "UNITTYPE_FabAdvBuild",
+        "UNITTYPE_CombatFabAdvBuild",
         "UNITTYPE_Important"
     ],
     "command_caps": [

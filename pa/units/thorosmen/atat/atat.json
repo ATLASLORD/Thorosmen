@@ -81,7 +81,7 @@
     },
     "animtree": "/pa/units/thorosmen/atat/atat_anim_tree.json",
     "arrows": 5,
-    "walk_speed": 4
+    "walk_speed": 4.5
   },
   "tools": [
     {
