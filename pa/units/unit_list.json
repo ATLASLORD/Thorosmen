@@ -209,6 +209,7 @@
         "/pa/units/thorosmen/tank_decoy_little/tank_decoy_little.json",
         "/pa/units/thorosmen/thorondor/thorondor.json",
         "/pa/units/thorosmen/bot_drone/bot_drone.json",
+        "/pa/units/thorosmen/bot_drone/boombot_air/boombot_air.json",
         "/pa/units/thorosmen/bot_tp/bot_tp.json",
         "/pa/units/thorosmen/tank_shield/tank_shield.json",
         "/pa/units/thorosmen/bot_tree/bot_tree.json",
