@@ -13,7 +13,7 @@
 "model":{"filename":"/pa/units/air/shell_large/shell_large.papa"},
 "offset":[0.0,
 1.0,
-0.0]},
+0.0],
 "audio_loop":"/SE/Movement/missile/artillery_long_missile_fly_loop",
 "events":{"died":{"audio_cue":"/SE/Impacts/missile_artillery_long_holkins",
 "effect_spec":""}}}
