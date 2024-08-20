@@ -24,12 +24,7 @@
         "icon_atlas": [
             "coui://ui/mods/loloares.thorosmen/icon_atlas.js"
         ],
-        "live_game_build_bar": [
-      "coui://ui/mods/loloares.thorosmen/live_build_bar.js"
-    ],
         "live_game": [
-          "coui://ui/mods/loloares.thorosmen/research.js",
-          "coui://ui/mods/loloares.thorosmen/research_live_game.js",
           "coui://ui/mods/loloares.thorosmen/js/audio.js"
     ]
     },
@@ -42,5 +37,5 @@
     "context": "server",
     "date": "2024-08-02",
     "build": "120799",
-    "version": "2.7.0"
+    "version": "2.7.1"
 }
