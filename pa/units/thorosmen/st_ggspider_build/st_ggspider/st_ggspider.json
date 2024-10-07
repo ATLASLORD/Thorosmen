@@ -21,6 +21,10 @@
 "UNITTYPE_Advanced",
 "UNITTYPE_Offense",
 "UNITTYPE_SelfDestruct"],
+"command_caps": [
+        "ORDER_Move",
+        "ORDER_Use"
+    ],
 "has_death_effects": true,
 "transportable":{"size":1},
 "guard_layer":"WL_LandHorizontal",
