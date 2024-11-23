@@ -3,7 +3,7 @@
 "id":"/pa/units/thorosmen/cuzeta/cuzeta_ammo.json"}],
 "rate_of_fire":10.0,
 "idle_aim_delay":1.0,
-"max_range":130,
+"max_range":115,
 "yaw_rate":250,
 "pitch_rate":360,
 "yaw_range":180,
