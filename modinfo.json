@@ -23,10 +23,7 @@
         ],
         "icon_atlas": [
             "coui://ui/mods/loloares.thorosmen/icon_atlas.js"
-        ],
-        "live_game": [
-          "coui://ui/mods/loloares.thorosmen/js/audio.js"
-    ]
+        ]
     },
     "dependencies": [
     "com.pa.loloares.thorosmen-client"
