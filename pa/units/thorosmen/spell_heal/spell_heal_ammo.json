@@ -31,7 +31,7 @@
 "sim_impact_effect":"/pa/units/thorosmen/spell_heal/spell_heal_ammo_explosion_ent.json",
 "spawn_unit_on_death": "/pa/units/thorosmen/spell_heal/minion/spell_heal_minion.json",
 "events":{"collided":{"audio_cue":"/SE/Impacts/missile_seeking",
-"effect_spec":"/pa/effects/spec/none.pfx",
+"effect_spec":"/pa/effects/specs/none.pfx",
 "effect_world_aligned":false}},
 "audio_loop":"/SE/Movement/missile/bot_tactical_missile_fly_loop",
 "physics":{"radius":1,
