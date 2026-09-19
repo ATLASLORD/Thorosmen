@@ -1,8 +1,6 @@
 var paeiouIcons = [
     "tank_drone",
     "drone_land",
-    "orbital_lander_adv",
-    "artillery_nuke",
     "tank_decoy",
     "tank_decoy_little",
     "thorondor",
@@ -35,7 +33,6 @@ var paeiouIcons = [
     "st_ilegal",
     "bot_shield_wall",
     "titan_radar",
-    "artillery_nuke_ammo",
     "dagua",
     "st_colum",
     "lolis",

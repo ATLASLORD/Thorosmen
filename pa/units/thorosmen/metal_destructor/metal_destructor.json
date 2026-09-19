@@ -48,7 +48,7 @@
 "effect_spec":"/pa/units/thorosmen/metal_destructor/l_necromancer_explosion.pfx",
 "effect_scale":1.0},
 "fired":{"audio_cue":"/SE/Weapons/veh/tank_flame",
-"effect_spec":"/pa/units/thorosmen/metal_destructor/metal_destructor_stomp_ent",
+"effect_spec":"/pa/units/thorosmen/metal_destructor/metal_destructor_stomp_ent.json",
 "effect_scale":1.0}},
 "audio":{"selection_response":{"cue":"/SE/Selection/structure/energy"}},
 "fx_offsets":[{"type":"idle",

@@ -73,7 +73,7 @@
     "animations": {
       "deploy": "/pa/units/thorosmen/atat/atat_anim_lol.papa",
       "walk_stop": "/pa/units/thorosmen/atat/atat_anim_walkStop.papa",
-      "build": "/pa/units/thorosmen/tripod/atat_anim_restpose.papa",
+      "build": "/pa/units/thorosmen/atat/atat_anim_restpose.papa",
       "walk": "/pa/units/thorosmen/atat/atat_anim_walk.papa",
       "idle": "/pa/units/thorosmen/atat/atat_anim_idle.papa",
       "death": "/pa/units/thorosmen/atat/atat_anim_death.papa",

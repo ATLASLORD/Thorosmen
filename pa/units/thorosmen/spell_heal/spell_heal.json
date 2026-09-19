@@ -39,9 +39,6 @@
 "radius":100}]}},
 "model":{
 "filename":"/pa/units/thorosmen/spell_heal/spell_heal.papa",
-"animations":{"start":"/pa/units/thorosmen/spell_heal/spell_heal_anim_start.papa",
-"end":"/pa/units/thorosmen/spell_heal/spell_heal_anim_end.papa"},
-"animtree":"/pa/anim/anim_trees/tactical_missile_launcher_anim_tree.json",
 "skirt_decal":"/pa/effects/specs/skirt_08.json"},
 "tools":[{"spec_id":"/pa/units/thorosmen/spell_heal/spell_heal_tool_weapon.json",
 "aim_bone":"bone_missile01",
